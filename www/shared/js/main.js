@@ -114,7 +114,7 @@ $('document').ready(function(){
     /* Skill detail */
     idInfo.append('<h3>' + commonLang['hero_skill'] + '</h3><p class="note">' + commonLang['btn_tap'] + '</p><div class="ui-grid-c lvg_skills detail"></div>');
     for(i=0; i<4; i++){
-      idInfo.find('.lvg_skills.detail').append('<div class="ui-block-' + getBlockChar(i+1) + '"><a href="#' + heroId + '_Skill' + (i+1) + '" class="ui-btn skill" data-rel="popup" data-position-to="window" style="background-image: url('+ imgShared +'champs/' + heroId + '/skill' + (i+1) + '.png)"></a><div data-role="popup" id="' + heroId + '_Skill' + (i+1) + '" class="ui-content" data-theme="a">' + popupClose + '<strong>' + mainSkill[i].name + '</strong><p>' + mainSkill[i].info + '</p><p data-videoid="' + heroId + '/' + (i+1) + '" class="btn-videotag">Xem kỹ năng</p></div></div>');
+      idInfo.find('.lvg_skills.detail').append('<div class="ui-block-' + getBlockChar(i+1) + '"><a href="#' + heroId + '_Skill' + (i+1) + '" class="ui-btn skill" data-rel="popup" data-position-to="window" style="background-image: url('+ imgShared +'champs/' + heroId + '/skill' + (i+1) + '.png)"></a><div data-role="popup" id="' + heroId + '_Skill' + (i+1) + '" class="ui-content" data-theme="a">' + popupClose + '<strong>' + mainSkill[i].name + '</strong><p>' + mainSkill[i].info + '</p></div></div>');
     }
     idInfo.find('.lvg_skills.detail').append('<div data-role="popup" id="' + heroId + '_Skill0" class="ui-content" data-theme="a">' + popupClose + '<strong>' + commonLang['normal_skill'] + '</strong><p>' + commonLang['normal_skill_info'] + '</p></div>');
 

@@ -10146,20 +10146,20 @@ var infoHeros = {
 		},
 		"main_skill": [
 			{
-				"name": "Cuốc lửa",
-				"info": "Nội tại: mỗi 50 máu tối đa giúp tăng 1 công phép, ngoài ra các đòn đánh thường thứ 3 trúng đích sẽ giúp hồi 8% năng lượng tối đa, đồng thời khắc 1 dấu ấn cuốc lửa lên nạn nhân trong 5s.",
+				"name": "CƯỜNG TRÁNG",
+				"info": "Nội tại: Baldum mặc định tăng thêm 18% giáp, mỗi đòn đánh thường của Baldum gây thêm 20 + (3% giáp vật lý) sát thương phép.",
 			},
 			{
-				"name": "Patin lửa",
-				"info": "ST Gốc: 35/45/55/65/75/85<br>H.Chiêu: 5<br>Roxie tự tiêu hao năng lượng liên tục suốt 5s để duy trì vệt lửa dưới đôi patin khiến mọi nơi cô lướt qua đều bùng cháy trong 2.5s, tàn lửa gây 35 (+ công phép) STP mỗi 0.5s lên các đơn vị trong vùng ảnh hưởng, tối đa cộng dồn 3 lần, nếu nạn nhân trúng chiêu đang chịu dấu ấn cuốc lửa sẽ khiến Roxie được hồi 1% máu đã tổn thất (tăng lên 2% nếu nạn nhân là tướng địch), hiệu ứng này không cộng dồn."
+				"name": "VẬT TỔ VỖ TẤT",
+				"info": "Hồi chiêu: 12/11,6/11,2/10,8/10,4/10 giây<br>Tiêu hao: 60/65/70/75/80/85 năng lượng<br>Baldum lao theo hướng chỉ định, gây 175/225/275/325/375/425 (+0.3 Giáp bản thân) (+0.5 Công vật lý) sát thương vật lý và hất tung lên những kẻ địch trúng chiêu dọc đường; khi tông phải tướng địch sẽ dừng lại rồi múa vũ khí hất kẻ địch ra sau, gây thêm 8% máu tối đa của mục tiêu sát thương vật lý, và làm chậm 90% tốc chạy trong 1 giây."
 			},
 			{
-				"name": "Ba lô lửa",
-				"info": "ST Gốc: 150/200/250/300/350/400<br>H.Chiêu: 12/11.6/11.2/10.8/10.4/10<br>Roxie tăng 20% tốc chạy và tạo lá chắn lửa giúp chặn 150 (+207) (6% máu tối đa) ST trong 3s.<br>Suốt thời gian này các kẻ địch va phải Roxie sẽ bị làm chậm 50% tốc chạy trong 1.5s.",
+				"name": "ĐỊA CHẤN",
+				"info": "Hồi chiêu: 9 giây<br>Tiêu hao: 50 năng lượng<br>Baldum dậm mạnh lên mặt đất tạo sóng chấn động gây 175/225/275/325/375/425 (+0.3 Giáp bản thân) (+0.5 Công vật lý) sát thương vật lý, tổng cộng 6 lần lên những kẻ địch lân cận, và làm chậm 30% tốc chạy từ các mục tiêu, ngoài ra hiệu ứng còn khiến các sát thương vật lý từ những nạn nhân này lên Baldum bị giảm 15/18/21/24/27/30% trong 1 giây. Mỗi tướng địch trúng chiêu giảm 0.3 giây hồi chiêu thức này.",
 			},
 			{
-				"name": "Keo lửa",
-				"info": "ST Gốc: 75/100/125<br>H.Chiêu: 40/36/32<br>% máu hiện tại: 4%/5%/6%<br>Agnie bay đến lôi mục tiêu đầu tiên tóm được về phía bản thân trong 2.5s và giúp Roxie làm mới thời gian hồi Patin lửa, đồng thời khắc dấu ấn cuốc lửa lên nạn nhân và gây 75 (+4% máu hiện tại mục tiêu) STP sau khi chiêu kết thúc, suốt thời gian này Roxie đi đâu nạn nhân sẽ bị kéo theo đó, thậm chí có thể kéo vượt địa hình, bù lại nạn nhân được miễn nhiễm với các hiệu ứng khống chế.",
+				"name": "ĐỊA GIAM",
+				"info": "Hồi chiêu: 70/65/60 giây<br>Tiêu hao: 100 năng lượng<br>Sau 0.5 giây, Baldum tạo ra một vùng làm giảm 90% tốc độ di chuyển trong 0.6 giây trước khi mặt đất sụp đổ và giam giữ kẻ địch trong 3 giây, suốt thời gian này nạn nhân không thể thực hiện bất cứ hành động nào và không thể bị chọn. Khi hết thời gian giam giữ, nạn nhân sẽ phải chịu 400/600/800 (+0.50 công vật lý) (+0.3 giáp vật lý) sát thương vật lý và giảm 50% tốc chạy trong 1.5 giây.",
 			}
 		],
 		"skill_up": {
@@ -10169,15 +10169,19 @@ var infoHeros = {
 		},
 		"skill_combo": [
 			{
-				"name": "*Combo đầu game (kết hợp Tốc biến tiếp cận mục tiêu)",
+				"name": "*Combo đầu game",
 				"info": "2,3,0",
 			},
 			{
-				"name": "*Combo khi có đủ 3 kỹ năng (kết hợp Tốc biến tiếp cận mục tiêu)",
-				"info": "2,3,0,4,0",
+				"name": "*Combo khi có đủ 3 kỹ năng",
+				"info": "3,4,2,3,0",
+			},
+			{
+				"name": "*Hoặc combo từ xa",
+				"info": "4,2,3,0",
 			},
 		],
-		"skill_note": "<strong class=\"clr-orange\">*Đầu game</strong><br>- Là một Đấu sĩ tự do vì thế Đường Caesar khá phù hợp với cô nàng, mang theo Tốc biến hoặc Bộc phá để tiếp cận hoặc tăng khả năng đột biến của cô.<br>- Tăng Patin lửa trước hết để dọn dẹp lính hoặc solo với đối phương, nên để ý thanh mana rất nhanh hết đó!!<br>- Kết hợp Patin lửa với Đánh thường tạo dấu ấn cuốc lửa lên đối thủ tăng sát thương và hồi máu cho cô nàng.<br>- Khi có chiêu cuối Keo lửa, hãy kết hợp với rừng, hoặc đồng đội lên ganh kéo, chia cắt đội hình đối phương và tiêu diệt.<br><br><strong class=\"clr-orange\">*Giữa và cuối game</strong><br>- Giữa game Roxie hoàn thành 2 đến 3 trang bị chính, lúc này khả năng trâu bò cộng với lượng mana rất nhiều từ trang bị Roxie có thể bơi vào đội hình đối phương rồi, nên để ý thanh mana thôi, không ổn thì bơi ra nhé, giày Patin mà chạy nhanh lắm :D<br>- Keo lửa rất có ít và thú vị, kéo và chia cắt đối phương với đồng đội và tiêu diệt, trường hợp hi hữu, Roxie có thể kéo hẳn Đấu sĩ hoặc tank đối phương ra khỏi giao tranh để đồng đội mình chiến mà không có tank bên địch, hoặc cơ bản nhất là tiếp cận dame chủ lực địch kéo và tiêu diệt như Xạ thủ hoặc Pháp sư!! Cơ bản quá nhĩ :D<br>- Keo lửa troll game rất vui, có thể kéo vượt địa hình luôn, kéo tướng, kéo bùa đỏ, bùa xanh,... đừng kéo Caesar với Rồng nhé nó không ra khỏi hang được đâu @@!<br>- Nghe nói Roxie có thể cân 2 Omen và Zuka, các bạn có tin hem, kiểm chứng nha!! :D",
+		"skill_note": "<strong class=\"clr-orange\">*Đầu game</strong><br>- Là một tướng Đỡ đòn dạng cứng nên có thể mang đi đường đơn hoặc chơi vị trí hỗ trợ cũng được.<br>- Về đầu game nên tận dụng Chiêu Địa chấn để dọn lính và trợ giúp đồng đội.<br>- Về Chiêu Vật tổ hãy tận dụng chính xác có thể tấn công hoặc rút lui đều được.<br>- Tậu một số trang bị thiên hướng đốt kẻ địch cùng Địa chấn.<br><br><strong class=\"clr-orange\">*Giữa và cuối game</strong><br>- Về giữa và cuối game, ngoài việc là bức tường vững chãi, và gây khó chịu cho kẻ địch, thì Chiêu cuối là một chiêu thức đặc biệt quan tâm và chú ý khi sử dụng.<br>- Chiêu cuối có khoảng thời gian chậm trễ trước khi bung ra và giam cầm kẻ địch, phải luyện dùng kỹ năng này thành thục đoán hướng di chuyển của kẻ địch.<br>- Khi đã giam cầm kẻ địch thành công thì việc tiếp theo để đồng bọn dọn kk.",
 		"skill_special": "TocBien,BocPha",
 		"main_rune": {
 			"rune2": [
@@ -10190,8 +10194,8 @@ var infoHeros = {
 					"info": "Máu tối đa +13.5<br>Tốc chạy +0.7%",
 				},
 				{
-					"name": "NgocXanh22",
-					"info": "Máu tối đa +15.7<br>Hồi máu/5s +3.1<br>Giảm hồi chiêu +0.3%",
+					"name": "NgocXanh26",
+					"info": "Giáp +5.4",
 				}
 			],
 			"rune3": [
@@ -10211,41 +10215,40 @@ var infoHeros = {
 		},
 		"item_build": [
 			{
-				"name": "Đường Caesar",
-				"info": "KhienHuyenThoai,GiayKienCuong,TruongBang,GuomHienTriet,GiapGaia,GiapHoMenh",
+				"name": "Đường đơn hoặc trợ thủ",
+				"info": "GiayKienCuong,ThuongLonginus,AoChoangBangGia,GiapGaia,KhienHuyenThoai,GiapHoMenh",
 			},
 			{
-				"name": "Đường Caesar",
-				"info": "KhienHuyenThoai,GiayHoVe,TruongBang,GuomHienTriet,HuanTruongTroy,GiapThongKho",
+				"name": "Đường đơn hoặc trợ thủ (thay thế)",
+				"info": "GiayHoVe,KhienHuyenThoai,AoChoangThanRa,HuanTruongTroy,GiapThongKho,GiapHoMenh",
+			},
+			{
+				"name": "Đường đơn hoặc trợ thủ (thử bộ này)",
+				"info": "AoChoangThanRa,GiayKienCuong,GiapGaia,KhienThatTruyen,HuanTruongTroy,GiapThongKho",
 			},
 		],
 		"hero_battle": [
 			{
 				"name": "và đồng bọn",
-				"desc": "với Patin lửa cộng với lượng sát thương lớn từ Slimz và Kriknak sẽ khiến đối phương bắt ngờ và đột tử, khả năng khống chế và slowmotion của Alice và Mina đủ để Roxie đốt cháy kẻ thù, đốt cho tới chết lại được hồi sinh khi cộng sự cùng TeeMee quả thật thú vị,...",
+				"desc": "kết hợp với máy ông này thì ôi thôi wombo combo, nát bét hết bên team địch :P",
 				"info": [
-					{"hero_id": "slimz", "id_page": "Slimz"},
-					{"hero_id": "natalya", "id_page": "Natalya"},
-					{"hero_id": "kriknak", "id_page": "Kriknak"},
-					{"hero_id": "alice", "id_page": "Alice"},
-					{"hero_id": "mina", "id_page": "Mina"},
-					{"hero_id": "preyta", "id_page": "Preyta"},
-					{"hero_id": "teemee", "id_page": "TeeMee"},
+					{"hero_id": "ilumia", "id_page": "Ilumia"},
+					{"hero_id": "ignis", "id_page": "Ignis"},
+					{"hero_id": "airi", "id_page": "Airi"},
+					{"hero_id": "maloch", "id_page": "Maloch"},
+					{"hero_id": "wisp", "id_page": "Wisp"},
 				]
 			},
 			{
 				"name": "và cách khắc chế",
-				"desc": "chỉ e sợ khi gặp các đối thủ chạy nhanh và bay nhảy thôi như Lindis hay Nakroth khiến cô nàng rất khó chịu, chiêu cuối Marja hoàn toàn có thể tránh được Patin lửa thật khó khi Patin lửa không có tác dụng, slowmotion của Alice sẽ bào lượng mana của cô khá tốt, Superman đẩy đẩy đẩy khó đụng vô ai,...",
+				"desc": "khi đối đầu vơi Y'bneth hoặc Arum thì quả là một cái gì đó khủng khíp, khả năng hồi máu của 2 ông này là siêu phàm, trong khi Baldum chỉ là cấu rỉa, tốt nhất giữ khoảng cách và chờ đội đồng đội lên gank,..",
 				"info": [
-					{"hero_id": "lindis", "id_page": "Lindis"},
-					{"hero_id": "nakroth", "id_page": "Nakroth"},
-					{"hero_id": "marja", "id_page": "Marja"},
-					{"hero_id": "alice", "id_page": "Alice"},
-					{"hero_id": "superman", "id_page": "Superman"},
+					{"hero_id": "ybneth", "id_page": "Ybneth"},
+					{"hero_id": "arum", "id_page": "Arum"},
 				]
 			}
 		],
-		"hero_story": "<i class=\"clr-orange\">Roxie</i> và <i class=\"clr-orange\">Aginie</i> là một cặp bài trùng thám hiểm gia vô tư lự.<br><i class=\"clr-orange\">Roxie</i> là con nhà nòi thuộc dòng dõi lâu đời các nhà thám hiểm vang danh thiên cổ; nói có sách mách có chứng, mỏ khoáng sản mang đến sự thịnh vượng và trù phú cho cả Mildar do chính tay người nhà này đào ra. Gia tộc hạnh phúc, nhưng không kém phần điên rồ này lý ra đã có thể an phận Sung túc, nhưng dòng máu khao khát khám phá luôn sục sôi trong huyết quản khiến họ thường làm điều ngược lại, mà thậm chí là còn hơn cả ngược. Chính xác cách họ làm thường là trả cho những người bạn đáng tin Cậy của họ một khoản kếch xù, dư sức lo cho một đứa bé sơ sinh đến trưởng thành, rồi giao phó Con mình và xách ba lô phóng thẳng lên đường tìm những thế giới mới.<br>Đó là cách ông của <i class=\"clr-orange\">Roxie</i> lớn khôn. Đời cha cô cũng hệt thế. Và chính <i class=\"clr-orange\">Roxie</i> cũng chẳng khác là bao. Ký ức thơ bé hiếm hoi cô có về cha mẹ mình đến từ những lá thư vài tháng được gửi đến một lần - miễn là cả hai vị đấy không bị mắc kẹt trong cổ mộ, hay mãi đắm đuối đất trời ở chốn xa xôi nào đó đến mức quên viết thư gửi đứa con duy nhất của mình.<br><i class=\"clr-orange\">Roxie</i> vô cùng khao khát phong cách sống của cha mẹ mình. Cô chẳng nhớ được gì nhiều về họ, nhưng thư của họ thì luôn tràn đầy những hạnh phúc lãng mạn, và nàng <i class=\"clr-orange\">Roxie</i> nhỏ nhắn với trí tưởng tượng phong phú cứ thế mà mê tít thò lò thôi. \"Rồi sẽ đến ngày ta tự lên đường và gặp được Hoàng lãng tử của mình.\" cô lặp đi lặp Iại. Đa phần thời gian đều được Cô dùng để mơ mộng rất chi là tỉ mỉ về các chuyến du hành trong tương lai, nơi cô sẽ được đặt chân đến những vùng đất tận cùng của thể giới để khai quặt những cổ vật và kho báu bên một chàng lãng tử đẹp lộng lẫy.<br>Đời đương nhiên không như là mơ, <i class=\"clr-orange\">Roxie</i> chẳng tìm thấy được chàng Hoàng lãng tử nào ráo. Thay vào đó cô gặp một linh hồn lửa láu lỉnh và siêu khó ưa tên Agnie.<br>Để mừng <i class=\"clr-orange\">Roxie</i> đến tuổi trường thành, cha mẹ của <i class=\"clr-orange\">Roxie</i> gửi tặng con gái mình một món quà, đó chính là Agnie năng động quá độ đến tăng động với biệt tài phá phách số dzách. Kèm theo đó là một bản đô kho báu chính tay bộ đôi đã soạn thảo với tất cả lòng yêu thương vô bờ, cụ thể trên đấy đánh dấu và phân loại tất cả những vị trí của các kho báu đã khám phá lẫn chưa khám phá.<br>Cuối cùng là tấm thiệp sinh nhật kèm lời nhắn nhủ: \"Hãy lên đường truy cầu thứ con hằng khát khao. Mong sớm ngày nào đó cả nhà mình vô tình đoàn tụ bên nhau nhé. Yêu con nhiều, Mẹ với Cha.\"<br>Đến đây thì <i class=\"clr-orange\">Roxie</i> ngứa ngáy tay chân cho chuyến đi đầu đời lắm rồi, thế là a lê hấp đồ đạc sẵn sàng từ cuốc chim đến ba lô. Chuyển Siêu phiêu lưu của <i class=\"clr-orange\">Roxie</i> là đây chứ là đâu.<br>\"Ê còn tui đâu? Phải kêu là 'Chuyến Siêu phiên luu của Agnie và <i class=\"clr-orange\">Roxie</i>' mới đúng.” linh hồn lửa ló đầu ra khỏi ba lô giãy nãy.<br>\"Nhìn mặt có giống quan tâm không? Đây chả cần nhớ.\"<br>\"Đã gà còn tỏ ra nguy hiểm, không có tui thì mơ mà đọc được bản đỏ đẩy!\"<br>Đến đây thì <i class=\"clr-orange\">Roxie</i> tắt tiếng vì Agnie chuấn không đường chỉnh, sự thật phũ phảng là bất kể <i class=\"clr-orange\">Roxie</i> có khao khát trở thành nhà thảm hiểm vĩ đại đến cỡ nào đi chăng nữa thì cô cơ bản là mù đường.<br>Phương nào là bắc hay nam cô còn chẳng phân biệt nổi nữa là. Chính vì thể mà cha mẹ cô đã gửi tặng Agnie - không thì chuyến đi duy nhất của cả đời con gái họ là một vòng tròn lạc lõi.<br>Sau khi chia tay với Moren đáng mến, Max lạc quan, và Wisp cáu bẳn dễ thương, <i class=\"clr-orange\">Roxie</i> chính thức lên đường. Agnie đúng là khó ưa thật, nhưng ít nhất nó vẫn là một người bạn đồng hành đáng tin cậy.<br>\"Chàng ơi, chàng hỡi, chàng nơi đâu, Hoàng lãng tử của đời ta?\"",
+		"hero_story": "“<i class=\"clr-orange\">Baldum</i> – Nhân mã thần lực.<br>Xương cứng như thép, và cơ dày như thừng. Ông hiên ngang, lẫm liệt, và nhanh nhạy, với sức mạnh sánh ngang các vị thần.<br>Mọi nhân mã đều là các dũng sĩ trời sinh, và <i class=\"clr-orange\">Baldum</i> là người thiện chiến nhất trên tất thảy. Ông là một huyền thoại từ thời kỳ hoang sơ, người không chỉ chứng kiến sự khởi đầu và kết thúc của cuộc chiến giữa Nhân loại cùng tộc Afata chống lại hai đợt Hắc ám Xâm lược, mà còn tận tụy bảo vệ tất cả sinh vật trên Đồng bằng Ánh trăng bằng Cột tổ Khai thiên.<br>Tương truyền rằng Cột tổ Khai thiên - linh vật tồn tại từ thuở khai thiên tích địa của cả vũ trụ - chính là một Mảnh vỡ Andura với sức mạnh của thời gian. Đó chính là lý do vì sao <i class=\"clr-orange\">Baldum</i> lại trường sinh và luôn sung mãn dù đã sống hàng thế kỷ. Trớ trêu thay, Cột tổ chỉ bảo vệ duy nhất <i class=\"clr-orange\">Baldum</i>, và cứ thế ông buộc phải trơ mắt nhìn cả dòng tộc, từ thân bằng quyến thuộc đến tất cả mọi nhân mã, lìa đời từng người một theo tháng năm. Điều gì phải đến rốt cuộc cũng đến, trên khắp Athanor còn một và chỉ một nhân mã, <i class=\"clr-orange\">Baldum</i>.<br>Suốt một thời gian dài người ta vẫn cho rằng <i class=\"clr-orange\">Baldum</i> chỉ là chuyện cổ tích, thậm chí ngay cả các cư dân lâu đời của Rừng rậm Elborne cũng không chắc <i class=\"clr-orange\">Baldum</i> còn sống hay không. Chỉ khi Volkath, Chúa tể Hắc ám, trỗi dậy cùng quân đoàn Lokheim của hắn, mọi sinh linh mới được diện kiến <i class=\"clr-orange\">Baldum</i>. Chính xác hơn thì tất cả những gì họ thấy là một tấm lưng vững chãi khi ông đang bận tả xung hữu đột giữa muôn vàn quân Lokheim, nhưng chỉ thế thôi đã quá đủ để khích lệ sĩ khí đến ngút trời cho tất cả binh lính Afata, và in đậm hình bóng vị chiến binh vĩ đại này suốt đời họ.<br>“Sau khi chôn người đồng bào cuối cùng còn sót lại, ta chạy 12 vòng quanh mộ theo đúng truyền thống của bộ tộc. Tổ tiên truyền rằng khi vó của chúng ta tung bay trên đại địa, Đất Mẹ sẽ thức tỉnh và giang tay đón lũ trẻ của người trở về quê hương.<br>“Ta đã dự rất nhiều đám tang trong đời mình – quá nhiều là đằng khác, nhưng lần đấy là lần cô độc nhất. Chẳng còn ai phi vó cùng ta, chẳng còn bất cứ ai hát điếu ca cùng ta. Tiếng gió rít là bạn đồng hành duy nhất còn sót lại. Nó, và Cột tổ Khai thiên trên tay ta.<br>“Và rồi Lão Sồi mang tặng ta một món quà từ Yggdrasil – một mẩu rể gốc. Ta trồng nó trên mảnh đất chôn dân tộc mình, để vinh danh những trận chiến quả cảm của họ.”<br>“Lão Sồi cũng không thẹn với tên của mình. Mẩu rể thuở nào đã được chăm bón thành Rừng Vệ Nỗ ngày nay.”<br>Qua những mẩu chuyện với <i class=\"clr-orange\">Baldum</i> sau cuộc chiến, mọi người dần biết thêm về quá khứ bi hùng của ông. “Lão Sồi” được nhắc đến không ai khác ngoài Đại thụ Viễn cổ, vị cây-hùng đã mang đến sinh mệnh cho Rừng Vệ Nỗ. Lão không chỉ trao tặng <i class=\"clr-orange\">Baldum</i> một món quà từ Yggdrasil, mà còn kèm theo đó một sứ mệnh: thẳng tiến đến phương bắc hoang dã đầy lạnh giá của Đồng bằng Ánh trăng nhằm bảo canh gác Khe vực thẳm cạnh chân Núi Orpheus.<br>Và <i class=\"clr-orange\">Baldum</i> cứ thế tuần tra khắp chốn hoang mạc suốt hàng ngàn năm trong lẻ loi, cô độc đầy hiu quạnh. Có lúc ông suýt quên mình đã từng là một dũng sĩ. Đắm mình trong hồi ức, ông lẳng lặng ngồi đó tưởng nhớ quãng ngày tươi đẹp vô tư lự khi mình và chúng bạn thả sức cất vó hò hát tắm mình trong ánh tà dương. Nhưng ngay khi bè lũ Lokheim để lộ các dấu hiệu bất thường, và ngọn lửa chiến tranh bùng phát gần quê nhà, trong chớp mắt vị dũng sĩ trời sinh lập tức phục hồi bản năng chiến trận chảy trong huyết quản.<br>“Cánh rừng này nảy mầm từ đất đai được bồi bổ bởi chính máu và thịt của đồng bào ta. Từng nụ hoa, từng tấc đất là gia đình ta. Chừng nào sinh mệnh này chưa cạn, hơi thở này chưa kiệt, thì lũ ác quỷ các ngươi chớ hòng tiến thêm dù chỉ một bước!””",
 		"hero_skin": [
 			{
 				"name": "Nhân Mã Thần Lực",
@@ -10258,14 +10261,152 @@ var infoHeros = {
 				"video": "Baldum01",
 			},
 			{
-				"name": "Thám Tử Tập Sự",
+				"name": "Chú Thợ Ống Nước (Bậc A)",
 				"gold": "",
 				"voucher": "219",
 				"event": "",
-				"wall": "Roxie02",
+				"wall": "Baldum02",
 				"disable": "yes",
 				"img": "thumb2.jpg",
-				"video": "Roxie02",
+				"video": "Baldum02",
+			},
+		]
+	},
+	"annette": {
+		"hero_id": "Annette",
+		"hero_name": "Annette",
+		"main_info": {
+			"price_gold": "13,888",
+			"price_voucher": "233",
+			"price_text": "",
+			"position": "Trợ thủ / Pháp sư",
+			"special": "Yểm hộ",
+		},
+		"main_skill": [
+			{
+				"name": "CƯỜNG TRÁNG",
+				"info": "Nội tại: Baldum mặc định tăng thêm 18% giáp, mỗi đòn đánh thường của Baldum gây thêm 20 + (3% giáp vật lý) sát thương phép.",
+			},
+			{
+				"name": "VẬT TỔ VỖ TẤT",
+				"info": "Hồi chiêu: 12/11,6/11,2/10,8/10,4/10 giây<br>Tiêu hao: 60/65/70/75/80/85 năng lượng<br>Baldum lao theo hướng chỉ định, gây 175/225/275/325/375/425 (+0.3 Giáp bản thân) (+0.5 Công vật lý) sát thương vật lý và hất tung lên những kẻ địch trúng chiêu dọc đường; khi tông phải tướng địch sẽ dừng lại rồi múa vũ khí hất kẻ địch ra sau, gây thêm 8% máu tối đa của mục tiêu sát thương vật lý, và làm chậm 90% tốc chạy trong 1 giây."
+			},
+			{
+				"name": "ĐỊA CHẤN",
+				"info": "Hồi chiêu: 9 giây<br>Tiêu hao: 50 năng lượng<br>Baldum dậm mạnh lên mặt đất tạo sóng chấn động gây 175/225/275/325/375/425 (+0.3 Giáp bản thân) (+0.5 Công vật lý) sát thương vật lý, tổng cộng 6 lần lên những kẻ địch lân cận, và làm chậm 30% tốc chạy từ các mục tiêu, ngoài ra hiệu ứng còn khiến các sát thương vật lý từ những nạn nhân này lên Baldum bị giảm 15/18/21/24/27/30% trong 1 giây. Mỗi tướng địch trúng chiêu giảm 0.3 giây hồi chiêu thức này.",
+			},
+			{
+				"name": "ĐỊA GIAM",
+				"info": "Hồi chiêu: 70/65/60 giây<br>Tiêu hao: 100 năng lượng<br>Sau 0.5 giây, Baldum tạo ra một vùng làm giảm 90% tốc độ di chuyển trong 0.6 giây trước khi mặt đất sụp đổ và giam giữ kẻ địch trong 3 giây, suốt thời gian này nạn nhân không thể thực hiện bất cứ hành động nào và không thể bị chọn. Khi hết thời gian giam giữ, nạn nhân sẽ phải chịu 400/600/800 (+0.50 công vật lý) (+0.3 giáp vật lý) sát thương vật lý và giảm 50% tốc chạy trong 1.5 giây.",
+			}
+		],
+		"skill_up": {
+			"line1": "1,3,5,7,9,11",
+			"line2": "2,6,10,13,14,15",
+			"line3": "4,8,12",
+		},
+		"skill_combo": [
+			{
+				"name": "*Combo đầu game",
+				"info": "2,3,0",
+			},
+			{
+				"name": "*Combo khi có đủ 3 kỹ năng",
+				"info": "3,4,2,3,0",
+			},
+			{
+				"name": "*Hoặc combo từ xa",
+				"info": "4,2,3,0",
+			},
+		],
+		"skill_note": "<strong class=\"clr-orange\">*Đầu game</strong><br>- Là một tướng Đỡ đòn dạng cứng nên có thể mang đi đường đơn hoặc chơi vị trí hỗ trợ cũng được.<br>- Về đầu game nên tận dụng Chiêu Địa chấn để dọn lính và trợ giúp đồng đội.<br>- Về Chiêu Vật tổ hãy tận dụng chính xác có thể tấn công hoặc rút lui đều được.<br>- Tậu một số trang bị thiên hướng đốt kẻ địch cùng Địa chấn.<br><br><strong class=\"clr-orange\">*Giữa và cuối game</strong><br>- Về giữa và cuối game, ngoài việc là bức tường vững chãi, và gây khó chịu cho kẻ địch, thì Chiêu cuối là một chiêu thức đặc biệt quan tâm và chú ý khi sử dụng.<br>- Chiêu cuối có khoảng thời gian chậm trễ trước khi bung ra và giam cầm kẻ địch, phải luyện dùng kỹ năng này thành thục đoán hướng di chuyển của kẻ địch.<br>- Khi đã giam cầm kẻ địch thành công thì việc tiếp theo để đồng bọn dọn kk.",
+		"skill_special": "TocBien,BocPha",
+		"main_rune": {
+			"rune2": [
+				{
+					"name": "NgocDo25",
+					"info": "Công vật lý +1.5<br>Máu tối đa +13.5",
+				},
+				{
+					"name": "NgocTim28",
+					"info": "Máu tối đa +13.5<br>Tốc chạy +0.7%",
+				},
+				{
+					"name": "NgocXanh26",
+					"info": "Giáp +5.4",
+				}
+			],
+			"rune3": [
+				{
+					"name": "NgocDo37",
+					"info": "Tốc đánh +1%<br>Máu tối đa +33.7<br>Giáp +2.3",
+				},
+				{
+					"name": "NgocTim33",
+					"info": "Máu tối đa +45<br>Hồi máu/5s +5.2<br>Tốc chạy +0.4%",
+				},
+				{
+					"name": "NgocXanh34",
+					"info": "Máu tối đa +37.5<br>Giảm hồi chiêu +0.6%",
+				}
+			]
+		},
+		"item_build": [
+			{
+				"name": "Đường đơn hoặc trợ thủ",
+				"info": "GiayKienCuong,ThuongLonginus,AoChoangBangGia,GiapGaia,KhienHuyenThoai,GiapHoMenh",
+			},
+			{
+				"name": "Đường đơn hoặc trợ thủ (thay thế)",
+				"info": "GiayHoVe,KhienHuyenThoai,AoChoangThanRa,HuanTruongTroy,GiapThongKho,GiapHoMenh",
+			},
+			{
+				"name": "Đường đơn hoặc trợ thủ (thử bộ này)",
+				"info": "AoChoangThanRa,GiayKienCuong,GiapGaia,KhienThatTruyen,HuanTruongTroy,GiapThongKho",
+			},
+		],
+		"hero_battle": [
+			{
+				"name": "và đồng bọn",
+				"desc": "kết hợp với máy ông này thì ôi thôi wombo combo, nát bét hết bên team địch :P",
+				"info": [
+					{"hero_id": "ilumia", "id_page": "Ilumia"},
+					{"hero_id": "ignis", "id_page": "Ignis"},
+					{"hero_id": "airi", "id_page": "Airi"},
+					{"hero_id": "maloch", "id_page": "Maloch"},
+					{"hero_id": "wisp", "id_page": "Wisp"},
+				]
+			},
+			{
+				"name": "và cách khắc chế",
+				"desc": "khi đối đầu vơi Y'bneth hoặc Arum thì quả là một cái gì đó khủng khíp, khả năng hồi máu của 2 ông này là siêu phàm, trong khi Baldum chỉ là cấu rỉa, tốt nhất giữ khoảng cách và chờ đội đồng đội lên gank,..",
+				"info": [
+					{"hero_id": "ybneth", "id_page": "Ybneth"},
+					{"hero_id": "arum", "id_page": "Arum"},
+				]
+			}
+		],
+		"hero_story": "“<i class=\"clr-orange\">Baldum</i> – Nhân mã thần lực.<br>Xương cứng như thép, và cơ dày như thừng. Ông hiên ngang, lẫm liệt, và nhanh nhạy, với sức mạnh sánh ngang các vị thần.<br>Mọi nhân mã đều là các dũng sĩ trời sinh, và <i class=\"clr-orange\">Baldum</i> là người thiện chiến nhất trên tất thảy. Ông là một huyền thoại từ thời kỳ hoang sơ, người không chỉ chứng kiến sự khởi đầu và kết thúc của cuộc chiến giữa Nhân loại cùng tộc Afata chống lại hai đợt Hắc ám Xâm lược, mà còn tận tụy bảo vệ tất cả sinh vật trên Đồng bằng Ánh trăng bằng Cột tổ Khai thiên.<br>Tương truyền rằng Cột tổ Khai thiên - linh vật tồn tại từ thuở khai thiên tích địa của cả vũ trụ - chính là một Mảnh vỡ Andura với sức mạnh của thời gian. Đó chính là lý do vì sao <i class=\"clr-orange\">Baldum</i> lại trường sinh và luôn sung mãn dù đã sống hàng thế kỷ. Trớ trêu thay, Cột tổ chỉ bảo vệ duy nhất <i class=\"clr-orange\">Baldum</i>, và cứ thế ông buộc phải trơ mắt nhìn cả dòng tộc, từ thân bằng quyến thuộc đến tất cả mọi nhân mã, lìa đời từng người một theo tháng năm. Điều gì phải đến rốt cuộc cũng đến, trên khắp Athanor còn một và chỉ một nhân mã, <i class=\"clr-orange\">Baldum</i>.<br>Suốt một thời gian dài người ta vẫn cho rằng <i class=\"clr-orange\">Baldum</i> chỉ là chuyện cổ tích, thậm chí ngay cả các cư dân lâu đời của Rừng rậm Elborne cũng không chắc <i class=\"clr-orange\">Baldum</i> còn sống hay không. Chỉ khi Volkath, Chúa tể Hắc ám, trỗi dậy cùng quân đoàn Lokheim của hắn, mọi sinh linh mới được diện kiến <i class=\"clr-orange\">Baldum</i>. Chính xác hơn thì tất cả những gì họ thấy là một tấm lưng vững chãi khi ông đang bận tả xung hữu đột giữa muôn vàn quân Lokheim, nhưng chỉ thế thôi đã quá đủ để khích lệ sĩ khí đến ngút trời cho tất cả binh lính Afata, và in đậm hình bóng vị chiến binh vĩ đại này suốt đời họ.<br>“Sau khi chôn người đồng bào cuối cùng còn sót lại, ta chạy 12 vòng quanh mộ theo đúng truyền thống của bộ tộc. Tổ tiên truyền rằng khi vó của chúng ta tung bay trên đại địa, Đất Mẹ sẽ thức tỉnh và giang tay đón lũ trẻ của người trở về quê hương.<br>“Ta đã dự rất nhiều đám tang trong đời mình – quá nhiều là đằng khác, nhưng lần đấy là lần cô độc nhất. Chẳng còn ai phi vó cùng ta, chẳng còn bất cứ ai hát điếu ca cùng ta. Tiếng gió rít là bạn đồng hành duy nhất còn sót lại. Nó, và Cột tổ Khai thiên trên tay ta.<br>“Và rồi Lão Sồi mang tặng ta một món quà từ Yggdrasil – một mẩu rể gốc. Ta trồng nó trên mảnh đất chôn dân tộc mình, để vinh danh những trận chiến quả cảm của họ.”<br>“Lão Sồi cũng không thẹn với tên của mình. Mẩu rể thuở nào đã được chăm bón thành Rừng Vệ Nỗ ngày nay.”<br>Qua những mẩu chuyện với <i class=\"clr-orange\">Baldum</i> sau cuộc chiến, mọi người dần biết thêm về quá khứ bi hùng của ông. “Lão Sồi” được nhắc đến không ai khác ngoài Đại thụ Viễn cổ, vị cây-hùng đã mang đến sinh mệnh cho Rừng Vệ Nỗ. Lão không chỉ trao tặng <i class=\"clr-orange\">Baldum</i> một món quà từ Yggdrasil, mà còn kèm theo đó một sứ mệnh: thẳng tiến đến phương bắc hoang dã đầy lạnh giá của Đồng bằng Ánh trăng nhằm bảo canh gác Khe vực thẳm cạnh chân Núi Orpheus.<br>Và <i class=\"clr-orange\">Baldum</i> cứ thế tuần tra khắp chốn hoang mạc suốt hàng ngàn năm trong lẻ loi, cô độc đầy hiu quạnh. Có lúc ông suýt quên mình đã từng là một dũng sĩ. Đắm mình trong hồi ức, ông lẳng lặng ngồi đó tưởng nhớ quãng ngày tươi đẹp vô tư lự khi mình và chúng bạn thả sức cất vó hò hát tắm mình trong ánh tà dương. Nhưng ngay khi bè lũ Lokheim để lộ các dấu hiệu bất thường, và ngọn lửa chiến tranh bùng phát gần quê nhà, trong chớp mắt vị dũng sĩ trời sinh lập tức phục hồi bản năng chiến trận chảy trong huyết quản.<br>“Cánh rừng này nảy mầm từ đất đai được bồi bổ bởi chính máu và thịt của đồng bào ta. Từng nụ hoa, từng tấc đất là gia đình ta. Chừng nào sinh mệnh này chưa cạn, hơi thở này chưa kiệt, thì lũ ác quỷ các ngươi chớ hòng tiến thêm dù chỉ một bước!””",
+		"hero_skin": [
+			{
+				"name": "Nhân Mã Thần Lực",
+				"gold": "13,888",
+				"voucher": "359",
+				"event": "",
+				"wall": "Baldum01",
+				"disable": "yes",
+				"img": "thumb1.jpg",
+				"video": "Baldum01",
+			},
+			{
+				"name": "Chú Thợ Ống Nước (Bậc A)",
+				"gold": "",
+				"voucher": "219",
+				"event": "",
+				"wall": "Baldum02",
+				"disable": "yes",
+				"img": "thumb2.jpg",
+				"video": "Baldum02",
 			},
 		]
 	},
