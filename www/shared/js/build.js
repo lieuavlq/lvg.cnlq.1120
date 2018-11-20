@@ -262,7 +262,7 @@ var infoHeros = {
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "GiayKienCuong,KhienHuyenThoai,GiapGaia,KhienAsterion,GiapThongKho,HuanTruongTroy"
+				"info": "GiayKienCuong,KhienHuyenThoai,GiapGaia,KhienAsterion,GiapThongKho,HuanChuongTroy"
 			}
 		],
 		"hero_battle": [
@@ -541,7 +541,7 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đi rừng hoặc đường trên dưới",
-				"info": "ThuongLonginus,GiayKienCuong,AoChoangBangGia,KiemFafnir,HuanTruongTroy,GiapHoMenh",
+				"info": "ThuongLonginus,GiayKienCuong,AoChoangBangGia,KiemFafnir,HuanChuongTroy,GiapHoMenh",
 			},
 			{
 				"name": "Đường trên hoặc dưới",
@@ -549,7 +549,7 @@ var infoHeros = {
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,ThuongXuyenPha,HuanTruongTroy,HerculeThinhNo",
+				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,ThuongXuyenPha,HuanChuongTroy,HerculeThinhNo",
 			},
 		],
 		"hero_battle": [
@@ -714,15 +714,15 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "GiapGaia,GiapThongKho,HuyetGiap,KhienAsterion,HuanTruongTroy,GiapHoMenh",
+				"info": "GiapGaia,GiapThongKho,HuyetGiap,KhienAsterion,HuanChuongTroy,GiapHoMenh",
 			},
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "GiayHermes,RiuHyoga,GiapGaia,GiapThongKho,HuyetGiap,HuanTruongTroy",
+				"info": "GiayHermes,RiuHyoga,GiapGaia,GiapThongKho,HuyetGiap,HuanChuongTroy",
 			},
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "GiayKienCuong,ThuongLonginus,HerculeThinhNo,HuanTruongTroy,PhucHopKiem,HuyetGiap"
+				"info": "GiayKienCuong,ThuongLonginus,HerculeThinhNo,HuanChuongTroy,PhucHopKiem,HuyetGiap"
 			},
 			{
 				"name": "Game thủ hay lên",
@@ -1168,15 +1168,15 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đi rừng",
-				"info": "RiuLeviathan,GiayHoVe,ThuongLonginus,AoChoangBangGia,HuanTruongTroy,KiemFafnir",
+				"info": "RiuLeviathan,GiayHoVe,ThuongLonginus,AoChoangBangGia,HuanChuongTroy,KiemFafnir",
 			},
 			{
 				"name": "Đi rừng",
-				"info": "KiemTruyHon,GiayHoVe,AoChoangThanRa,HuyetGiap,HerculeThinhNo,HuanTruongTroy",
+				"info": "KiemTruyHon,GiayHoVe,AoChoangThanRa,HuyetGiap,HerculeThinhNo,HuanChuongTroy",
 			},
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "AoChoangThanRa,GiayThuatSi,GiapThongKho,KhienHuyenThoai,HuanTruongTroy,NanhFenrir",
+				"info": "AoChoangThanRa,GiayThuatSi,GiapThongKho,KhienHuyenThoai,HuanChuongTroy,NanhFenrir",
 			},
 			{
 				"name": "Game thủ hay lên",
@@ -1338,11 +1338,11 @@ var infoHeros = {
 			},
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "ThuongLonginus,PhuChuTruongSinh,HuanTruongTroy,GiapGaia,KhienThatTruyen,PhucHopKiem",
+				"info": "ThuongLonginus,PhuChuTruongSinh,HuanChuongTroy,GiapGaia,KhienThatTruyen,PhucHopKiem",
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "GiayKienCuong,AoChoangThanRa,GiapGaia,HuanTruongTroy,KhienThatTruyen,GiapHoMenh",
+				"info": "GiayKienCuong,AoChoangThanRa,GiapGaia,HuanChuongTroy,KhienThatTruyen,GiapHoMenh",
 			},
 		],
 		"hero_battle": [
@@ -1611,11 +1611,11 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đường rừng",
-				"info": "RiuLeviathan,GiayKienCuong,AoChoangThanRa,AoChoangBangGia,KiemMuramasa,HuanTruongTroy",
+				"info": "RiuLeviathan,GiayKienCuong,AoChoangThanRa,AoChoangBangGia,KiemMuramasa,HuanChuongTroy",
 			},
 			{
 				"name": "Đường rừng",
-				"info": "RiuLeviathan,GiayHoVe,ThuongLonginus,AoChoangBangGia,ThuongXuyenPha,HuanTruongTroy",
+				"info": "RiuLeviathan,GiayHoVe,ThuongLonginus,AoChoangBangGia,ThuongXuyenPha,HuanChuongTroy",
 			},
 			{
 				"name": "Đường trên hoặc dưới",
@@ -2408,7 +2408,7 @@ var infoHeros = {
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "GiayKienCuong,KhienHuyenThoai,GiapGaia,KhienAsterion,HuanTruongTroy,GiapHoMenh",
+				"info": "GiayKienCuong,KhienHuyenThoai,GiapGaia,KhienAsterion,HuanChuongTroy,GiapHoMenh",
 			},
 		],
 		"hero_battle": [
@@ -3124,7 +3124,7 @@ var infoHeros = {
 			},
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "GiayHermes,KhienAsterion,KhienHuyenThoai,GiapHoMenh,GiapGaia,HuanTruongTroy",
+				"info": "GiayHermes,KhienAsterion,KhienHuyenThoai,GiapHoMenh,GiapGaia,HuanChuongTroy",
 			},
 			{
 				"name": "Game thủ hay lên",
@@ -3418,7 +3418,7 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đi rừng",
-				"info": "RiuLeviathan,GiayKienCuong,ThuongLonginus,PhucHopKiem,KhienThatTruyen,HuanTruongTroy",
+				"info": "RiuLeviathan,GiayKienCuong,ThuongLonginus,PhucHopKiem,KhienThatTruyen,HuanChuongTroy",
 			},
 			{
 				"name": "Đi rừng",
@@ -3580,7 +3580,7 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "KhienAsterion,GiayHermes,KhienHuyenThoai,TruongBang,HuanTruongTroy,SachThanh",
+				"info": "KhienAsterion,GiayHermes,KhienHuyenThoai,TruongBang,HuanChuongTroy,SachThanh",
 			},
 			{
 				"name": "Đường trên hoặc dưới",
@@ -3588,7 +3588,7 @@ var infoHeros = {
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "HuanTruongTroy,GiayThuatSi,KhienHuyenThoai,GiapGaia,KhienThatTruyen,HuyetGiap",
+				"info": "HuanChuongTroy,GiayThuatSi,KhienHuyenThoai,GiapGaia,KhienThatTruyen,HuyetGiap",
 			},
 		],
 		"hero_battle": [
@@ -4033,11 +4033,11 @@ var infoHeros = {
 			},
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "AoChoangThanRa,GiayHoVe,KhienAsterion,KhienThatTruyen,HuanTruongTroy,GiapGaia",
+				"info": "AoChoangThanRa,GiayHoVe,KhienAsterion,KhienThatTruyen,HuanChuongTroy,GiapGaia",
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "GiapCuongNo,GiayHermes,RiuHyoga,KhienHuyenThoai,HerculeThinhNo,HuanTruongTroy",
+				"info": "GiapCuongNo,GiayHermes,RiuHyoga,KhienHuyenThoai,HerculeThinhNo,HuanChuongTroy",
 			},
 		],
 		"hero_battle": [
@@ -4326,7 +4326,7 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đi hỗ trợ các đường",
-				"info": "AoChoangThanRa,GiayHermes,HuanTruongTroy,KhienHuyenThoai,AoChoangBangGia,PhuChuTruongSinh",
+				"info": "AoChoangThanRa,GiayHermes,HuanChuongTroy,KhienHuyenThoai,AoChoangBangGia,PhuChuTruongSinh",
 			},
 			{
 				"name": "Đi hỗ trợ các đường",
@@ -4334,7 +4334,7 @@ var infoHeros = {
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,GiapGaia,GiapThongKho,HuanTruongTroy",
+				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,GiapGaia,GiapThongKho,HuanChuongTroy",
 			},
 		],
 		"hero_battle": [
@@ -4603,7 +4603,7 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Hỗ trợ các đường",
-				"info": "PhuongHoangLe,GiayHoVe,TruongBang,KhienHuyenThoai,HuanTruongTroy,KhienAsterion",
+				"info": "PhuongHoangLe,GiayHoVe,TruongBang,KhienHuyenThoai,HuanChuongTroy,KhienAsterion",
 			},
 			{
 				"name": "Đường giữa hoặc hỗ trợ các đường",
@@ -4747,7 +4747,7 @@ var infoHeros = {
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "GiayKienCuong,KhienHuyenThoai,AoChoangBangGia,HuanTruongTroy,KhienThatTruyen,GiapHoMenh",
+				"info": "GiayKienCuong,KhienHuyenThoai,AoChoangBangGia,HuanChuongTroy,KhienThatTruyen,GiapHoMenh",
 			},
 		],
 		"hero_battle": [
@@ -5051,7 +5051,7 @@ var infoHeros = {
 			},
 			{
 				"name": "Game thủ hay lên đi rừng",
-				"info": "RiuLeviathan,GiayKienCuong,AoChoangThanRa,AoChoangBangGia,HuanTruongTroy,KiemMuramasa",
+				"info": "RiuLeviathan,GiayKienCuong,AoChoangThanRa,AoChoangBangGia,HuanChuongTroy,KiemMuramasa",
 			},
 		],
 		"hero_battle": [
@@ -5187,7 +5187,7 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,HuanTruongTroy,KiemMuramasa,HuyetGiap",
+				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,HuanChuongTroy,KiemMuramasa,HuyetGiap",
 			},
 			{
 				"name": "Đi rừng hỗ trợ các đường",
@@ -5195,7 +5195,7 @@ var infoHeros = {
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "ThuongLonginus,GiayHermes,AoChoangBangGia,HuanTruongTroy,HuyetGiap,NanhFenrir",
+				"info": "ThuongLonginus,GiayHermes,AoChoangBangGia,HuanChuongTroy,HuyetGiap,NanhFenrir",
 			},
 		],
 		"hero_battle": [
@@ -5782,7 +5782,7 @@ var infoHeros = {
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "ThuongLonginus,GiayKienCuong,AoChoangBangGia,HuanTruongTroy,KhienThatTruyen,GiapHoMenh",
+				"info": "ThuongLonginus,GiayKienCuong,AoChoangBangGia,HuanChuongTroy,KhienThatTruyen,GiapHoMenh",
 			},
 		],
 		"hero_battle": [
@@ -6060,7 +6060,7 @@ var infoHeros = {
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "NgocDaiPhapSu,GiayKienCuong,KhienHuyenThoai,QuyenTruongRhea,VuongMiengHecate,HuanTruongTroy",
+				"info": "NgocDaiPhapSu,GiayKienCuong,KhienHuyenThoai,QuyenTruongRhea,VuongMiengHecate,HuanChuongTroy",
 			},
 		],
 		"hero_battle": [
@@ -6213,11 +6213,11 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đi rừng",
-				"info": "RiuLeviathan,GiayHermes,ThuongLonginus,AoChoangBangGia,ThuongXuyenPha,HuanTruongTroy",
+				"info": "RiuLeviathan,GiayHermes,ThuongLonginus,AoChoangBangGia,ThuongXuyenPha,HuanChuongTroy",
 			},
 			{
 				"name": "Đi rừng",
-				"info": "RiuGnoll,GiayKienCuong,ThuongXuyenPha,AoChoangBangGia,HuanTruongTroy,LiemDoatMenh",
+				"info": "RiuGnoll,GiayKienCuong,ThuongXuyenPha,AoChoangBangGia,HuanChuongTroy,LiemDoatMenh",
 			},
 			{
 				"name": "Game thủ hay lên",
@@ -6357,19 +6357,19 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đi đường trên hoặc dưới",
-				"info": "ThuongLonginus,GiayKienCuong,AoChoangThanRa,AoChoangBangGia,HuanTruongTroy,NanhFenrir",
+				"info": "ThuongLonginus,GiayKienCuong,AoChoangThanRa,AoChoangBangGia,HuanChuongTroy,NanhFenrir",
 			},
 			{
 				"name": "Đi rừng",
-				"info": "RiuLeviathan,GiayKienCuong,AoChoangThanRa,AoChoangBangGia,HuanTruongTroy,KiemMuramasa",
+				"info": "RiuLeviathan,GiayKienCuong,AoChoangThanRa,AoChoangBangGia,HuanChuongTroy,KiemMuramasa",
 			},
 			{
 				"name": "Đi rừng",
-				"info": "KiemTruyHon,GiayHoVe,ThuongLonginus,AoChoangBangGia,HuanTruongTroy,ThuongXuyenPha",
+				"info": "KiemTruyHon,GiayHoVe,ThuongLonginus,AoChoangBangGia,HuanChuongTroy,ThuongXuyenPha",
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,ThuongXuyenPha,HuanTruongTroy,NanhFenrir",
+				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,ThuongXuyenPha,HuanChuongTroy,NanhFenrir",
 			},
 		],
 		"hero_battle": [
@@ -6524,15 +6524,15 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đi đường trên hoặc dưới",
-				"info": "ThuongLonginus,GiayHermes,AoChoangBangGia,ThuongXuyenPha,HuanTruongTroy,GiapThongKho",
+				"info": "ThuongLonginus,GiayHermes,AoChoangBangGia,ThuongXuyenPha,HuanChuongTroy,GiapThongKho",
 			},
 			{
 				"name": "Đi đường trên dưới full nửa ST nửa thủ",
-				"info": "ThuongXuyenPha,GiayHermes,ThuongLonginus,AoChoangBangGia,GiapThongKho,HuanTruongTroy",
+				"info": "ThuongXuyenPha,GiayHermes,ThuongLonginus,AoChoangBangGia,GiapThongKho,HuanChuongTroy",
 			},
 			{
 				"name": "Đi rừng",
-				"info": "KiemTruyHon,GiayHermes,ThuongXuyenPha,AoChoangBangGia,HuanTruongTroy,PhucHopKiem",
+				"info": "KiemTruyHon,GiayHermes,ThuongXuyenPha,AoChoangBangGia,HuanChuongTroy,PhucHopKiem",
 			},
 			{
 				"name": "Game thủ hay lên",
@@ -7128,7 +7128,7 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "ThuongLonginus,GiayKienCuong,AoChoangBangGia,GiapThongKho,HuanTruongTroy,HuyetGiap",
+				"info": "ThuongLonginus,GiayKienCuong,AoChoangBangGia,GiapThongKho,HuanChuongTroy,HuyetGiap",
 			},
 			{
 				"name": "Đường trên hoặc dưới",
@@ -7136,7 +7136,7 @@ var infoHeros = {
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "AoChoangThanRa,GiayKienCuong,ThuongLonginus,AoChoangBangGia,HuanTruongTroy,GiapThongKho",
+				"info": "AoChoangThanRa,GiayKienCuong,ThuongLonginus,AoChoangBangGia,HuanChuongTroy,GiapThongKho",
 			},
 		],
 		"hero_battle": [
@@ -7412,11 +7412,11 @@ var infoHeros = {
 			},
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "RiuGnoll,GiayKienCuong,ThuongXuyenPha,AoChoangBangGia,KiemMuramasa,HuanTruongTroy",
+				"info": "RiuGnoll,GiayKienCuong,ThuongXuyenPha,AoChoangBangGia,KiemMuramasa,HuanChuongTroy",
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "ThuongXuyenPha,GiayKienCuong,AoChoangBangGia,KiemMuramasa,HuanTruongTroy,NanhFenrir",
+				"info": "ThuongXuyenPha,GiayKienCuong,AoChoangBangGia,KiemMuramasa,HuanChuongTroy,NanhFenrir",
 			},
 		],
 		"hero_battle": [
@@ -7552,15 +7552,15 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "ThuongXuyenPha,AoChoangThanRa,GiayKienCuong,PhucHopKiem,HuanTruongTroy,ThuongLonginus",
+				"info": "ThuongXuyenPha,AoChoangThanRa,GiayKienCuong,PhucHopKiem,HuanChuongTroy,ThuongLonginus",
 			},
 			{
 				"name": "Đi rừng",
-				"info": "AoChoangThanRa,GiayHoVe,AoChoangBangGia,KiemMuramasa,HuanTruongTroy,GiapThongKho",
+				"info": "AoChoangThanRa,GiayHoVe,AoChoangBangGia,KiemMuramasa,HuanChuongTroy,GiapThongKho",
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,ThuongXuyenPha,HuanTruongTroy,HerculeThinhNo",
+				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,ThuongXuyenPha,HuanChuongTroy,HerculeThinhNo",
 			},
 		],
 		"hero_battle": [
@@ -7989,15 +7989,15 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,KiemMuramasa,HuanTruongTroy,GiapThongKho",
+				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,KiemMuramasa,HuanChuongTroy,GiapThongKho",
 			},
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,ThuongLonginus,HuanTruongTroy,GiapThongKho",
+				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,ThuongLonginus,HuanChuongTroy,GiapThongKho",
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,ThuongXuyenPha,HuanTruongTroy,PhuChuTruongSinh",
+				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,ThuongXuyenPha,HuanChuongTroy,PhuChuTruongSinh",
 			},
 		],
 		"hero_battle": [
@@ -8122,15 +8122,15 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "AoChoangBangGia,GiayHoVe,GiapThongKho,HuanTruongTroy,KhienAsterion,KhienThatTruyen",
+				"info": "AoChoangBangGia,GiayHoVe,GiapThongKho,HuanChuongTroy,KhienAsterion,KhienThatTruyen",
 			},
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "RiuLeviathan,GiayHoVe,AoChoangBangGia,HuanTruongTroy,KhienThatTruyen,GiapThongKho",
+				"info": "RiuLeviathan,GiayHoVe,AoChoangBangGia,HuanChuongTroy,KhienThatTruyen,GiapThongKho",
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "RiuLeviathan,GiayKienCuong,AoChoangBangGia,HuanTruongTroy,KhienThatTruyen,GiapHoMenh",
+				"info": "RiuLeviathan,GiayKienCuong,AoChoangBangGia,HuanChuongTroy,KhienThatTruyen,GiapHoMenh",
 			},
 		],
 		"hero_battle": [
@@ -8264,7 +8264,7 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đi rừng hoặc đường trên dưới",
-				"info": "CungBaoTo,GiayHoVe,KiemFafnir,AoChoangBangGia,KiemMuramasa,HuanTruongTroy",
+				"info": "CungBaoTo,GiayHoVe,KiemFafnir,AoChoangBangGia,KiemMuramasa,HuanChuongTroy",
 			},
 			{
 				"name": "Đi rừng hoặc đường trên dưới",
@@ -8535,7 +8535,7 @@ var infoHeros = {
 			},
 			{
 				"name": "Đường trên dưới hoặc hỗ trợ các đường",
-				"info": "KhienHuyenThoai,GiayHermes,KhienAsterion,HuanTruongTroy,AoChoangBangGia,GiapHoMenh",
+				"info": "KhienHuyenThoai,GiayHermes,KhienAsterion,HuanChuongTroy,AoChoangBangGia,GiapHoMenh",
 			},
 			{
 				"name": "Game thủ hay lên",
@@ -8819,15 +8819,15 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "KiemTruyHon,GiayHoVe,ThuongLonginus,AoChoangBangGia,HuanTruongTroy,KhienThatTruyen",
+				"info": "KiemTruyHon,GiayHoVe,ThuongLonginus,AoChoangBangGia,HuanChuongTroy,KhienThatTruyen",
 			},
 			{
 				"name": "Đường trên hoặc dưới",
-				"info": "AoChoangThanRa,GiayHoVe,AoChoangBangGia,HuanTruongTroy,KiemFafnir,HerculeThinhNo",
+				"info": "AoChoangThanRa,GiayHoVe,AoChoangBangGia,HuanChuongTroy,KiemFafnir,HerculeThinhNo",
 			},
 			{
 				"name": "Game thủ hay lên",
-				"info": "KiemFafnir,GiayHoVe,PhucHopKiem,KhienThatTruyen,HuanTruongTroy,GiapThongKho",
+				"info": "KiemFafnir,GiayHoVe,PhucHopKiem,KhienThatTruyen,HuanChuongTroy,GiapThongKho",
 			},
 		],
 		"hero_battle": [
@@ -8955,7 +8955,7 @@ var infoHeros = {
 			},
 			{
 				"name": "Đi rừng",
-				"info": "GuomLoki,GiayHoVe,QuyenTruongRhea,VuongMiengHecate,KhienThatTruyen,HuanTruongTroy",
+				"info": "GuomLoki,GiayHoVe,QuyenTruongRhea,VuongMiengHecate,KhienThatTruyen,HuanChuongTroy",
 			},
 			{
 				"name": "Game thủ hay lên",
@@ -9258,15 +9258,15 @@ var infoHeros = {
 			},
 			{
 				"name": "Đường trên dưới hoặc trợ thủ",
-				"info": "AoChoangThanRa,GiayHoVe,AoChoangBangGia,HuanTruongTroy,GiapThongKho,KhienThatTruyen",
+				"info": "AoChoangThanRa,GiayHoVe,AoChoangBangGia,HuanChuongTroy,GiapThongKho,KhienThatTruyen",
 			},
 			{
         "name": "Đường trên dưới hoặc trợ thủ",
-        "info": "GiayKienCuong,AoChoangThanRa,KhienThatTruyen,HuanTruongTroy,NanhFenrir,GiapHoMenh",
+        "info": "GiayKienCuong,AoChoangThanRa,KhienThatTruyen,HuanChuongTroy,NanhFenrir,GiapHoMenh",
       },
 			{
 				"name": "Game thủ hay lên",
-				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,HuanTruongTroy,GiapThongKho,KhienThatTruyen",
+				"info": "AoChoangThanRa,GiayKienCuong,AoChoangBangGia,HuanChuongTroy,GiapThongKho,KhienThatTruyen",
 			},
 		],
 		"hero_battle": [
@@ -9806,7 +9806,7 @@ var infoHeros = {
 		"item_build": [
 			{
 				"name": "Đi rừng",
-				"info": "CungBaoTo,GiayKienCuong,KiemFafnir,KiemMuramasa,NanhFenrir,HuanTruongTroy",
+				"info": "CungBaoTo,GiayKienCuong,KiemFafnir,KiemMuramasa,NanhFenrir,HuanChuongTroy",
 			},
 			{
 				"name": "Đi rừng",
@@ -10081,7 +10081,7 @@ var infoHeros = {
 			},
 			{
 				"name": "Đường Caesar",
-				"info": "KhienHuyenThoai,GiayHoVe,TruongBang,GuomHienTriet,HuanTruongTroy,GiapThongKho",
+				"info": "KhienHuyenThoai,GiayHoVe,TruongBang,GuomHienTriet,HuanChuongTroy,GiapThongKho",
 			},
 		],
 		"hero_battle": [
@@ -10220,11 +10220,11 @@ var infoHeros = {
 			},
 			{
 				"name": "Đường đơn hoặc trợ thủ (thay thế)",
-				"info": "GiayHoVe,KhienHuyenThoai,AoChoangThanRa,HuanTruongTroy,GiapThongKho,GiapHoMenh",
+				"info": "GiayHoVe,KhienHuyenThoai,AoChoangThanRa,HuanChuongTroy,GiapThongKho,GiapHoMenh",
 			},
 			{
 				"name": "Đường đơn hoặc trợ thủ (thử bộ này)",
-				"info": "AoChoangThanRa,GiayKienCuong,GiapGaia,KhienThatTruyen,HuanTruongTroy,GiapThongKho",
+				"info": "AoChoangThanRa,GiayKienCuong,GiapGaia,KhienThatTruyen,HuanChuongTroy,GiapThongKho",
 			},
 		],
 		"hero_battle": [
@@ -10284,20 +10284,160 @@ var infoHeros = {
 		},
 		"main_skill": [
 			{
-				"name": "CƯỜNG TRÁNG",
-				"info": "Nội tại: Baldum mặc định tăng thêm 18% giáp, mỗi đòn đánh thường của Baldum gây thêm 20 + (3% giáp vật lý) sát thương phép.",
+				"name": "GIÓ NHẸ",
+				"info": "Hồi chiêu: 5 giây<br>Nội tại: Annette nhận một điểm cộng dồn Gió nhẹ mỗi khi tướng xung quanh tung chiêu, tối đa 15 điểm.<br>Khi đã đủ 15 điểm, nếu bản thân Annette hoặc một tướng đồng minh lân cận còn dưới 70% máu, tất cả điểm cộng dồn sẽ chuyển thành hiệu ứng hồi 275 + (0.3 công phép) (+ 25 mỗi cấp tướng) máu cho mọi tướng đồng minh xung quanh.",
 			},
 			{
-				"name": "VẬT TỔ VỖ TẤT",
-				"info": "Hồi chiêu: 12/11,6/11,2/10,8/10,4/10 giây<br>Tiêu hao: 60/65/70/75/80/85 năng lượng<br>Baldum lao theo hướng chỉ định, gây 175/225/275/325/375/425 (+0.3 Giáp bản thân) (+0.5 Công vật lý) sát thương vật lý và hất tung lên những kẻ địch trúng chiêu dọc đường; khi tông phải tướng địch sẽ dừng lại rồi múa vũ khí hất kẻ địch ra sau, gây thêm 8% máu tối đa của mục tiêu sát thương vật lý, và làm chậm 90% tốc chạy trong 1 giây."
+				"name": "GIÓ XOÁY",
+				"info": "Hồi chiêu: 9/8.5/8/7.5/7/6.5 giây<br>Tiêu hao: 50/55/60/65/70/75 năng lượng<br>Annette tạo ra một cơn gió lốc gây 75/84/93/102/111/120 (+ 0.12 công phép) sát thương phép mỗi 0.25 giây tại điểm chỉ định. Mỗi đợt tăng 33% sát thương, kéo dài trong 2 giây. Những kẻ địch tại vùng tâm cơn gió sẽ phải chịu thêm 2% máu tối đa thành sát thương phép, đồng thời bị làm chậm 50% tốc chạy trong 0.25 giây."
 			},
 			{
-				"name": "ĐỊA CHẤN",
-				"info": "Hồi chiêu: 9 giây<br>Tiêu hao: 50 năng lượng<br>Baldum dậm mạnh lên mặt đất tạo sóng chấn động gây 175/225/275/325/375/425 (+0.3 Giáp bản thân) (+0.5 Công vật lý) sát thương vật lý, tổng cộng 6 lần lên những kẻ địch lân cận, và làm chậm 30% tốc chạy từ các mục tiêu, ngoài ra hiệu ứng còn khiến các sát thương vật lý từ những nạn nhân này lên Baldum bị giảm 15/18/21/24/27/30% trong 1 giây. Mỗi tướng địch trúng chiêu giảm 0.3 giây hồi chiêu thức này.",
+				"name": "GIÓ NỒM",
+				"info": "Hồi chiêu: 11/10.4/9.8/9.2/8.6/8 giây<br>Tiêu hao: 70/75/80/85/90/95 năng lượng<br>Kích hoạt: Annette bắn một quả cầu gió theo hướng chỉ định gây 250 (+ 0.3 công phép) sát thương phép, và làm chậm 50% tốc chạy của các đơn vị trúng chiêu. Quả cầu gió bay xuyên qua nạn nhân đầu tiên, nếu trúng phải nạn nhân thứ hai sẽ gom cả hai lại, gây thêm 300 + (+ 0.5 công phép) sát thương phép, và làm choáng trúng 1 giây.<br>Nội tại: Nếu Annette bị choáng sẽ lập tức hoàn lại thời gian hồi chiêu này, đồng thời giúp tạo lá chắn 300/360/420/480/540/600 (+ 0.5 công phép) và tăng 150/192/234/276/318/360 giáp cùng giáp phép trong 2 giây; 45 giây hồi chiêu.",
 			},
 			{
-				"name": "ĐỊA GIAM",
-				"info": "Hồi chiêu: 70/65/60 giây<br>Tiêu hao: 100 năng lượng<br>Sau 0.5 giây, Baldum tạo ra một vùng làm giảm 90% tốc độ di chuyển trong 0.6 giây trước khi mặt đất sụp đổ và giam giữ kẻ địch trong 3 giây, suốt thời gian này nạn nhân không thể thực hiện bất cứ hành động nào và không thể bị chọn. Khi hết thời gian giam giữ, nạn nhân sẽ phải chịu 400/600/800 (+0.50 công vật lý) (+0.3 giáp vật lý) sát thương vật lý và giảm 50% tốc chạy trong 1.5 giây.",
+				"name": "MẮT BÃO",
+				"info": "Hồi chiêu: 60/50/40 giây<br>Tiêu hao: 100/125/150 năng lượng<br>Annette bay đến địa điểm chỉ định tạo ra một cơn bão hất văng kẻ địch lân cận và gây 400/600/800 + (0.5 công phép) sát thương phép, đồng thời tạo thành một bức tường gió ngăn kẻ địch vượt qua trong 3.5 giây. Các tướng đồng minh bên trong bức tường gió được tăng 40/60/80% tốc chạy và 30/40/50% tốc đánh. Khi tung chiêu này Annette sẽ được hoá giải mọi trạng thái khống chế hiện tại đang phải gánh chịu.",
+			}
+		],
+		"skill_up": {
+			"line1": "1,3,5,7,9,11",
+			"line2": "2,6,10,13,14,15",
+			"line3": "4,8,12",
+		},
+		"skill_combo": [
+			{
+				"name": "*Combo đầu game (tối ưu sát thương)",
+				"info": "3,2,0",
+			},
+			{
+				"name": "*Combo đầu game (ưu tiên cấu rỉa)",
+				"info": "2,3,0",
+			},
+			{
+				"name": "*Combo khi có đủ 3 kỹ năng",
+				"info": "3,2,4,3,2,0",
+			},
+		],
+		"skill_note": "<strong class=\"clr-orange\">*Đầu game</strong><br>- Là một cô nàng chơi hỗ trợ hoặc kiêm luôn cả pháp sư đường giữa luôn đó, sát thương to lắm, đừng đùa.<br>- Mặc dầu thế đừng đứng cao quá, chơi xung quanh AD và cấu rỉa đối thủ bằng Gió xoáy.<br>- Khi tung Gió nồm đặc biệt chú ý, nó sẽ mắc xích và khóa 2 mục tiêu trúng phải khi có trạng thái này thì đánh thui kk.<br>- Chú ý tối đa hóa xác thương với combo Gió nồm trúng 2 mục tiêu sau đó Gió xoáy.<br><br><strong class=\"clr-orange\">*Giữa và cuối game</strong><br>- Về giữa và cuối game nên chú ý kiểm tra bụi và đi gank hỗ trợ các lane và chú ý cấu rỉa máu, đừng đứng cao quá dễ bốc hơi lắm :P<br>- Chiêu cuối Mắt bão là chiêu thức cực kì lạ và khó có thể sử dụng thành thục, vì thế các bạn nên tập luyện chiu này nhé, thành bại tại cái điện thoại mà haha!!<br>- Mắt bão rất đa dụng có thể tách đội hình đối phương ra nhiều mãng, hoặc ngăn chặn các pha dồn combo. đặc biệt xem xạ thủ, pháp sư đối phương ở đâu lùa về.",
+		"skill_special": "TocBien,CapCuu",
+		"main_rune": {
+			"rune2": [
+				{
+					"name": "NgocDo24",
+					"info": "Công phép +2.5<br>Xuyên giáp phép +1.4",
+				},
+				{
+					"name": "NgocTim28",
+					"info": "Máu tối đa +13.5<br>Tốc chạy +0.7%",
+				},
+				{
+					"name": "NgocXanh22",
+					"info": "Máu tối đa +15.7<br>Hồi máu/5s +3.1<br>Giảm hồi chiêu +0.3%",
+				}
+			],
+			"rune3": [
+				{
+					"name": "NgocDo31",
+					"info": "Công phép +4.2<br>Xuyên giáp phép +2.4",
+				},
+				{
+					"name": "NgocTim32",
+					"info": "Tốc đánh +1%<br>Tốc chạy +1%",
+				},
+				{
+					"name": "NgocXanh33",
+					"info": "Công phép +2.4<br>Giảm hồi chiêu +0.7%",
+				}
+			]
+		},
+		"item_build": [
+			{
+				"name": "Dành cho đường đơn hoặc lên sát thương phép",
+				"info": "NgocDaiPhapSu,GiayKienCuong,TruongBang,KhienHuyenThoai,MatNaBerith,GiapHoMenh",
+			},
+			{
+				"name": "Chơi vị trí hỗ trợ",
+				"info": "LenhBaiPhongThan,GiayKienCuong,TruongBang,KhienHuyenThoai,HuanChuongTroy,MatNaBerith",
+			},
+			{
+				"name": "Vị trí trợ thủ bộ này",
+				"info": "KhienHuyenThoai,GiayKienCuong,KhienAsterion,TruongBang,HuanChuongTroy,SachThanh",
+			},
+		],
+		"hero_battle": [
+			{
+				"name": "và đồng bọn",
+				"desc": "là một hỗ trợ biểu mẫu, khả năng cách ly ngăn chặn các pha ám sát AD từ kẻ địch,..",
+				"info": [
+					{"hero_id": "violet", "id_page": "Violet"},
+					{"hero_id": "lauriel", "id_page": "Lauriel"},
+					{"hero_id": "yorn", "id_page": "Yorn"},
+					{"hero_id": "tel_annas", "id_page": "TelAnnas"},
+					{"hero_id": "valhein", "id_page": "Valhein"},
+				]
+			},
+			{
+				"name": "và cách khắc chế",
+				"desc": "có khả năng khống chế và cách ly kẻ địch cao, thế nhưng đừng đùa với Omen nhé, nhốt lồng thì khó mà bay nhảy, còn hiệu ứng nhiều gặp thánh Chaugnar thì thôi Thánh hóa giải hiệu ứng bó tay,...",
+				"info": [
+					{"hero_id": "omen", "id_page": "Omen"},
+					{"hero_id": "chaugnar", "id_page": "Chaugnar"},
+					{"hero_id": "ybneth", "id_page": "Ybneth"},
+					{"hero_id": "payna", "id_page": "Payna"},
+				]
+			}
+		],
+		"hero_story": "Ngày làm việc của <i class=\"clr-orange\">Annette</i> khởi đầu khi trời chạng vạng.<br>Đũa phép? Có. Cầu pha lê? Sẵn sàng. Tăng lực dược? Xong – sai lầm dạo trước đã dạy cô bài học cẩn tắc vô áy náy, cứ phải chuẩn bị kỹ cho chắc cú. Xong xuôi đâu đấy, <i class=\"clr-orange\">Annette</i> phóng chổi bay khỏi căn gác mái nhỏ nhắn ấm cúng của mình lên bầu trời đầy sao, nơi cô lặng lẽ vi hành khắp thị trấn nhỏ ven biển đang đắm chìm trong giấc nồng.<br>Thị trấn Hải hồn nằm lọt thỏm giữa ba bề là đại dương. Suốt những thập kỷ gần đây, bão tố và sóng thần đã trở thành chuyện thường niên do các thay đổi khí hậu bắt nguồn từ những dòng chảy và Khe vực thẳm. Cũng bằng đấy thời gian dân làng chài đã nỗ lực cầu khẩn Hội đồng Phép thuật cắt cử một pháp sư đến cứu viện. Đắng lòng thay số phận của làng chài với dân số khiêm tốn này chẳng nằm trong danh sách ưu tiên của Hội đồng, nhất là khi chính bản thân các Pháp sư đang ngày càng ít đi, lại còn phải lo chống trả những cuộc tấn công ngày một leo thang tại tiền tuyến phương nam. Thế là thị trấn này, một cách hiển nhiên, trở thành thực địa của các phù thủy tập sự.<br>“Làng chài nơi đây cần mình!”<br>Thay vì chọn thực tập tại các chốn phồn hoa đô thị, <i class=\"clr-orange\">Annette</i> một mình một chổi phi thẳng đến Thị trấn Hải hồn. Trên thông thiên văn, dưới tường địa lý, à không phép thuật hệ gió, rõ như ban ngày rằng không cô thì còn ai vào đây để giải quyết vấn đề khí hậu chốn này. Bằng vốn kiến thức của mình, bất kỳ thay đổi nào của các chòm sao, dù là nhỏ nhất, đều được cô nhanh chóng phát hiện và lập tức thông báo giúp cư dân làng chài chuẩn bị sẵn sàng cho mọi thiên tai sắp ập đến.<br>Ngặt một nỗi điều mà dân làng chài cần là một pháp sư thần kỳ, người có khả năng hô biến xua tan thiên tai, điều mà dĩ nhiên <i class=\"clr-orange\">Annette</i> còn lâu mới đủ sức - ấy là còn chưa kể đến việc cô không được phép niệm chú sử dụng phép thuật gì sất, mà cái này thì chủ yếu là do những điều luật ràng buộc cấm thực tập sinh phù thủy dùng phép thuật ngoài khuôn viên nhà trường. Thế nên đối với dân làng chài, <i class=\"clr-orange\">Annette</i> giống một cô bé ngáo ngơ làm chuyện bá vơ hơn là một pháp sư đáng kính, bất kể thành tích dự báo thời tiết suýt hoàn hảo, chỉ sai hai trong tổng số hàng chục lần chính xác trong 50 ngày vừa qua của cô.<br>Hôm đấy là một ngày chủ nhật tươi sáng - một trong các sai lầm kể trên. Tất cả dân chài rút hết thuyền bè neo đậu kỹ càng, nhà cửa chốt chặn chặt chẽ và ở lỳ suốt bên trong cả ngày theo như cảnh báo của <i class=\"clr-orange\">Annette</i>. Thế rồi sáng hôm sau mặt trời vẫn tỏa nắng lung linh…<br>Lần còn lại là khi <i class=\"clr-orange\">Annette</i> ngủ gục giữa chừng lúc nửa đêm. Trước đấy thì bầu trời vẫn cho thấy các tín hiệu của các ngày nắng sắp tới, thế rồi khi cô chợp mắt nhẹ do đã quá mệt mỏi thì các vì sao lại chuyển mình. Tối hôm sau khi những chiếc thuyền đầy ắp cá tươi đang trên đường về bờ biển thì không kịp trở tay khi bão ập đến bất ngờ. May thay cơn bão cũng không to lắm, và <i class=\"clr-orange\">Annette</i> cũng kịp xuất hiện để cứu vãn tình hình, thế nên hú hồn thì hú hồn, nhưng không có thương vong nào cả.<br>Dẫu vậy những sai lầm này vẫn dẫn đến khá nhiều than phiền về <i class=\"clr-orange\">Annette</i>. Đối với mọi sinh viên của học viện trứ danh trực thuộc Hội đồng, việc duy trì niềm tin và danh dự của tổ chức là trách nhiệm và nghĩa vụ của tất cả mọi người. Do đó các giáo sư đã quyết định đình chỉ công tác của <i class=\"clr-orange\">Annette</i> và yêu cầu cô quay về trường học lại.<br>Và tối nay chính là buổi cuối cùng của <i class=\"clr-orange\">Annette</i>.<br>Nếu được hỏi thì hiển nhiên <i class=\"clr-orange\">Annette</i> chẳng thích việc bị buộc phải quay về tí nào. Dẫu căn gác mái được dựng vội dựng vàng đầy tạm bợ bởi dân chài chẳng thể nào sánh bằng ký túc xá ở trường, nhưng cô cảm thấy như được ở nhà. Hơn thế nữa, trước khi đến đây, cô đã tự hứa với lòng rằng mình sẽ sử dụng phép thuật để hỗ trợ những người cần cứu giúp, và rõ ràng là lời hứa chưa được thực hiện trọn vẹn.<br>Công tâm mà nói thì là một thực tập sinh, <i class=\"clr-orange\">Annette</i> đã làm khá tốt. Với nội dung phức tạp như Thiên văn học thì sai số 4% đã là đáng gờm lắm rồi. Tuy nhiên chính bản thân của <i class=\"clr-orange\">Annette</i> cũng hiểu sự khác biệt giữa 4% lý thuyết và thực tế khổng lồ ra sao. Với dân làng chài, hễ sai là mất mạng chứ chẳng chơi.<br>Ngẩng đầu nhìn bầu trời điểm xuyết đầy những vì sao lớn có, nhỏ có, <i class=\"clr-orange\">Annette</i> bỗng nhớ lại một cuộc gặp gỡ định mệnh từ nhiều năm trước.<br>Đêm đấy <i class=\"clr-orange\">Annette</i> ở lại thư viện. Người duy nhất còn sót lại ngoài cô là một người phụ nữ với đôi mắt đầy trìu mến. <i class=\"clr-orange\">Annette</i> biết mình cần phải chăm chỉ hơn nữa, vì dẫu cô rất giỏi Lý thuyết Phép thuật, lúc thực hành thì cô lại tệ ơi là tệ. Tệ đến nỗi cuối học kỳ cô là người duy nhất trong cả lớp vẫn chưa thể niệm chú phép thuật nào cho ra hồn cả. Và kết quả như thế nếu vẫn còn tiếp diễn thì không bị buộc thôi học mới là lạ.<br><i class=\"clr-orange\">Annette</i> cố lật hết quyển này đến quyển khác để giải đáp một số thắc mắc, nhưng mọi nỗ lực dường như vô vọng. Thế rồi khi bắt gặp ánh mắt đầy khích lệ của người phụ nữ, cô quyết định hỏi xin một số lời tư vấn.<br>“Ta đã từng có một người bạn học Lý thuyết Phép thuật tệ khủng khiếp – và anh ấy là một trong những Pháp sư hùng mạnh nhất ta từng biết.” Người phụ nữ nói.<br><i class=\"clr-orange\">Annette</i> há hốc mồm, tai vẫn chưa thể tin nổi điều vừa nghe.<br>Quý cô mỉm cười. “Cũng kinh ngạc như em, thế nên ta quyết định theo dõi xem anh ấy thường tập luyện thế nào. Em biết ta thấy gì không? Anh ấy nhảy múa cùng các ngọn lửa, hệt như lũ tinh linh thiêu thân, và nhảy cuồng nhiệt như thể lửa là cả thế giới đối với anh ấy.”<br>“Phép thuật chân chính không chỉ gói gọn trong câu chữ. Vùi đầu trong sách cả ngày chẳng giúp ta đi đến đâu cả. Em hãy thử thân thiện hơn với phép thuật, và biết đâu đấy một ngày nào đó em sẽ được chấp nhận.<br>Nhiều năm về sau <i class=\"clr-orange\">Annette</i> mới biết được danh tính của người phụ nữ bí ẩn đó tại một buổi lễ trao thưởng. Sephera là một trong những nhà sáng lập của Hội đồng Phép thuật, và cũng đồng thời là một huyền thoại. Khi <i class=\"clr-orange\">Annette</i> tiếp nhận chiếc cúp từ tay Sephera, lời nhắn nhủ đầy thông thái năm nào lại vang vọng trong tai cô: “Hãy kết bạn với phép thuật, và cùng nhau hỗ trợ những người cần cứu giúp.”<br>Đấy chính là điều đã mang <i class=\"clr-orange\">Annette</i> đến với Thị trấn Hải hồn.<br>Bất thình lình các vì sao chuyển mình. <i class=\"clr-orange\">Annette</i> điếng hồn trân trối nhìn Tử vong tinh, vì sao hắc ám nhất chợt lóe lên chút ánh tím rồi tăt lịm đi. Chỉ trong chớp mắt, nhưng đôi mắt tinh tường của <i class=\"clr-orange\">Annette</i> đã kịp bắt trọn cả thời khắc ấy. Một cơn bão đang thai nghén – thứ được sinh ra từ Khe vực thẳm chốn xa khơi đang dần dần bành trướng trọn khắp đại dương.<br>Tàn bạo. Chết chóc<br>“Hỡi bạn tôi ơi, mình cần trợ giúp!” Trước hiểm họa khủng khiếp đang ập đến từ cuối chân trời, <i class=\"clr-orange\">Annette</i> quyết làm lơ luật lệ của Học viện. Cô nhảy lên chiếc chổi của mình và phóng thẳng đến cơn bão như một vị kỵ sĩ quả cảm.<br>Sáng hôm sau khi dân chài thức giấc, họ phát hiện ra thuyền bè của mình nay chỉ còn lại những mảnh vụn, và <i class=\"clr-orange\">Annette</i> ngất tỉnh trong kiệt quệ trên mặt đất. Dẫu chẳng ai được chứng kiến những gì <i class=\"clr-orange\">Annette</i> đã làm, họ vẫn thừa sức mường tượng ra sự khủng khiếp của thứ cô phải một mình đối đầu dựa trên cảnh tượng hoang tàn sáng nay. “Thật là một pháp sư vĩ đại!” Họ thốt lên. Suýt tí nữa thì vì sự gàn dở của mình mà họ đã tống khứ đi người đồng minh tận tụy nhất – may thay cô ấy vẫn hết lòng vì họ cho đến phút cuối cùng.<br>Mọi sự, vẫn còn có thể được cứu vãn.<br>Thực tập sinh mới thay thế <i class=\"clr-orange\">Annette</i>, trong ngỡ ngàng, được cả làng chài đề nghị rời đi. Anh ta chẳng hiểu chuyện quái gì đang diễn ra, chỉ biết Thị trưởng gửi gắm cho mình mang về Học viện một bức tâm thư cảm tạ với tất cả chữ ký của mọi dân làng. Người thị trưởng không chỉ ngợi khen những nỗ lực của <i class=\"clr-orange\">Annette</i>, mà còn xin đề xuất Học viện tấn phong cô trở thành Pháp sư chính thức.<br>Chưa hết, ông còn tiết lộ rằng toàn làng chài Hải hồn đang lên kế hoạch xây dựng một ngôi đền ma pháp tri ân <i class=\"clr-orange\">Annette</i>. Dẫu có thể thiếu thốn về cả nhân lực lẫn vật tư, nhưng dù tốn cả đời, hay thậm chí nhiều thế hệ, họ vẫn đồng lòng quyết hoàn thành sứ mệnh này, bởi họ biết rằng Annnette đã thệ ước cô sẽ dành cả đời ở chốn nay.<br>Giờ đây bất cứ khi nào Thị trưởng nhắc đến <i class=\"clr-orange\">Annette</i> trong thư, ông luôn bày tỏ sự tôn kính của mình bằng dòng chữ.<br>Ngài <i class=\"clr-orange\">Annette</i>.",
+		"hero_skin": [
+			{
+				"name": "Nàng Phù Thủy Nhỏ",
+				"gold": "13,888",
+				"voucher": "233",
+				"event": "",
+				"wall": "Annette01",
+				"disable": "yes",
+				"img": "thumb1.jpg",
+				"video": "Annette01",
+			},
+			{
+				"name": "Nữ Quản Ga",
+				"gold": "",
+				"voucher": "219",
+				"event": "",
+				"wall": "Annette02",
+				"disable": "yes",
+				"img": "thumb2.jpg",
+				"video": "Annette02",
+			},
+		]
+	},
+	"amily": {
+		"hero_id": "Amily",
+		"hero_name": "Amily",
+		"main_info": {
+			"price_gold": "18,888",
+			"price_voucher": "539",
+			"price_text": "",
+			"position": "Đấu sĩ / Sát thủ",
+			"special": "Tiền đạo",
+		},
+		"main_skill": [
+			{
+				"name": "ĐƠN ĐẢ ĐỘC CƯỚC",
+				"info": "Nội tại: Amily sở hữu khả năng chiến đấu điêu luyện đến mức các đòn đánh thường và Liên hoàn cước chỉ trúng một mục tiêu sẽ gây thêm 50% sát thương.",
+			},
+			{
+				"name": "TÀNG ĐAO KÍCH",
+				"info": "Hồi chiêu: 10/9.4/8.8/8.2/7.6/7 giây<br>Tiêu hao: 60/65/70/75/80/85 năng lượng<br>Amily phóng tàng đao công kích mục tiêu, vũ khí này nảy lan tối đa 4 lần gây 150/180/210/240/270/300 + (0.6 công vật lý) sát thương vật lý kèm hiệu ứng làm chậm 30% tốc chạy, riêng nạn nhân đầu tiên bị làm chậm 50% tốc chạy trong 1 giây. Sau khi công kích hết các mục tiêu, lưỡi đao nảy trở về bản thân giúp Amily tăng 20% tốc chạy trong 3 giây, và hồi 125/150/175/200/225/250 (+0.5 công vật lý) máu kèm 30% giảm thời gian hồi chiêu này."
+			},
+			{
+				"name": "LIÊN HOÀN CƯỚC",
+				"info": "Hồi chiêu: 6 giây<br>Tiêu hao: 50/55/60/65/70/75 năng lượng<br>Kích hoạt: Amily lướt theo hướng chỉ định tung hai cú đá gây 80/96/112/128/144/160 (+0.30 công vật lý) sát thương vật lý, đặc biệt cú đá thứ hai sẽ gây hiệu ứng hất văng và cường hoá đòn đánh thường kế tiếp gây thêm 80/96/112/128/144/160 (+0.30 công vật lý) sát thương vật lý kèm hiệu ứng đòn đánh.<br>Nội tại: Sau khi thoát khỏi giao tranh Amily được tăng 10/12/14/16/18/20 tốc chạy và hồi 1% máu và năng lượng tối đa mỗi giây",
+			},
+			{
+				"name": "CUỒNG BẠO CƯỚC",
+				"info": "Hồi chiêu: 60/55/50 giây<br>Tiêu hao: 120/130/140 năng lượng<br>Sau 1 giây vận công, Amily gây 300/400/500 sát thương phép diện rộng và cường hoá bản thân giúp tăng 100/150/200 công vật lý, 50 tốc chạy, 50/75/100 miễn thương. Suốt thời gian cường hoá Amily gây 60/80/100 sát thương phép lên kẻ địch lân cận mỗi giây; hiệu ứng kéo dài 8 giây.",
 			}
 		],
 		"skill_up": {
@@ -10312,14 +10452,14 @@ var infoHeros = {
 			},
 			{
 				"name": "*Combo khi có đủ 3 kỹ năng",
-				"info": "3,4,2,3,0",
+				"info": "2,3,0,4,2,0",
 			},
 			{
-				"name": "*Hoặc combo từ xa",
-				"info": "4,2,3,0",
+				"name": "*Hoặc combo này kết hợp tốc biến, Bật chiêu cuối tốc biến tới mục tiêu rồi dùng chiêu khác",
+				"info": "4,3,0,2,0",
 			},
 		],
-		"skill_note": "<strong class=\"clr-orange\">*Đầu game</strong><br>- Là một tướng Đỡ đòn dạng cứng nên có thể mang đi đường đơn hoặc chơi vị trí hỗ trợ cũng được.<br>- Về đầu game nên tận dụng Chiêu Địa chấn để dọn lính và trợ giúp đồng đội.<br>- Về Chiêu Vật tổ hãy tận dụng chính xác có thể tấn công hoặc rút lui đều được.<br>- Tậu một số trang bị thiên hướng đốt kẻ địch cùng Địa chấn.<br><br><strong class=\"clr-orange\">*Giữa và cuối game</strong><br>- Về giữa và cuối game, ngoài việc là bức tường vững chãi, và gây khó chịu cho kẻ địch, thì Chiêu cuối là một chiêu thức đặc biệt quan tâm và chú ý khi sử dụng.<br>- Chiêu cuối có khoảng thời gian chậm trễ trước khi bung ra và giam cầm kẻ địch, phải luyện dùng kỹ năng này thành thục đoán hướng di chuyển của kẻ địch.<br>- Khi đã giam cầm kẻ địch thành công thì việc tiếp theo để đồng bọn dọn kk.",
+		"skill_note": "<strong class=\"clr-orange\">*Đầu game</strong><br>- Là một tay đấu sĩ kiêm luôn sát thủ, đường Caesar là một chọn lựa tuyệt vời nhất.<br>- Coi bộ các kỹ năng của cô nàng không khó gì máy nhưng làm sao cho hiệu quả nhất mới là quan trọng nhỉ, dùng Tàng đao kích đẩy lính và cấu máu địch.<br>- Liên hoàn cước chiêu này dùng trao đổi chiêu thức rất có lợi, canh rừng lên gank dùng chiêu này khống chế nhẹ.<br>- Có thể nói là mạnh nhưng không đến nổi mỏng, giai đoạn đầu tốt nhất hiên lành, đợi đồng đội lên chơi nhé!!<br><br><strong class=\"clr-orange\">*Giữa và cuối game</strong><br>- Về giữa và cuối game tầm 3 món trang bị cuối trở lên, thả sức mà tung hoành nhé, dame to lắm, vào cô cân hết.<br>- Chiêu cuối Cuồng bạo cước phải chơi nhiều và biết thời gian lúc nào là đến, bật trước khi giao tranh nổ ra 1s, kết hợp tốc biến vào nơi nào có đông tướng địch nhất mà quẩy, nhớ thấy không ổn thì tìm đường lui, không lui được thì kiếm em nào mỏng khô máu kk!!<br>- Đừng lo chiêu cuối có miễn thương đồ khá ổn đấy, phải nói tổng thể Amily mạnh khi ai biết chơi @@!",
 		"skill_special": "TocBien,BocPha",
 		"main_rune": {
 			"rune2": [
@@ -10328,85 +10468,231 @@ var infoHeros = {
 					"info": "Công vật lý +1.5<br>Máu tối đa +13.5",
 				},
 				{
-					"name": "NgocTim28",
-					"info": "Máu tối đa +13.5<br>Tốc chạy +0.7%",
+					"name": "NgocTim23",
+					"info": "Công vật lý +0.6<br>Máu tối đa +36",
 				},
 				{
-					"name": "NgocXanh26",
-					"info": "Giáp +5.4",
+					"name": "NgocXanh23",
+					"info": "Máu tối đa +13.5<br>Xuyên giáp +3.8",
 				}
 			],
 			"rune3": [
 				{
-					"name": "NgocDo37",
-					"info": "Tốc đánh +1%<br>Máu tối đa +33.7<br>Giáp +2.3",
+					"name": "NgocDo36",
+					"info": "Công vật lý +2<br>Xuyên giáp +3.6",
 				},
 				{
-					"name": "NgocTim33",
-					"info": "Máu tối đa +45<br>Hồi máu/5s +5.2<br>Tốc chạy +0.4%",
+					"name": "NgocTim32",
+					"info": "Tốc đánh +1%<br>Tốc chạy +1%",
 				},
 				{
-					"name": "NgocXanh34",
-					"info": "Máu tối đa +37.5<br>Giảm hồi chiêu +0.6%",
+					"name": "NgocXanh310",
+					"info": "Tốc đánh +0.6%<br>Xuyên giáp phép +6.4",
 				}
 			]
 		},
 		"item_build": [
 			{
-				"name": "Đường đơn hoặc trợ thủ",
-				"info": "GiayKienCuong,ThuongLonginus,AoChoangBangGia,GiapGaia,KhienHuyenThoai,GiapHoMenh",
+				"name": "Đường Caesar",
+				"info": "AoChoangThanRa,GiayKienCuong,ThuongXuyenPha,PhucHopKiem,HuanChuongTroy,KiemMuramasa",
 			},
 			{
-				"name": "Đường đơn hoặc trợ thủ (thay thế)",
-				"info": "GiayHoVe,KhienHuyenThoai,AoChoangThanRa,HuanTruongTroy,GiapThongKho,GiapHoMenh",
+				"name": "Đường Caesar (thay thế)",
+				"info": "AoChoangThanRa,GiayKienCuong,ThuongXuyenPha,AoChoangBangGia,HuanChuongTroy,GiapThongKho",
 			},
 			{
-				"name": "Đường đơn hoặc trợ thủ (thử bộ này)",
-				"info": "AoChoangThanRa,GiayKienCuong,GiapGaia,KhienThatTruyen,HuanTruongTroy,GiapThongKho",
+				"name": "Đường Caesar (bộ này cho hoành tráng)",
+				"info": "AoChoangThanRa,GiayKienCuong,ThuongXuyenPha,PhucHopKiem,ThanhKiem,GiapHoMenh",
 			},
 		],
 		"hero_battle": [
 			{
 				"name": "và đồng bọn",
-				"desc": "kết hợp với máy ông này thì ôi thôi wombo combo, nát bét hết bên team địch :P",
+				"desc": "là một sát thủ đường đơn hiệu quả, thế nhưng combat phải có thế lực chống lưng, và đây là danh sách chiến hữu của ả,..",
 				"info": [
-					{"hero_id": "ilumia", "id_page": "Ilumia"},
-					{"hero_id": "ignis", "id_page": "Ignis"},
-					{"hero_id": "airi", "id_page": "Airi"},
+					{"hero_id": "alice", "id_page": "Alice"},
 					{"hero_id": "maloch", "id_page": "Maloch"},
-					{"hero_id": "wisp", "id_page": "Wisp"},
+					{"hero_id": "xeniel", "id_page": "Xeniel"},
+					{"hero_id": "ybneth", "id_page": "Ybneth"},
+					{"hero_id": "payna", "id_page": "Payna"},
+					{"hero_id": "teemee", "id_page": "TeeMee"},
 				]
 			},
 			{
 				"name": "và cách khắc chế",
-				"desc": "khi đối đầu vơi Y'bneth hoặc Arum thì quả là một cái gì đó khủng khíp, khả năng hồi máu của 2 ông này là siêu phàm, trong khi Baldum chỉ là cấu rỉa, tốt nhất giữ khoảng cách và chờ đội đồng đội lên gank,..",
+				"desc": "hơi e thẹn khi gặp một số tay khóa, câm lặng, hiệu ứng các kiểu,..",
 				"info": [
-					{"hero_id": "ybneth", "id_page": "Ybneth"},
 					{"hero_id": "arum", "id_page": "Arum"},
+					{"hero_id": "baldum", "id_page": "Baldum"},
+					{"hero_id": "chaugnar", "id_page": "Chaugnar"},
+					{"hero_id": "alice", "id_page": "Alice"},
+					{"hero_id": "annette", "id_page": "Annette"},
 				]
 			}
 		],
-		"hero_story": "“<i class=\"clr-orange\">Baldum</i> – Nhân mã thần lực.<br>Xương cứng như thép, và cơ dày như thừng. Ông hiên ngang, lẫm liệt, và nhanh nhạy, với sức mạnh sánh ngang các vị thần.<br>Mọi nhân mã đều là các dũng sĩ trời sinh, và <i class=\"clr-orange\">Baldum</i> là người thiện chiến nhất trên tất thảy. Ông là một huyền thoại từ thời kỳ hoang sơ, người không chỉ chứng kiến sự khởi đầu và kết thúc của cuộc chiến giữa Nhân loại cùng tộc Afata chống lại hai đợt Hắc ám Xâm lược, mà còn tận tụy bảo vệ tất cả sinh vật trên Đồng bằng Ánh trăng bằng Cột tổ Khai thiên.<br>Tương truyền rằng Cột tổ Khai thiên - linh vật tồn tại từ thuở khai thiên tích địa của cả vũ trụ - chính là một Mảnh vỡ Andura với sức mạnh của thời gian. Đó chính là lý do vì sao <i class=\"clr-orange\">Baldum</i> lại trường sinh và luôn sung mãn dù đã sống hàng thế kỷ. Trớ trêu thay, Cột tổ chỉ bảo vệ duy nhất <i class=\"clr-orange\">Baldum</i>, và cứ thế ông buộc phải trơ mắt nhìn cả dòng tộc, từ thân bằng quyến thuộc đến tất cả mọi nhân mã, lìa đời từng người một theo tháng năm. Điều gì phải đến rốt cuộc cũng đến, trên khắp Athanor còn một và chỉ một nhân mã, <i class=\"clr-orange\">Baldum</i>.<br>Suốt một thời gian dài người ta vẫn cho rằng <i class=\"clr-orange\">Baldum</i> chỉ là chuyện cổ tích, thậm chí ngay cả các cư dân lâu đời của Rừng rậm Elborne cũng không chắc <i class=\"clr-orange\">Baldum</i> còn sống hay không. Chỉ khi Volkath, Chúa tể Hắc ám, trỗi dậy cùng quân đoàn Lokheim của hắn, mọi sinh linh mới được diện kiến <i class=\"clr-orange\">Baldum</i>. Chính xác hơn thì tất cả những gì họ thấy là một tấm lưng vững chãi khi ông đang bận tả xung hữu đột giữa muôn vàn quân Lokheim, nhưng chỉ thế thôi đã quá đủ để khích lệ sĩ khí đến ngút trời cho tất cả binh lính Afata, và in đậm hình bóng vị chiến binh vĩ đại này suốt đời họ.<br>“Sau khi chôn người đồng bào cuối cùng còn sót lại, ta chạy 12 vòng quanh mộ theo đúng truyền thống của bộ tộc. Tổ tiên truyền rằng khi vó của chúng ta tung bay trên đại địa, Đất Mẹ sẽ thức tỉnh và giang tay đón lũ trẻ của người trở về quê hương.<br>“Ta đã dự rất nhiều đám tang trong đời mình – quá nhiều là đằng khác, nhưng lần đấy là lần cô độc nhất. Chẳng còn ai phi vó cùng ta, chẳng còn bất cứ ai hát điếu ca cùng ta. Tiếng gió rít là bạn đồng hành duy nhất còn sót lại. Nó, và Cột tổ Khai thiên trên tay ta.<br>“Và rồi Lão Sồi mang tặng ta một món quà từ Yggdrasil – một mẩu rể gốc. Ta trồng nó trên mảnh đất chôn dân tộc mình, để vinh danh những trận chiến quả cảm của họ.”<br>“Lão Sồi cũng không thẹn với tên của mình. Mẩu rể thuở nào đã được chăm bón thành Rừng Vệ Nỗ ngày nay.”<br>Qua những mẩu chuyện với <i class=\"clr-orange\">Baldum</i> sau cuộc chiến, mọi người dần biết thêm về quá khứ bi hùng của ông. “Lão Sồi” được nhắc đến không ai khác ngoài Đại thụ Viễn cổ, vị cây-hùng đã mang đến sinh mệnh cho Rừng Vệ Nỗ. Lão không chỉ trao tặng <i class=\"clr-orange\">Baldum</i> một món quà từ Yggdrasil, mà còn kèm theo đó một sứ mệnh: thẳng tiến đến phương bắc hoang dã đầy lạnh giá của Đồng bằng Ánh trăng nhằm bảo canh gác Khe vực thẳm cạnh chân Núi Orpheus.<br>Và <i class=\"clr-orange\">Baldum</i> cứ thế tuần tra khắp chốn hoang mạc suốt hàng ngàn năm trong lẻ loi, cô độc đầy hiu quạnh. Có lúc ông suýt quên mình đã từng là một dũng sĩ. Đắm mình trong hồi ức, ông lẳng lặng ngồi đó tưởng nhớ quãng ngày tươi đẹp vô tư lự khi mình và chúng bạn thả sức cất vó hò hát tắm mình trong ánh tà dương. Nhưng ngay khi bè lũ Lokheim để lộ các dấu hiệu bất thường, và ngọn lửa chiến tranh bùng phát gần quê nhà, trong chớp mắt vị dũng sĩ trời sinh lập tức phục hồi bản năng chiến trận chảy trong huyết quản.<br>“Cánh rừng này nảy mầm từ đất đai được bồi bổ bởi chính máu và thịt của đồng bào ta. Từng nụ hoa, từng tấc đất là gia đình ta. Chừng nào sinh mệnh này chưa cạn, hơi thở này chưa kiệt, thì lũ ác quỷ các ngươi chớ hòng tiến thêm dù chỉ một bước!””",
+		"hero_story": "<i class=\"clr-orange\">Amily</i> là một kẻ phản bội.<br>Tại chặng cuối cuộc thi, cô đã cùng 3 tuyển thủ khác hợp tác đồ sát tất cả giám sát & huấn luyện viên trong phòng. Cả bốn trốn thoát thành công sau đấy, nhưng tất thảy mới chỉ là sự khởi đầu. Để trốn tránh truy sát từ tổ chức, bốn kẻ đào tẩu nhanh chóng tách ra mỗi người một ngả.<br>Lý ra <i class=\"clr-orange\">Amily</i> không nhất thiết phải làm vậy. Cô chỉ cần ngoan ngoãn tuân theo an bài của tổ chức, chiến thắng & đạp lên thi thể của mọi kẻ cạnh tranh trong cuộc thi để trở thành nữ hoàng sát thủ của Hội ám hoàng. Cấp cao tầng của tổ chức thậm chí còn chuẩn bị sẵn cho cô đầy đủ thân phận, quyền lực, tiền tài, và vô vàn thứ hấp dẫn khác.<br>Với một đứa trẻ mồ côi như <i class=\"clr-orange\">Amily</i>, theo lẽ thường thì cuộc sống như thế có gì đáng để đòi hỏi hơn nữa.<br>Nhưng rốt cuộc <i class=\"clr-orange\">Amily</i> vẫn phản bội và bỏ trốn. Lựa chọn này không chỉ vì tự do, mà còn vì niềm tin duy nhất khiến cô vẫn nỗ lực đến tận hôm nay – rằng đâu đó ngoài kia, người em gái thất lạc vẫn còn đang khắc khoải đợi chờ. <i class=\"clr-orange\">Amily</i> không phải chưa nghĩ đến việc tận dụng thế lực của tổ chức để tìm kiếm em gái, cô thậm chí còn nỗ lực vượt trội tất cả người khác để hi vọng tăng thêm chút tiếng nói khi bày tỏ nguyện vọng. Nhưng cô nhanh chóng nhận ra sự viễn vông của ý nghĩ này.<br>Hội ám hoàng không phải là tổ chức từ thiện. Chúng thu nhặt những kẻ sống sót trong chiến tranh, nạn đói, trẻ mồ côi… chỉ để đào tạo và sàng lọc các hạt giống có đủ khả năng sống sót sau vô vàn huấn luyện sinh tử. Tất cả nhắm tới việc tạo ra những sát thủ tinh anh răm rắp tuân lệnh.<br>Trong một môi trường đấu đá đầy tàn khốc như thế, những kẻ ngây thơ hoặc rút ra bài học, hoặc mất mạng. Vết sẹo trên lưng <i class=\"clr-orange\">Amily</i> chính là cái giá phải trả trong đợt huấn luyện đầu tiên – khi cô đứng trước che chắn cho người bạn, một nhát dao đâm đến từ ngay phía sau.<br>Tình bạn còn là thứ xa xỉ, nói gì đến tình thân hão huyền?<br>Từ đấy <i class=\"clr-orange\">Amily</i> dần hiểu rõ đạo lý này. Nguyện vọng cuộc đời chỉ có thể che giấu trong thâm tâm, bên ngoài thì lặng lẽ nỗ lực đấu tranh không ngừng nghỉ. Phong cách thận trọng này hóa ra lại phù hợp định hướng của tổ chức, đặc biệt với thành tích đáng gờm của <i class=\"clr-orange\">Amily</i> khiến cô ngày càng càng được ưu ái hơn.<br>Ngoài ra thái độ căm hận lũ dị tộc của <i class=\"clr-orange\">Amily</i> cũng phần nào giúp cô làm mờ mắt những kẻ giám sát. Riêng phần này thì <i class=\"clr-orange\">Amily</i> không cần phải giả bộ, dù sao thì lũ khiến cô nhà tan cửa nát trở nên mồ côi chính là lũ ác quỷ từ Khe vực thẳm. Thậm chí bè lũ thú tộc tham gia giao chiến, cùng lũ cầm đầu Cung điện ánh sáng ẩn tại hậu trường cũng không thể trốn tránh trách nhiệm.<br>Hội ám hoàng, với chủ nghĩa chủng tộc cực đoan, muốn tiêu diệt tận gốc tất cả những thế lực có thể đe dọa đến sự tồn vong của nhân loại. Do đó lũ trẻ mồ côi tương tự <i class=\"clr-orange\">Amily</i> là những đối tượng thật dễ dàng tẩy não. Thực tế thì lý tưởng của tổ chức và <i class=\"clr-orange\">Amily</i> không hề xung đột, khác biệt duy nhất nằm ở sự quan tâm của cô đối với người em gái thất lạc, điều giúp giữ vững lý trí của bản thân mình.<br>Xin yên tâm, con sẽ tìm ra em gái bằng mọi giá. <i class=\"clr-orange\">Amily</i> đã thề trước mặt cha mẹ mình, giúp họ nhắm mắt xuôi tay kết thúc kiếp lầm than đầy gian khổ.<br>Suốt mười năm qua, bất kể cuộc sống không ánh mặt trời, tay luôn nhuộm máu, chôn dấu tâm tư, <i class=\"clr-orange\">Amily</i> vẫn không bao giờ quên lời thề năm xưa. Nỗi niềm này giống như một hạt giống mỏng manh đầy yếu ớt, thế nhưng <i class=\"clr-orange\">Amily</i> ngày ngày đều tưới vào đấy những nhớ nhung, khắc khoải quan tâm lo lắng cho người em, hi vọng vào ngày đoàn tự. Mỗi lần trở về từ cõi chết sau các cuộc thi huấn luyện, hạt giống này lại ngày càng chắc khỏe hơn, tất cả để chờ đến ngày đâm chồi nẩy lộc.<br>Điều gì phải đến cũng đã đến, ngày lý ra hân hoan khải hoàn đầy chiến thắng đã trở thành địa ngục trần gian, <i class=\"clr-orange\">Amily</i> vận dụng mọi kỹ xảo và võ thuật tích tụ suốt 10 năm để hạ gục mọi trở ngại, phá nát xiềng xích bản thân bấy lâu nay.<br>Tự do, cảm giác cũng không tệ!.",
 		"hero_skin": [
 			{
-				"name": "Nhân Mã Thần Lực",
-				"gold": "13,888",
-				"voucher": "359",
+				"name": "Sát Thủ Lưu Vong",
+				"gold": "18,888",
+				"voucher": "539",
 				"event": "",
-				"wall": "Baldum01",
+				"wall": "Amily01",
 				"disable": "yes",
 				"img": "thumb1.jpg",
-				"video": "Baldum01",
+				"video": "Amily01",
 			},
 			{
-				"name": "Chú Thợ Ống Nước (Bậc A)",
+				"name": "Đặc Cảnh NYPD",
+				"gold": "",
+				"voucher": "249",
+				"event": "",
+				"wall": "Amily02",
+				"disable": "yes",
+				"img": "thumb2.jpg",
+				"video": "Amily02",
+			},
+		]
+	},
+	"ybneth": {
+		"hero_id": "Ybneth",
+		"hero_name": "Y'bneth",
+		"main_info": {
+			"price_gold": "18,888",
+			"price_voucher": "539",
+			"price_text": "",
+			"position": "Đỡ đòn / Đấu sĩ",
+			"special": "Khống chế",
+		},
+		"main_skill": [
+			{
+				"name": "ĐẤT MẸ",
+				"info": "Hồi chiêu: 15 giây<br>Nội tại: Mỗi khi tiến vào bụi cỏ, Y'Bneth nhận được bùa lợi hồi 80 (+15 mỗi cấp) máu và 14 (+2 mỗi cấp) năng lượng mỗi giây, kéo dài trong 5 giây. Hiệu ứng kết thúc ngay khi Y'Bneth tiến vào giao tranh.",
+			},
+			{
+				"name": "DÂY LEO",
+				"info": "Hồi chiêu: 5/4.7/4.4/4.1/3.8/3.5 giây<br>Tiêu hao: 40/45/50/55/60/65 năng lượng<br>Y'Bneth duỗi tay tấn công kẻ địch phía trước gây 270/310/350/390/430/470 + (0.8 công vật lý) sát thương vật lý và làm chậm tốc chạy các nạn nhân trúng chiêu. Mọi chiêu trúng đích 5 lần (tướng tính 2) giúp chiêu được làm mới và cho phép Y'bneth tung Cây Đổ<br>Cây Đổ: Y'Bneth nhận lá chắn tương đương (8% máu tối đa) sát thương và tông theo hướng chỉ định, gây 270/310/350/390/430/470 + (0.8 công vật lý) sát thương vật lý đồng thời hất lui các nạn nhân trúng đích."
+			},
+			{
+				"name": "THIÊN NHIÊN VỖ VỀ",
+				"info": "Hồi chiêu: 9 giây<br>Tiêu hao: 70/75/80/85/90/95 năng lượng<br>Y'Bneth vung tay tấn công các kẻ địch trong vùng hình nón phía trước gây 340/385/430/475/520/565 + (0.85 công vật lý) sát thương vật lý, đồng thời đẩy mục tiêu vào trung tâm; nếu có hai nạn nhân trở lên đồng thời trúng chiêu thì chúng sẽ phải chịu thêm 50% sát thương và bị choáng 1 giây.",
+			},
+			{
+				"name": "HẠT GIỐNG SINH MỆNH",
+				"info": "Hồi chiêu: 40 giây<br>Tiêu hao: 120/135/150 năng lượng<br>Y'bneth rơi vào giấc mộng ngàn thu, tự bao phủ bản thân trong một lớp lá chắn giúp chặn (20% máu tối đa) sát thương, đồng thời tạo ra một vùng đất thần bí khiến tất cả kẻ địch trong tầm ảnh hưởng bị giảm 60% tốc chạy. Suốt thời gian này, Y'bneth miễn nhiễm khống chế và gieo rắc tối đa 20 đợt hạt giống gây 60/110/160 (+ 1% máu tối đa) sát thương vật lý trong vùng chỉ định. Nếu có tướng địch trúng chiêu sẽ giúp bản thân hồi 2% máu. Đặc biệt nạn nhân trúng 8 đợt công kích sẽ bị choáng 1 giây.",
+			}
+		],
+		"skill_up": {
+			"line1": "1,3,5,7,9,11",
+			"line2": "2,6,10,13,14,15",
+			"line3": "4,8,12",
+		},
+		"skill_combo": [
+			{
+				"name": "*Combo đầu game (thay đổi qua lại 2 chiêu)",
+				"info": "2,3,0",
+			},
+			{
+				"name": "*Combo khi có đủ 3 kỹ năng",
+				"info": "2,3,4,2,3,0",
+			},
+			{
+				"name": "*Hoặc tốc biến lên dùng chiêu cuối",
+				"info": "4,2,3,0",
+			},
+		],
+		"skill_note": "<strong class=\"clr-orange\">*Đầu game</strong><br>- Là một tay đấu sĩ kiêm luôn sát thủ, đường Caesar là một chọn lựa tuyệt vời nhất.<br>- Coi bộ các kỹ năng của cô nàng không khó gì máy nhưng làm sao cho hiệu quả nhất mới là quan trọng nhỉ, dùng Tàng đao kích đẩy lính và cấu máu địch.<br>- Liên hoàn cước chiêu này dùng trao đổi chiêu thức rất có lợi, canh rừng lên gank dùng chiêu này khống chế nhẹ.<br>- Có thể nói là mạnh nhưng không đến nổi mỏng, giai đoạn đầu tốt nhất hiên lành, đợi đồng đội lên chơi nhé!!<br><br><strong class=\"clr-orange\">*Giữa và cuối game</strong><br>- Về giữa và cuối game tầm 3 món trang bị cuối trở lên, thả sức mà tung hoành nhé, dame to lắm, vào cô cân hết.<br>- Chiêu cuối Cuồng bạo cước phải chơi nhiều và biết thời gian lúc nào là đến, bật trước khi giao tranh nổ ra 1s, kết hợp tốc biến vào nơi nào có đông tướng địch nhất mà quẩy, nhớ thấy không ổn thì tìm đường lui, không lui được thì kiếm em nào mỏng khô máu kk!!<br>- Đừng lo chiêu cuối có miễn thương đồ khá ổn đấy, phải nói tổng thể Amily mạnh khi ai biết chơi @@!",
+		"skill_special": "TocBien,CapCuu,BocPha",
+		"main_rune": {
+			"rune2": [
+				{
+					"name": "NgocDo22",
+					"info": "Tốc đánh +0.6%<br>Tỷ lệ chí mạng +0.3%<br>Sát thương chí mạng +1.1%",
+				},
+				{
+					"name": "NgocTim21",
+					"info": "Tốc đánh +0.4%<br>Hút máu +0.8%",
+				},
+				{
+					"name": "NgocXanh23",
+					"info": "Máu tối đa +13.5<br>Xuyên giáp +3.8",
+				}
+			],
+			"rune3": [
+				{
+					"name": "NgocDo36",
+					"info": "Công vật lý +2<br>Xuyên giáp +3.6",
+				},
+				{
+					"name": "NgocTim35",
+					"info": "Hút máu +1.6%",
+				},
+				{
+					"name": "NgocXanh310",
+					"info": "Tốc đánh +0.6%<br>Xuyên giáp phép +6.4",
+				}
+			]
+		},
+		"item_build": [
+			{
+				"name": "Đường rồng hỗ trợ",
+				"info": "AoChoangThanRa,GiayKienCuong,ThuongXuyenPha,PhucHopKiem,HuanChuongTroy,KiemMuramasa",
+			},
+			{
+				"name": "Đường Caesar (thay thế)",
+				"info": "AoChoangThanRa,GiayKienCuong,ThuongXuyenPha,AoChoangBangGia,HuanChuongTroy,GiapThongKho",
+			},
+			{
+				"name": "Đường Caesar (bộ này cho hoành tráng)",
+				"info": "AoChoangThanRa,GiayKienCuong,ThuongXuyenPha,PhucHopKiem,ThanhKiem,GiapHoMenh",
+			},
+		],
+		"hero_battle": [
+			{
+				"name": "và đồng bọn",
+				"desc": "là một sát thủ đường đơn hiệu quả, thế nhưng combat phải có thế lực chống lưng, và đây là danh sách chiến hữu của ả,..",
+				"info": [
+					{"hero_id": "alice", "id_page": "Alice"},
+					{"hero_id": "maloch", "id_page": "Maloch"},
+					{"hero_id": "xeniel", "id_page": "Xeniel"},
+					{"hero_id": "ybneth", "id_page": "Ybneth"},
+					{"hero_id": "payna", "id_page": "Payna"},
+					{"hero_id": "teemee", "id_page": "TeeMee"},
+				]
+			},
+			{
+				"name": "và cách khắc chế",
+				"desc": "hơi e thẹn khi gặp một số tay khóa, câm lặng, hiệu ứng các kiểu,..",
+				"info": [
+					{"hero_id": "arum", "id_page": "Arum"},
+					{"hero_id": "baldum", "id_page": "Baldum"},
+					{"hero_id": "chaugnar", "id_page": "Chaugnar"},
+					{"hero_id": "alice", "id_page": "Alice"},
+					{"hero_id": "annette", "id_page": "Annette"},
+				]
+			}
+		],
+		"hero_story": "<i class=\"clr-orange\">Amily</i> là một kẻ phản bội.<br>Tại chặng cuối cuộc thi, cô đã cùng 3 tuyển thủ khác hợp tác đồ sát tất cả giám sát & huấn luyện viên trong phòng. Cả bốn trốn thoát thành công sau đấy, nhưng tất thảy mới chỉ là sự khởi đầu. Để trốn tránh truy sát từ tổ chức, bốn kẻ đào tẩu nhanh chóng tách ra mỗi người một ngả.<br>Lý ra <i class=\"clr-orange\">Amily</i> không nhất thiết phải làm vậy. Cô chỉ cần ngoan ngoãn tuân theo an bài của tổ chức, chiến thắng & đạp lên thi thể của mọi kẻ cạnh tranh trong cuộc thi để trở thành nữ hoàng sát thủ của Hội ám hoàng. Cấp cao tầng của tổ chức thậm chí còn chuẩn bị sẵn cho cô đầy đủ thân phận, quyền lực, tiền tài, và vô vàn thứ hấp dẫn khác.<br>Với một đứa trẻ mồ côi như <i class=\"clr-orange\">Amily</i>, theo lẽ thường thì cuộc sống như thế có gì đáng để đòi hỏi hơn nữa.<br>Nhưng rốt cuộc <i class=\"clr-orange\">Amily</i> vẫn phản bội và bỏ trốn. Lựa chọn này không chỉ vì tự do, mà còn vì niềm tin duy nhất khiến cô vẫn nỗ lực đến tận hôm nay – rằng đâu đó ngoài kia, người em gái thất lạc vẫn còn đang khắc khoải đợi chờ. <i class=\"clr-orange\">Amily</i> không phải chưa nghĩ đến việc tận dụng thế lực của tổ chức để tìm kiếm em gái, cô thậm chí còn nỗ lực vượt trội tất cả người khác để hi vọng tăng thêm chút tiếng nói khi bày tỏ nguyện vọng. Nhưng cô nhanh chóng nhận ra sự viễn vông của ý nghĩ này.<br>Hội ám hoàng không phải là tổ chức từ thiện. Chúng thu nhặt những kẻ sống sót trong chiến tranh, nạn đói, trẻ mồ côi… chỉ để đào tạo và sàng lọc các hạt giống có đủ khả năng sống sót sau vô vàn huấn luyện sinh tử. Tất cả nhắm tới việc tạo ra những sát thủ tinh anh răm rắp tuân lệnh.<br>Trong một môi trường đấu đá đầy tàn khốc như thế, những kẻ ngây thơ hoặc rút ra bài học, hoặc mất mạng. Vết sẹo trên lưng <i class=\"clr-orange\">Amily</i> chính là cái giá phải trả trong đợt huấn luyện đầu tiên – khi cô đứng trước che chắn cho người bạn, một nhát dao đâm đến từ ngay phía sau.<br>Tình bạn còn là thứ xa xỉ, nói gì đến tình thân hão huyền?<br>Từ đấy <i class=\"clr-orange\">Amily</i> dần hiểu rõ đạo lý này. Nguyện vọng cuộc đời chỉ có thể che giấu trong thâm tâm, bên ngoài thì lặng lẽ nỗ lực đấu tranh không ngừng nghỉ. Phong cách thận trọng này hóa ra lại phù hợp định hướng của tổ chức, đặc biệt với thành tích đáng gờm của <i class=\"clr-orange\">Amily</i> khiến cô ngày càng càng được ưu ái hơn.<br>Ngoài ra thái độ căm hận lũ dị tộc của <i class=\"clr-orange\">Amily</i> cũng phần nào giúp cô làm mờ mắt những kẻ giám sát. Riêng phần này thì <i class=\"clr-orange\">Amily</i> không cần phải giả bộ, dù sao thì lũ khiến cô nhà tan cửa nát trở nên mồ côi chính là lũ ác quỷ từ Khe vực thẳm. Thậm chí bè lũ thú tộc tham gia giao chiến, cùng lũ cầm đầu Cung điện ánh sáng ẩn tại hậu trường cũng không thể trốn tránh trách nhiệm.<br>Hội ám hoàng, với chủ nghĩa chủng tộc cực đoan, muốn tiêu diệt tận gốc tất cả những thế lực có thể đe dọa đến sự tồn vong của nhân loại. Do đó lũ trẻ mồ côi tương tự <i class=\"clr-orange\">Amily</i> là những đối tượng thật dễ dàng tẩy não. Thực tế thì lý tưởng của tổ chức và <i class=\"clr-orange\">Amily</i> không hề xung đột, khác biệt duy nhất nằm ở sự quan tâm của cô đối với người em gái thất lạc, điều giúp giữ vững lý trí của bản thân mình.<br>Xin yên tâm, con sẽ tìm ra em gái bằng mọi giá. <i class=\"clr-orange\">Amily</i> đã thề trước mặt cha mẹ mình, giúp họ nhắm mắt xuôi tay kết thúc kiếp lầm than đầy gian khổ.<br>Suốt mười năm qua, bất kể cuộc sống không ánh mặt trời, tay luôn nhuộm máu, chôn dấu tâm tư, <i class=\"clr-orange\">Amily</i> vẫn không bao giờ quên lời thề năm xưa. Nỗi niềm này giống như một hạt giống mỏng manh đầy yếu ớt, thế nhưng <i class=\"clr-orange\">Amily</i> ngày ngày đều tưới vào đấy những nhớ nhung, khắc khoải quan tâm lo lắng cho người em, hi vọng vào ngày đoàn tự. Mỗi lần trở về từ cõi chết sau các cuộc thi huấn luyện, hạt giống này lại ngày càng chắc khỏe hơn, tất cả để chờ đến ngày đâm chồi nẩy lộc.<br>Điều gì phải đến cũng đã đến, ngày lý ra hân hoan khải hoàn đầy chiến thắng đã trở thành địa ngục trần gian, <i class=\"clr-orange\">Amily</i> vận dụng mọi kỹ xảo và võ thuật tích tụ suốt 10 năm để hạ gục mọi trở ngại, phá nát xiềng xích bản thân bấy lâu nay.<br>Tự do, cảm giác cũng không tệ!.",
+		"hero_skin": [
+			{
+				"name": "Đại Thụ Viễn Cổ",
+				"gold": "18,888",
+				"voucher": "539",
+				"event": "",
+				"wall": "Ybneth01",
+				"disable": "yes",
+				"img": "thumb1.jpg",
+				"video": "Ybneth01",
+			},
+			{
+				"name": "Hạt Trưởng Kiểm Lâm",
 				"gold": "",
 				"voucher": "219",
 				"event": "",
-				"wall": "Baldum02",
+				"wall": "Ybneth02",
 				"disable": "yes",
 				"img": "thumb2.jpg",
-				"video": "Baldum02",
+				"video": "Ybneth02",
 			},
 		]
 	},

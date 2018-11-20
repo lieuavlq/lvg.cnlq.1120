@@ -872,7 +872,7 @@ font-style: italic;
 text-decoration: underline;
 }
 .lvg_skills.combo > div .skill[href*="Skill0"] {
-background-size: 98%;
+background-size: 95%;
 }
 
 @media screen and (max-width: 1024px){
