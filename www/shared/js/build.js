@@ -305,6 +305,16 @@ var infoHeros = {
 				"img": "thumb2.jpg",
 				"video": "Thane02",
 			},
+			{
+				"name": "Mật Vụ (Bậc S)",
+				"gold": "",
+				"voucher": "379",
+				"event": "",
+				"wall": "Thane03",
+				"disable": "",
+				"img": "thumb3.jpg",
+				"video": "Thane03",
+			},
 		]
 	},
 	"veera": {
@@ -779,6 +789,16 @@ var infoHeros = {
 				"disable": "",
 				"img": "thumb3.jpg",
 				"video": "Mina03",
+			},
+			{
+				"name": "Kẹo Hay Ghẹo (Halloween)",
+				"gold": "",
+				"voucher": "",
+				"event": "Mở sự kiện",
+				"wall": "Mina04",
+				"disable": "",
+				"img": "thumb4.jpg",
+				"video": "",
 			},
 		]
 	},
@@ -1676,6 +1696,16 @@ var infoHeros = {
 				"disable": "yes",
 				"img": "thumb3.jpg",
 				"video": "Zephys03",
+			},
+			{
+				"name": "Dung Nham (AWC)",
+				"gold": "",
+				"voucher": "429",
+				"event": "",
+				"wall": "Zephys04",
+				"disable": "yes",
+				"img": "thumb4.jpg",
+				"video": "",
 			},
 		]
 	},
@@ -2606,6 +2636,16 @@ var infoHeros = {
 				"img": "thumb2.jpg",
 				"video": "AzzenKa02",
 			},
+			{
+				"name": "Ghẹo Hay Kẹo (Halloween)",
+				"gold": "",
+				"voucher": "349",
+				"event": "",
+				"wall": "AzzenKa03",
+				"disable": "",
+				"img": "thumb3.jpg",
+				"video": "",
+			},
 		]
 	},
 	"alice": {
@@ -2738,6 +2778,16 @@ var infoHeros = {
 				"disable": "",
 				"img": "thumb2.jpg",
 				"video": "Alice02",
+			},
+			{
+				"name": "Bé Gấu Tuyết (Bậc S)",
+				"gold": "",
+				"voucher": "379",
+				"event": "",
+				"wall": "Alice03",
+				"disable": "",
+				"img": "thumb3.jpg",
+				"video": "",
 			},
 		]
 	},
@@ -4523,6 +4573,16 @@ var infoHeros = {
 				"img": "thumb2.jpg",
 				"video": "",
 			},
+			{
+				"name": "Dạ Xoa Vương (Bậc S)",
+				"gold": "",
+				"voucher": "409",
+				"event": "",
+				"wall": "Jinna03",
+				"disable": "",
+				"img": "thumb3.jpg",
+				"video": "",
+			},
 		]
 	},
 	"payna": {
@@ -4963,6 +5023,16 @@ var infoHeros = {
 				"img": "thumb3.jpg",
 				"video": "",
 			},
+			{
+				"name": "Siêu Việt (Bậc SS)",
+				"gold": "",
+				"voucher": "799",
+				"event": "",
+				"wall": "NgoKhong04",
+				"disable": "yes",
+				"img": "thumb4.jpg",
+				"video": "",
+			},
 		]
 	},
 	"kriknak": {
@@ -5256,9 +5326,19 @@ var infoHeros = {
 				"gold": "",
 				"voucher": "",
 				"event": "Mở sự kiện",
-				"wall": "Arthur03",
+				"wall": "Arthur04",
 				"disable": "yes",
 				"img": "thumb4.jpg",
+				"video": "",
+			},
+			{
+				"name": "Siêu Sao Cricket",
+				"gold": "",
+				"voucher": "",
+				"event": "Từ Sổ Sứ Mệnh II",
+				"wall": "Arthur05",
+				"disable": "yes",
+				"img": "thumb5.jpg",
 				"video": "",
 			},
 		]
@@ -5548,6 +5628,16 @@ var infoHeros = {
 				"wall": "Ilumia03",
 				"disable": "",
 				"img": "thumb3.jpg",
+				"video": "",
+			},
+			{
+				"name": "Thiên Nữ Áo Dài (Bậc S)",
+				"gold": "",
+				"voucher": "449",
+				"event": "",
+				"wall": "Ilumia04",
+				"disable": "",
+				"img": "thumb4.jpg",
 				"video": "",
 			},
 		]
@@ -5965,11 +6055,21 @@ var infoHeros = {
 			{
 				"name": "Băng Quyền Quán Quân (Bậc S)",
 				"gold": "",
-				"voucher": "",
-				"event": "Giá 1 viên đá quý",
+				"voucher": "499",
+				"event": "",
 				"wall": "Raz03",
 				"disable": "yes",
 				"img": "thumb3.jpg",
+				"video": "",
+			},
+			{
+				"name": "Chiến Thần Muay Thái (Bậc SS)",
+				"gold": "",
+				"voucher": "",
+				"event": "1 viên đá quý",
+				"wall": "Raz04",
+				"disable": "yes",
+				"img": "thumb4.jpg",
 				"video": "",
 			},
 		]
@@ -6132,6 +6232,16 @@ var infoHeros = {
 				"disable": "yes",
 				"img": "thumb4.jpg",
 				"video": "",
+			},
+			{
+				"name": "Thánh Quang Sứ (Bậc SS)",
+				"gold": "",
+				"voucher": "799",
+				"event": "",
+				"wall": "Lauriel05",
+				"disable": "yes",
+				"img": "thumb5.jpg",
+				"video": "Lauriel05",
 			},
 		]
 	},
@@ -6905,6 +7015,16 @@ var infoHeros = {
 				"img": "thumb4.jpg",
 				"video": "Murad04",
 			},
+			{
+				"name": "Siêu Việt (Bậc SS)",
+				"gold": "",
+				"voucher": "",
+				"event": "Từ Sổ Sứ Mệnh I",
+				"wall": "Murad05",
+				"disable": "yes",
+				"img": "thumb5.jpg",
+				"video": "",
+			},
 		]
 	},
 	"zill": {
@@ -7465,12 +7585,22 @@ var infoHeros = {
 			{
 				"name": "Đại Tướng Nguyệt Tộc (Bậc S)",
 				"gold": "",
-				"voucher": "",
-				"event": "1 viên đá quý",
+				"voucher": "499",
+				"event": "",
 				"wall": "Ryoma03",
 				"disable": "",
 				"img": "thumb3.jpg",
 				"video": "Ryoma03",
+			},
+			{
+				"name": "Thanh Long Bang Chủ (Bậc S)",
+				"gold": "",
+				"voucher": "",
+				"event": "Mở sự kiện",
+				"wall": "Ryoma04",
+				"disable": "",
+				"img": "thumb4.jpg",
+				"video": "",
 			},
 		]
 	},
@@ -7606,6 +7736,16 @@ var infoHeros = {
 				"disable": "",
 				"img": "thumb2.jpg",
 				"video": "",
+			},
+			{
+				"name": "Siêu Sao Bóng Chày (Bậc S)",
+				"gold": "",
+				"voucher": "429",
+				"event": "",
+				"wall": "Astrid03",
+				"disable": "",
+				"img": "thumb3.jpg",
+				"video": "Astrid03",
 			},
 		]
 	},
@@ -7761,6 +7901,16 @@ var infoHeros = {
         "wall": "TelAnnas04",
         "disable": "yes",
         "img": "thumb4.jpg",
+        "video": "",
+      },
+      {
+        "name": "Thánh Nữ Mật Hội",
+        "gold": "",
+        "voucher": "",
+        "event": "Từ Sổ Sứ Mệnh I",
+        "wall": "TelAnnas05",
+        "disable": "yes",
+        "img": "thumb5.jpg",
         "video": "",
       },
 		]
@@ -8318,6 +8468,16 @@ var infoHeros = {
 				"img": "thumb2.jpg",
 				"video": "",
 			},
+			{
+				"name": "Quang Vinh (S8)",
+				"gold": "",
+				"voucher": "",
+				"event": "Thưởng hạng",
+				"wall": "KilGroth03",
+				"disable": "",
+				"img": "thumb3.jpg",
+				"video": "",
+			},
 		]
 	},
 	"moren": {
@@ -8735,6 +8895,16 @@ var infoHeros = {
 				"img": "thumb2.jpg",
 				"video": "Lindis02",
 			},
+			{
+				"name": "Quang Thánh Tiễn (Bậc S)",
+				"gold": "",
+				"voucher": "499",
+				"event": "",
+				"wall": "Lindis03",
+				"disable": "yes",
+				"img": "thumb3.jpg",
+				"video": "",
+			},
 		]
 	},
 	"omen": {
@@ -8871,6 +9041,16 @@ var infoHeros = {
 				"disable": "yes",
 				"img": "thumb2.jpg",
 				"video": "Omen02",
+			},
+			{
+				"name": "Ám Tử Đao (Bậc S)",
+				"gold": "",
+				"voucher": "549",
+				"event": "",
+				"wall": "Omen03",
+				"disable": "yes",
+				"img": "thumb3.jpg",
+				"video": "",
 			},
 		]
 	},
@@ -9167,6 +9347,16 @@ var infoHeros = {
 				"img": "thumb3.jpg",
 				"video": "Liliana03",
 			},
+			{
+				"name": "Nguyệt Mị Ly (Bậc SS)",
+				"gold": "",
+				"voucher": "",
+				"event": "1 viên đá quý",
+				"wall": "Liliana04",
+				"disable": "yes",
+				"img": "thumb4.jpg",
+				"video": "",
+			},
 		]
 	},
 	"max": {
@@ -9444,6 +9634,16 @@ var infoHeros = {
 				"disable": "yes",
 				"img": "thumb1.jpg",
 				"video": "TheFlash01",
+			},
+			{
+				"name": "Tia Chớp Tương Lai (Bậc S)",
+				"gold": "",
+				"voucher": "409",
+				"event": "",
+				"wall": "TheFlash02",
+				"disable": "yes",
+				"img": "thumb2.jpg",
+				"video": "",
 			}
 		]
 	},
