@@ -10596,83 +10596,77 @@ var infoHeros = {
 				"name": "*Combo khi có đủ 3 kỹ năng",
 				"info": "2,3,4,2,3,0",
 			},
-			{
-				"name": "*Hoặc tốc biến lên dùng chiêu cuối",
-				"info": "4,2,3,0",
-			},
 		],
-		"skill_note": "<strong class=\"clr-orange\">*Đầu game</strong><br>- Là một tay đấu sĩ kiêm luôn sát thủ, đường Caesar là một chọn lựa tuyệt vời nhất.<br>- Coi bộ các kỹ năng của cô nàng không khó gì máy nhưng làm sao cho hiệu quả nhất mới là quan trọng nhỉ, dùng Tàng đao kích đẩy lính và cấu máu địch.<br>- Liên hoàn cước chiêu này dùng trao đổi chiêu thức rất có lợi, canh rừng lên gank dùng chiêu này khống chế nhẹ.<br>- Có thể nói là mạnh nhưng không đến nổi mỏng, giai đoạn đầu tốt nhất hiên lành, đợi đồng đội lên chơi nhé!!<br><br><strong class=\"clr-orange\">*Giữa và cuối game</strong><br>- Về giữa và cuối game tầm 3 món trang bị cuối trở lên, thả sức mà tung hoành nhé, dame to lắm, vào cô cân hết.<br>- Chiêu cuối Cuồng bạo cước phải chơi nhiều và biết thời gian lúc nào là đến, bật trước khi giao tranh nổ ra 1s, kết hợp tốc biến vào nơi nào có đông tướng địch nhất mà quẩy, nhớ thấy không ổn thì tìm đường lui, không lui được thì kiếm em nào mỏng khô máu kk!!<br>- Đừng lo chiêu cuối có miễn thương đồ khá ổn đấy, phải nói tổng thể Amily mạnh khi ai biết chơi @@!",
-		"skill_special": "TocBien,CapCuu,BocPha",
+		"skill_note": "<strong class=\"clr-orange\">*Đầu game</strong><br>- Là một tay đấu sĩ kiêm luôn đỡ đòn ưu ái đi đường đơn hoặc chơi vị trí hỗ trợ đều được.<br>- Đầu game tận dụng chiêu thức farm lính nhanh hoặc có thể cấu rỉa kẻ địch đều ổn, nên nhớ chiêu Dây leo trúng đích 5 lần sẽ trở thành Cây đổ có thể đẩy khống chế kẻ địch hoặc dùng tẩu thoát :P<br>- Tận hưởng nội tại hồi máu và năng lượng khi đi qua các bụi cỏ, khỏi phải zìa nhà!! :D<br>- Lợi thế thì có đấy nên đi kiểm tra các mục tiêu Dơi, Rồng, ping rừng lên ăn nhỉ!!<br><br><strong class=\"clr-orange\">*Giữa và cuối game</strong><br>- Về giữa và cuối game khả năng trâu bò là có rồi đó sợ gì hết máu chơi thui!!<br>- Vùng chiêu cuối rất lời, giảm rất nhiều tốc chạy kẻ địch, nên chọn vị trí thích hợp có nhiều kẻ địch.<br>- Nên nhớ hãy tập luyện khả năng di chuyển chiêu cuối cho trúng mục tiêu để hồi máu, và có thể làm choáng luôn, thấy không ổn nên dừng chiêu cuối và lui về nơi an toàn.<br>- Hết máu khỏi lo, tò tò vô bụi :P",
+		"skill_special": "CapCuu,BocPha,TocBien",
 		"main_rune": {
 			"rune2": [
 				{
-					"name": "NgocDo22",
-					"info": "Tốc đánh +0.6%<br>Tỷ lệ chí mạng +0.3%<br>Sát thương chí mạng +1.1%",
+					"name": "NgocDo25",
+					"info": "+1.5 Công vật lý<br>+13.5 Máu",
 				},
 				{
-					"name": "NgocTim21",
-					"info": "Tốc đánh +0.4%<br>Hút máu +0.8%",
+					"name": "NgocTim28",
+					"info": "+13.5 Máu<br>+0.7% Tốc chạy",
 				},
 				{
-					"name": "NgocXanh23",
-					"info": "Máu tối đa +13.5<br>Xuyên giáp +3.8",
+					"name": "NgocXanh21",
+					"info": "+0.4% Tốc đánh<br>+0.5% Giảm hồi chiêu",
 				}
 			],
 			"rune3": [
 				{
-					"name": "NgocDo36",
-					"info": "Công vật lý +2<br>Xuyên giáp +3.6",
+					"name": "NgocDo37",
+					"info": "+1% Tốc đánh<br>+33.7 Máu<br>+2.3 Giáp",
 				},
 				{
-					"name": "NgocTim35",
-					"info": "Hút máu +1.6%",
+					"name": "NgocTim32",
+					"info": "+1% Tốc đánh<br>+1% Tốc chạy",
 				},
 				{
-					"name": "NgocXanh310",
-					"info": "Tốc đánh +0.6%<br>Xuyên giáp phép +6.4",
+					"name": "NgocXanh32",
+					"info": "+1% Giảm hồi chiêu",
 				}
 			]
 		},
 		"item_build": [
 			{
-				"name": "Đường rồng hỗ trợ",
-				"info": "AoChoangThanRa,GiayKienCuong,ThuongXuyenPha,PhucHopKiem,HuanChuongTroy,KiemMuramasa",
+				"name": "Đường đơn hoặc hỗ trợ",
+				"info": "GiayHoVe,KhienHuyenThoai,GiapThongKho,HuanChuongTroy,GiapGaia,HerculeThinhNo",
 			},
 			{
-				"name": "Đường Caesar (thay thế)",
-				"info": "AoChoangThanRa,GiayKienCuong,ThuongXuyenPha,AoChoangBangGia,HuanChuongTroy,GiapThongKho",
+				"name": "Đường đơn hoặc hỗ trợ (thay thế)",
+				"info": "GiayKienCuong,AoChoangThanRa,GiapGaia,KhienHuyenThoai,KhienThatTruyen,GiapHoMenh",
 			},
 			{
-				"name": "Đường Caesar (bộ này cho hoành tráng)",
-				"info": "AoChoangThanRa,GiayKienCuong,ThuongXuyenPha,PhucHopKiem,ThanhKiem,GiapHoMenh",
+				"name": "Đường đơn hoặc hỗ trợ (thử bộ này)",
+				"info": "AoChoangThanRa,GiayHoVe,GiapGaia,KhienHuyenThoai,HuanChuongTroy,GiapThongKho",
 			},
 		],
 		"hero_battle": [
 			{
 				"name": "và đồng bọn",
-				"desc": "là một sát thủ đường đơn hiệu quả, thế nhưng combat phải có thế lực chống lưng, và đây là danh sách chiến hữu của ả,..",
+				"desc": "là một đỡ đòn khá cứng cộng với khá năng tạo hiệu ứng cũng làm cho địch không ít lần phải khó chịu, đều đó tạo lợi thế cho đồng bọn lớn lên và vùng vẫy,..",
 				"info": [
-					{"hero_id": "alice", "id_page": "Alice"},
-					{"hero_id": "maloch", "id_page": "Maloch"},
-					{"hero_id": "xeniel", "id_page": "Xeniel"},
-					{"hero_id": "ybneth", "id_page": "Ybneth"},
-					{"hero_id": "payna", "id_page": "Payna"},
-					{"hero_id": "teemee", "id_page": "TeeMee"},
+					{"hero_id": "violet", "id_page": "Violet"},
+					{"hero_id": "yorn", "id_page": "Yorn"},
+					{"hero_id": "tel_annas", "id_page": "TelAnnas"},
+					{"hero_id": "wisp", "id_page": "Wisp"},
 				]
 			},
 			{
 				"name": "và cách khắc chế",
-				"desc": "hơi e thẹn khi gặp một số tay khóa, câm lặng, hiệu ứng các kiểu,..",
+				"desc": "sống tốt nhờ khả năng hồi máu, thế nên dùng một số tướng có khả năng linh động, bay nhảy các kiểu, dễ dàng thoát khỏi vùng chiêu cuối của Y'bneth.",
 				"info": [
-					{"hero_id": "arum", "id_page": "Arum"},
-					{"hero_id": "baldum", "id_page": "Baldum"},
-					{"hero_id": "chaugnar", "id_page": "Chaugnar"},
-					{"hero_id": "alice", "id_page": "Alice"},
-					{"hero_id": "annette", "id_page": "Annette"},
+					{"hero_id": "liliana", "id_page": "Liliana"},
+					{"hero_id": "lauriel", "id_page": "Lauriel"},
+					{"hero_id": "ngo_khong", "id_page": "NgoKhong"},
+					{"hero_id": "murad", "id_page": "Murad"},
+					{"hero_id": "tulen", "id_page": "Tulen"},
 				]
 			}
 		],
-		"hero_story": "<i class=\"clr-orange\">Amily</i> là một kẻ phản bội.<br>Tại chặng cuối cuộc thi, cô đã cùng 3 tuyển thủ khác hợp tác đồ sát tất cả giám sát & huấn luyện viên trong phòng. Cả bốn trốn thoát thành công sau đấy, nhưng tất thảy mới chỉ là sự khởi đầu. Để trốn tránh truy sát từ tổ chức, bốn kẻ đào tẩu nhanh chóng tách ra mỗi người một ngả.<br>Lý ra <i class=\"clr-orange\">Amily</i> không nhất thiết phải làm vậy. Cô chỉ cần ngoan ngoãn tuân theo an bài của tổ chức, chiến thắng & đạp lên thi thể của mọi kẻ cạnh tranh trong cuộc thi để trở thành nữ hoàng sát thủ của Hội ám hoàng. Cấp cao tầng của tổ chức thậm chí còn chuẩn bị sẵn cho cô đầy đủ thân phận, quyền lực, tiền tài, và vô vàn thứ hấp dẫn khác.<br>Với một đứa trẻ mồ côi như <i class=\"clr-orange\">Amily</i>, theo lẽ thường thì cuộc sống như thế có gì đáng để đòi hỏi hơn nữa.<br>Nhưng rốt cuộc <i class=\"clr-orange\">Amily</i> vẫn phản bội và bỏ trốn. Lựa chọn này không chỉ vì tự do, mà còn vì niềm tin duy nhất khiến cô vẫn nỗ lực đến tận hôm nay – rằng đâu đó ngoài kia, người em gái thất lạc vẫn còn đang khắc khoải đợi chờ. <i class=\"clr-orange\">Amily</i> không phải chưa nghĩ đến việc tận dụng thế lực của tổ chức để tìm kiếm em gái, cô thậm chí còn nỗ lực vượt trội tất cả người khác để hi vọng tăng thêm chút tiếng nói khi bày tỏ nguyện vọng. Nhưng cô nhanh chóng nhận ra sự viễn vông của ý nghĩ này.<br>Hội ám hoàng không phải là tổ chức từ thiện. Chúng thu nhặt những kẻ sống sót trong chiến tranh, nạn đói, trẻ mồ côi… chỉ để đào tạo và sàng lọc các hạt giống có đủ khả năng sống sót sau vô vàn huấn luyện sinh tử. Tất cả nhắm tới việc tạo ra những sát thủ tinh anh răm rắp tuân lệnh.<br>Trong một môi trường đấu đá đầy tàn khốc như thế, những kẻ ngây thơ hoặc rút ra bài học, hoặc mất mạng. Vết sẹo trên lưng <i class=\"clr-orange\">Amily</i> chính là cái giá phải trả trong đợt huấn luyện đầu tiên – khi cô đứng trước che chắn cho người bạn, một nhát dao đâm đến từ ngay phía sau.<br>Tình bạn còn là thứ xa xỉ, nói gì đến tình thân hão huyền?<br>Từ đấy <i class=\"clr-orange\">Amily</i> dần hiểu rõ đạo lý này. Nguyện vọng cuộc đời chỉ có thể che giấu trong thâm tâm, bên ngoài thì lặng lẽ nỗ lực đấu tranh không ngừng nghỉ. Phong cách thận trọng này hóa ra lại phù hợp định hướng của tổ chức, đặc biệt với thành tích đáng gờm của <i class=\"clr-orange\">Amily</i> khiến cô ngày càng càng được ưu ái hơn.<br>Ngoài ra thái độ căm hận lũ dị tộc của <i class=\"clr-orange\">Amily</i> cũng phần nào giúp cô làm mờ mắt những kẻ giám sát. Riêng phần này thì <i class=\"clr-orange\">Amily</i> không cần phải giả bộ, dù sao thì lũ khiến cô nhà tan cửa nát trở nên mồ côi chính là lũ ác quỷ từ Khe vực thẳm. Thậm chí bè lũ thú tộc tham gia giao chiến, cùng lũ cầm đầu Cung điện ánh sáng ẩn tại hậu trường cũng không thể trốn tránh trách nhiệm.<br>Hội ám hoàng, với chủ nghĩa chủng tộc cực đoan, muốn tiêu diệt tận gốc tất cả những thế lực có thể đe dọa đến sự tồn vong của nhân loại. Do đó lũ trẻ mồ côi tương tự <i class=\"clr-orange\">Amily</i> là những đối tượng thật dễ dàng tẩy não. Thực tế thì lý tưởng của tổ chức và <i class=\"clr-orange\">Amily</i> không hề xung đột, khác biệt duy nhất nằm ở sự quan tâm của cô đối với người em gái thất lạc, điều giúp giữ vững lý trí của bản thân mình.<br>Xin yên tâm, con sẽ tìm ra em gái bằng mọi giá. <i class=\"clr-orange\">Amily</i> đã thề trước mặt cha mẹ mình, giúp họ nhắm mắt xuôi tay kết thúc kiếp lầm than đầy gian khổ.<br>Suốt mười năm qua, bất kể cuộc sống không ánh mặt trời, tay luôn nhuộm máu, chôn dấu tâm tư, <i class=\"clr-orange\">Amily</i> vẫn không bao giờ quên lời thề năm xưa. Nỗi niềm này giống như một hạt giống mỏng manh đầy yếu ớt, thế nhưng <i class=\"clr-orange\">Amily</i> ngày ngày đều tưới vào đấy những nhớ nhung, khắc khoải quan tâm lo lắng cho người em, hi vọng vào ngày đoàn tự. Mỗi lần trở về từ cõi chết sau các cuộc thi huấn luyện, hạt giống này lại ngày càng chắc khỏe hơn, tất cả để chờ đến ngày đâm chồi nẩy lộc.<br>Điều gì phải đến cũng đã đến, ngày lý ra hân hoan khải hoàn đầy chiến thắng đã trở thành địa ngục trần gian, <i class=\"clr-orange\">Amily</i> vận dụng mọi kỹ xảo và võ thuật tích tụ suốt 10 năm để hạ gục mọi trở ngại, phá nát xiềng xích bản thân bấy lâu nay.<br>Tự do, cảm giác cũng không tệ!.",
+		"hero_story": "“Thời gian đầy công bằng, nhưng chẳng kém phần tàn nhẫn…”<br>Các Dân-cây của Rừng rậm Elborne là những vệ quân của thiên nhiên. Cũng tương tự như cây cối thông thường, Dân-cây sinh ra từ các mầm non yếu ớt, nhưng dần trưởng thành đến kích cỡ khổng lồ qua hàng trăm năm chống chọi vô số bão tố. Sức sống mãnh liệt đó trao cho họ những cành nhánh vững chãi, hoa lá chắc khỏe, và một bản chất bình hòa. <i class=\"clr-orange\">Y’Bneth</i> lại là một ngoại lệ. Ông tò mò với tất cả mọi điều trên thế gian, và luôn khát khao tìm hiểu, học hỏi nhiều hơn nữa.<br>Bất kể là các tinh linh bay vụt qua, hay những cánh chim tung bay trên bầu trời, hoặc muông thú săn mồi, kể cả lũ cá bơi dưới nước – <i class=\"clr-orange\">Y’Bneth</i> đều muốn kết bạn với tất cả. Ông đã viếng thăm mọi cành cây, sợi rễ trên khắp Rừng rậm Elborn, nhưng thế vẫn chưa đủ. Càng biết thêm thêm từ những người bạn mới, ông càng nhận ra sự “cây mọc đáy giếng” của mình. Rồi một ngày nọ, ông quyết tâm đã đến lúc bứng rễ để vươn xa hơn đến thế giới ngoài kia.<br>Tất cả Dân-cây đều nghĩ chắc ông ngáo cỏ rồi, thậm chí những tinh linh cũng cảm thấy điều này thật dại dột. Bầy chim mang đến tin tức từ phương xa: nhân loại trong công cuộc bành trướng lãnh thổ nhằm thỏa mãn lòng tham của mình đang gây chiến với mãnh thú tại các vùng biên giới. Bè lũ sinh vật hắc ám cũng bắt đầu rục rịch chuyển mình. Tình hình rất chi là tình hình, thế giới bên ngoài rõ ràng chẳng an toàn chút nào. Điều này không khỏi khiến <i class=\"clr-orange\">Y’Bneth</i> lung lay. Liệu ông nên lắng nghe con tim, hay những lời khuyên của bạn bè? Tổ thụ Bình minh, ông quyết định, Ngài là cây duy nhất có thể giúp ông biết được câu trả lời.<br>Tổ thụ Bình minh không chỉ là tạo vật vĩ đại nhất của Đấng sáng thế, mà còn là vùng địa đàng hoàn hảo khi các vị thần trở lại Athanor. Ngài là cội nguồn của mọi sinh mệnh, là phép màu đã phong ấn Khe nứt khỏi mọi thế giới.<br>Đối với <i class=\"clr-orange\">Y’Bneth</i>, viếng thăm Tổ thụ Bình minh cũng như trở về bên mẹ mình. Ngài đã ngủ say hơn mười ngàn năm sau khi dốc hết toàn bộ năng lượng để phong ấn Khe nứt, thế nên tất cả những ai muốn kết nối với Ngài đều phải tìm đến thế giới mộng mơ. May là Dân-cây có lợi thế trong chuyện này – tất cả những gì họ cần làm là cắm rễ xuống sâu thật sâu, và rồi họ sẽ kết nối được với Tổ thụ Bình minh thông qua mạng lưới rễ nguồn thế giới.<br>Sau khi <i class=\"clr-orange\">Y’Bneth</i> giải thích ngọn nguồn gốc rễ câu chuyện, ông được mang vào giấc mơ của Tổ thụ Bình minh, nơi ông trải qua xuân xanh tươi, hạ rạng rỡ, thu heo may, và đông lạnh lẽo, bốn mùa cứ thế trôi qua và tiếp diễn trong một vòng lặp vô tận. Tổ thụ chẳng hề lên tiếng, nhưng những gì ông chứng kiến đã quá đủ để tìm ra câu trả lời hằng khắc khoải: hãy xuôi theo dòng chảy của tự nhiên, và chuyện gì phải đến rồi sẽ đến. <i class=\"clr-orange\">Y’Bneth</i>, nay chí đã quyết, bèn lập tức chuẩn bị cho hành trình cả đời mình. Thay vì cố níu kéo thuyết phục, tất cả cư dân Rừng rậm Elborne quyết định tụ họp tổ chức một buổi đại tiệc tiễn bạn lên đường. Ông còn được tặng quà từ Tổ thụ Bình minh – một nhánh từ chính thân cây thần kỳ này.<br>Xuôi dọc theo dòng sông, <i class=\"clr-orange\">Y’Bneth</i> tiến về hướng đông cho tới khi đến được Đồng bằng Ánh trăng, nơi đang phải gánh chịu sự tàn phá của bè lũ sinh vật hắc ám trỗi dậy từ vực thẳm. Chốn này đã từng là một nơi đầy ắp nhựa sống và hi vọng, nay đang chết dần chết mòn với tốc độ chóng mặt. Chính khoảnh khắc này <i class=\"clr-orange\">Y’Bneth</i> nhận ra mục đích tối hậu của chuyến hành trình. Ông rút ra nhánh cây từ Tổ thụ Bình minh, và dùng nó để nuôi dưỡng một khu rừng mới trên Đồng bằng Ánh trăng, nơi ông đặt cho cái tên Verno, nghĩa là “Vệ nỗ” - một nỗ lực bảo vệ - theo cổ ngữ tộc Elf.<br>Rừng Vệ nỗ không chỉ mang lại sự cân bằng cho thế giới, mà còn đóng vai trò lá chắn chặn tất cả mưa tên đạn lạc & pháp thuật cho vạn vật. Cùng với sự ra đời của Liên minh Afata, Rừng Vệ nỗ nhanh chóng trở thành chuyên khu chống lại các cuộc xâm lược của bè lũ hắc ám. Chuyến hành trình của <i class=\"clr-orange\">Y’Bneth</i> kết thúc tại đây, ông không cần phải tìm đến bất kỳ nơi nào khác, bởi Rừng Vệ nỗ này chính là quê hương thứ hai của ông.<br>Vị trí đầy lợi thế chiến lược của Rừng Vệ nỗ đã biến nơi đây thành điểm dừng chân lý tưởng của vô số nhà du hành, khỏi nói <i class=\"clr-orange\">Y’Bneth</i> thích điều này đến cỡ nào, hằng hà sa số các mẩu chuyện lý thú đang chờ đợi ông. Tại đây, ông cũng đã thực hiện được giấc mơ của đời mình – tìm hiểu thêm về thế giới, và cũng đồng thời hoàn thành sứ mệnh bảo vệ hòa bình trên đất đai – một trọng trách giao phó bởi Tổ thụ Bình minh.<br>“Ta bảo vệ quê nhà và tất cả sinh mệnh tại đấy!”",
 		"hero_skin": [
 			{
 				"name": "Đại Thụ Viễn Cổ",
@@ -10693,6 +10687,412 @@ var infoHeros = {
 				"disable": "yes",
 				"img": "thumb2.jpg",
 				"video": "Ybneth02",
+			},
+		]
+	},
+	"elsu": {
+		"hero_id": "Elsu",
+		"hero_name": "Elsu",
+		"main_info": {
+			"price_gold": "18,888",
+			"price_voucher": "539",
+			"price_text": "",
+			"position": "Xạ thủ / Sát thủ",
+			"special": "Cấu rỉa",
+		},
+		"main_skill": [
+			{
+				"name": "BẮN TỈA",
+				"info": "Hồi chiêu: 5 giây<br>Các đòn đánh thường của Elsu gây 150 + (12.5 mỗi cấp) + (1.0 công vật lý) + (0.8 công vật lý cộng thêm) sát thương vật lý, tuy nhiên sẽ không thể gây chí mạng. Thay vào đó, với mỗi 1% chí mạng Elsu sở hữu, anh sẽ được tăng 3 công vật lý.<br>Nội tại: Khi rời khỏi giao tranh 5 giây và đứng gần địa hình vách núi, Elsu sẽ nguỵ trang trong thời gian ngắn, gia tăng 16% ( +1% mỗi cấp) tốc độ di chuyển và trở nên mờ nhạt đi",
+			},
+			{
+				"name": "ƯNG TRẠM",
+				"info": "Hồi chiêu: 50 giây<br>Tiêu hao: 30 năng lượng<br>Kích hoạt: Elsu cài đặt một thiết bị Ưng trạm tại chỗ giúp cung cấp tầm nhìn trong phạm vi 600 - 1000 khoảng cách (tăng theo cấp tướng). Ưng trạm tồn tại trong 300 giây, có thể tích trữ tối đa 2 cái, và đặt tối đa 3 cái trên bản đồ. Khi đứng trong phạm vi của Ưng trạm, Elsu được tăng thêm sát thương mỗi đòn bắn lên quái rừng (tối đa 250), nhưng sẽ bị vô hiệu hoá khi tướng địch giẫm lên.<br>Nội tại: Đứng tại chỗ mỗi giây giúp Elsu tăng 7/8/9/10/11/12% xuyên giáp (tăng theo cấp tướng), tối đa cộng dồn 5 lần. Nếu Elsu di chuyển sẽ không được làm mới nội tại nữa."
+			},
+			{
+				"name": "VIỄN TRÌNH KÍCH",
+				"info": "Hồi chiêu: 16 giây<br>Tiêu hao: 60/65/70/75/80/85 năng lượng<br>Elsu nhắm bắn gây 1050/1200/1350/1500/1650/1800 + (0.4 công vật lý cộng thêm) sát thương vật lý kèm làm chậm tốc chạy lên tướng đầu tiên trúng phải. Elsu cần ngắm bắn trong 2 giây để gia tăng khoảng cách và độ chính xác.",
+			},
+			{
+				"name": "GIẬT BẮN",
+				"info": "Hồi chiêu: 25/20/15 giây<br>Tiêu hao: 100/110/120 năng lượng<br>Elsu lộn ra phía sau rồi lập tức bắn về phía trước gây 500/700/900 + (0.6 công vật lý) sát thương vật lý và làm chậm 50% tốc chạy của nạn nhân. Khi đáp đất Elsu được tăng 30% tốc chạy trong 2 giây, nhưng nếu tung chiêu hoặc đánh thường sẽ lập tức giải trừ hiệu ứng này.",
+			}
+		],
+		"skill_up": {
+			"line1": "2,6,10,13,14,15",
+			"line2": "1,3,5,7,9,11",
+			"line3": "4,8,12",
+		},
+		"skill_combo": [
+			{
+				"name": "*Combo đầu game",
+				"info": "2,3,3",
+			},
+			{
+				"name": "*Combo khi có đủ 3 kỹ năng (trước đó nhớ kiếm chổ đặt Ưng trạm)",
+				"info": "3,3,4,0",
+			},
+		],
+		"skill_note": "<strong class=\"clr-orange\">*Đầu game</strong><br>- Là một xạ thủ kiêm vai trò sát thủ đều đó đã làm nên thương hiệu cho Elsu, đi săn thôi, đường rồng chơi ổn nhé!!<br>- Đầu game tận dụng Viễn trình kích để cấu máu và đẩy lính, nên nhớ không cần lộ mặt ra lane nhé, núp bắn thui.<br>- Ưng trạm không có sát thương nhưng khá hữu ít, hãy tìm vị trí đặt vừa tăng thêm tầm nhìn và tăng thêm sát thương khi đứng trong vùng của nó, kẻ địch có thể phá khi đạp phải, bụi cỏ là tốt nhất.<br>- Ưu tiên các trang bị xuyên giáp để phát huy hết sức mạnh.<br><br><strong class=\"clr-orange\">*Giữa và cuối game</strong><br>- Về giữa và cuối game, tầm 3 món cuối, lúc sát thương khá là to rồi đó, đi săn thoải mái nào!! ngắm bắn là nghề của chàng :P<br>- Giật bắn khá hay tránh các pha ám sát và đánh úp sát thương khá cao đấy giật chuẩn vào.<br>- Viễn trình kích dành các mục tiêu lớn khá tốt, canh sát thương chuẩn là một cái gì đó khiến các gamer hơn nhau!! cố lên!!",
+		"skill_special": "TocBien,CapCuu",
+		"main_rune": {
+			"rune2": [
+				{
+					"name": "NgocDo26",
+					"info": "Công vật lý +1.5<br>Tốc đánh +0.4%",
+				},
+				{
+					"name": "NgocTim27",
+					"info": "Tốc đánh +0.4%<br>Tỷ lệ chí mạng +0.3%<br>Tốc chạy +0.5%",
+				},
+				{
+					"name": "NgocXanh21",
+					"info": "Tốc đánh +0.4%<br>Giảm hồi chiêu +0.5%",
+				}
+			],
+			"rune3": [
+				{
+					"name": "NgocDo39",
+					"info": "Tỷ lệ chí mạng +1.6%",
+				},
+				{
+					"name": "NgocTim32",
+					"info": "+1% Tốc đánh<br>+1% Tốc chạy",
+				},
+				{
+					"name": "NgocXanh31",
+					"info": "Công vật lý +0.9<br>Xuyên giáp +6.4",
+				}
+			]
+		},
+		"item_build": [
+			{
+				"name": "Đường Rồng",
+				"info": "KiemMuramasa,GiayDuMuc,NanhFenrir,KiemFafnir,LiemDoatMenh,GiapHoMenh",
+			},
+			{
+				"name": "Đường Rồng (thay thế)",
+				"info": "KiemMuramasa,GiayHoVe,NanhFenrir,KiemFafnir,VuotHungTan,GiapHoMenh",
+			},
+			{
+				"name": "Đường Rồng (thử bộ này)",
+				"info": "ThuongXuyenPha,GiayDuMuc,NanhFenrir,PhucHopKiem,KiemFafnir,KiemMuramasa",
+			},
+		],
+		"hero_battle": [
+			{
+				"name": "và đồng bọn",
+				"desc": "là một xạ thủ tầm rất xa vì thế tầm nhìn là đều quan trọng cho anh ta, đồng bọn có thể giúp anh ta làm đều đấy, ngoài ra hiệu ứng, giảm tốc chạy sẽ giúp dễ dàng bắn trúng hơn,..",
+				"info": [
+					{"hero_id": "alice", "id_page": "Alice"},
+					{"hero_id": "max", "id_page": "Max"},
+					{"hero_id": "ilumia", "id_page": "Ilumia"},
+					{"hero_id": "lindis", "id_page": "Lindis"},
+				]
+			},
+			{
+				"name": "và cách khắc chế",
+				"desc": "bắn xa đó là lợi thế và cũng là mục tiêu khiến kẻ địch nhắm tới,..",
+				"info": [
+					{"hero_id": "murad", "id_page": "Murad"},
+					{"hero_id": "maloch", "id_page": "Maloch"},
+					{"hero_id": "ngo_khong", "id_page": "NgoKhong"},
+					{"hero_id": "omen", "id_page": "Omen"},
+					{"hero_id": "max", "id_page": "Max"},
+				]
+			}
+		],
+		"hero_story": "Cạn kiệt khoáng sản, tòa thành Miyada trù phú lẫy lừng năm nào giờ chỉ còn là chiếc bóng của quá khứ,<br>Công nghiệp hóa với quy mô khổng lồ đã từng mang đến Miyada vô số tài phú. Nhưng nguồn tài nguyên dù màu mỡ đến mấy cũng bị khai thác hết, dẫn đến nền công nghiệp lụi tàn, và vô vàn thương nhân cuốn gói ra đi; thứ duy nhất còn ở lại là những đống rác thải công nghiệp đồ sộ. Tránh nặng tìm nhẹ vốn dĩ bản chất của nhân loại, thế nên khi tòa thành ngày càng suy bại cả về kinh tế lẫn hoàn cảnh sống, dân chúng chúng dần dần ra đi tìm một chốn nương thân mới. Dĩ nhiên trong cuộc sống luôn có những cá nhân với những lựa chọn khác biệt, <i class=\"clr-orange\">Elsu</i> chính là một trong số đó với quyết định ngoan cố cắm rễ tại đây.<br>Chôn nhau cắt rốn tại đây khiến <i class=\"clr-orange\">Elsu</i> có tình cảm đặc biệt với chốn này. Không lâu sau khi sinh, cả cha mẹ anh lần lượt từ giã cõi đời trong một trận dịch bệnh. May mắn tòa thành thời ấy vẫn đang phát triển thịnh vượng, thế nên phúc lợi xã hội thừa sức đảm bảo một thời thơ ấu an lành cho <i class=\"clr-orange\">Elsu</i> chốn cô nhi viện. Thế nên từ nhỏ <i class=\"clr-orange\">Elsu</i> đã quyết chí lớn lên sẽ trở thành người bảo vệ nơi này để đền đáp công ơn dưỡng dục.<br>Với thành tích tốt nghiệp xuất sắc cùng thiên phú xạ thủ kinh người, <i class=\"clr-orange\">Elsu</i> nhanh chóng trở thành sĩ quan vệ quân đầy vinh quang. Tuy là lính mới lại kiệm lời, nhưng khi đồng đội cần họng súng ngắm của anh luôn kịp thời xuất hiện cân tất cả mọi kẻ địch, thế nên <i class=\"clr-orange\">Elsu</i> nhanh chóng được lòng các chiến hữu xung quanh. Chỉ trong 3 năm ngắn ngủi, tiểu đội của <i class=\"clr-orange\">Elsu</i> không chỉ xuất sắc hoàn thành tất cả nhiệm vụ, mà còn không ít lần nhận được khen thưởng từ các nghị viên Liên bang.<br>Thế nên khi thành Miyada dần trở nên suy tàn, Liên bang đã hạ lệnh sung quân tiểu đội này chuyển ra tiền tuyến, nơi vô vàn hiểm nguy đầy gian khổ đang đợi chờ. Trong bối cảnh thế lực hắc ám xâm lược lần thứ hai, khi chiến tranh dần tiến đến giai đoạn cuối, Liên bang tự do với tư cách thành viên của Liên quân các nước, sẵn sàng tung tất cả lực lượng cho trận đại chiến.<br>Đây là cuộc chiến vĩ đại nhất trong lịch sử nhân loại! Nơi tất cả lực lượng hội tụ sẵn sàng chung sức đẩy lùi bè lũ hắc ám về lại Khe vực thẳm! Khi lời hiệu triệu vang lên, vinh quang đang vẫy gọi, bầu nhiệt huyết sục sôi, tất cả mọi binh sĩ đồng tâm đáp trả.<br>Ngoại trừ <i class=\"clr-orange\">Elsu</i>.<br>\"Ngươi biết mình đang làm gì không? Nhìn vào huân chương trên ngực mình đi! Vinh quang này đáng bị hoen ố vậy sao?\" Trước những lời trách móc của chiến hữu, <i class=\"clr-orange\">Elsu</i> cố giải thích trong vô vọng: \"Ta đã thề bảo vệ tòa thành này cho đến hơi thở cuối cùng… bất kể nó đã điêu tàn ra sao. Thật có lỗi, ta không thể cùng kề vai sát cánh bên mọi người nơi chiến trường ngoài kia.\"<br>Dẫu chẳng mấy ai thấu hiểu tình cảm đặc biệt này của <i class=\"clr-orange\">Elsu</i> với tòa thành, nhưng anh nguyện gánh tất cả lời lẽ thế gian, dù có bị chê bai hèn nhát, khiếp nhược, đào binh… miễn là anh được ở lại bảo vệ nơi này. Chọn giải nghệ và ở lại, <i class=\"clr-orange\">Elsu</i> lặng người đứng trên tòa thành nhìn các chiến hữu phẫn uất cất bước ra đi.<br>\"Thật ra ngươi không cần làm vậy, tòa thành này đã vô vọng rồi.\" Moren, người sau khi hoàn tất sứ mệnh rèn luyện vũ khí đã chọn quay về cố hương Miyada, cất tiếng khuyên nhủ.<br>\"Vậy còn ông, vì sao lại trở về đây?\" <i class=\"clr-orange\">Elsu</i> hỏi lại.<br>\"Hừ, thanh niên như ngươi so gì với ta lão già này!\" Moren phất tay cất bước vào ánh hoàng hôn.<br>\"Mỗi người đều có lý do của bản thân mình.\" <i class=\"clr-orange\">Elsu</i> thầm nói trong lòng, dõi mắt theo những hình ảnh nhạt nhòa của những chiến hữu lần cuối.<br>Nhưng nếu có ngày họ gặp trắc trở, ta sẵn sàng từ bỏ tất cả để bảo vệ họ!",
+		"hero_skin": [
+			{
+				"name": "Đôi Cánh Tự Do",
+				"gold": "18,888",
+				"voucher": "539",
+				"event": "",
+				"wall": "Elsu01",
+				"disable": "yes",
+				"img": "thumb1.jpg",
+				"video": "Elsu01",
+			},
+			{
+				"name": "Mafia",
+				"gold": "",
+				"voucher": "219",
+				"event": "",
+				"wall": "Elsu02",
+				"disable": "yes",
+				"img": "thumb2.jpg",
+				"video": "Elsu02",
+			},
+		]
+	},
+	"richter": {
+		"hero_id": "Richter",
+		"hero_name": "Richter",
+		"main_info": {
+			"price_gold": "",
+			"price_voucher": "",
+			"price_text": "Nhận từ sổ Sứ Mệnh chương II",
+			"position": "Đấu sĩ / Sát thủ",
+			"special": "Tiền đạo",
+		},
+		"main_skill": [
+			{
+				"name": "THANH GƯƠM BIẾN ẢO",
+				"info": "Nội tại: Ở các môi trường khác nhau hơn 1.5 giây sẽ giúp cơ thể thích nghi và cường hoá bản thân. Mỗi lần chuyển trạng thái sẽ giúp Richter tăng tốc trong thoáng chốc.<br>Bụi cỏ: Tăng 15% (+3% mỗi cấp) tốc đánh<br>Dưới sông: Tăng 15% tốc chạy<br>Trên đường: Tăng 10% miễn thương.",
+			},
+			{
+				"name": "CHẶT & CHÉM",
+				"info": "Hồi chiêu: 9 giây<br>Tiêu hao: 0 nội năng<br>Richter lướt về phía trước gây 60/75/90/105/120/135 (+0.40 công vật lý) sát thương vật lý, đồng thời gây hiệu ứng tuỳ theo màu gươm hiện có<br>Gươm xanh: tăng tầm lướt và gây làm chậm 60%<br>Gươm đỏ: Hất tung<br>Chưa hết, Richter vung gươm chém tiếp gây 150/180/210/240/270/300 (+0.80 công vật lý) sát thương vật lý, rồi biến đòn đánh kế tiếp gây 25/50/75/100/125/150 (+1.0 công vật lý) sát thương phép<br>Nếu chiêu thức trúng kẻ địch sẽ được hồi lại ngay lập tức. Hiệu ứng này chỉ xảy ra mỗi 4 giây một lần."
+			},
+			{
+				"name": "CÔNG THỦ TOÀN DIỆN",
+				"info": "Hồi chiêu: 16 giây<br>Tiêu hao: 0 nội năng<br>Richter huơ gươm phòng thủ giúp bản thân miễn nhiễm mọi trạng thái khống chế và sát thương trong 0.75 giây (có thể di chuyển bình thường).<br>Vừa hết thời gian, Richter lập tức tấn công gây 200/250/300/350/400/450 (+1.20 công vật lý) sát thương vật lý. Tích trữ tối đa 2 cộng dồn<br>Nếu Richter đang có Gươm vàng và chặn thành công một hiệu ứng khống chế thì hắn sẽ gây choáng mục tiêu 1 giây.",
+			},
+			{
+				"name": "VÙNG DIỆT QUỶ",
+				"info": "Hồi chiêu: 40/35/30 giây<br>Tiêu hao: 0 nội năng<br>Richter tung chiêu, khắc dấu ấn diệt quỷ lên kẻ địch lân cận, đồng thời tạo ra một vùng gây 36/58/80 (+0.1 công vật lý) sát thương chuẩn và làm chậm mỗi 0.5 giây trong 5 giây. Các nạn nhân trúng dấu ấn nếu chịu 5 đợt sát thương từ chiêu thức này sẽ nhận 300/500/700 (+1.0 công vật lý) sát thương chuẩn, đồng thời bị câm lặng 1 giây.",
+			}
+		],
+		"skill_up": {
+			"line1": "1,3,5,7,9,11",
+			"line2": "2,6,10,13,14,15",
+			"line3": "4,8,12",
+		},
+		"skill_combo": [
+			{
+				"name": "*Combo đầu game",
+				"info": "3,2,0",
+			},
+			{
+				"name": "*Combo khi có đủ 3 kỹ năng (chú ý đổi vị trí, đất, nước, bụi cỏ)",
+				"info": "3,2,4,0,2,0",
+			},
+			{
+				"name": "*Hoặc như này",
+				"info": "3,4,0,2,0,2,0",
+			},
+		],
+		"skill_note": "<strong class=\"clr-orange\">*Đầu game</strong><br>- Richter khá lạnh lùng và cô độc vì thế đường đơn hợp zới anh ta hơn!!<br>- Đầu game tùy lane bạn là ai nên lựa chọn vị trí dùng Chặt và chém cấu rỉa hợp lý, chiêu này hơi khó muốn như ý phải dựa vào địa hình hiện tại vì thế đồi hỏi bạn phải tập luyện nhiều để có thể ứng biến.<br>- Khô máu khỏi lo vì có Công thủ toàn diện miễn nhiễm mọi trạng thái khống chế hoành tráng chưa nào.<br>- Tuy nhiên không nên hổ báo, hãy tìm kiếm lợi thế bằng cách ăn chim, và kiểm soát các mục tiêu như Dơi, hoặc tranh thủ giúp mid dọn lính khi đi gank.<br><br><strong class=\"clr-orange\">*Giữa và cuối game</strong><br>- Về giữa và cuối game, khả năng bộc phá của Richter là một đều gì đó táo bạo, tận dụng chiêu cuối quẩy càng đông càng lợi, có sát thương chuẩn đấy nhé.<br>- Về Vùng diệt quỷ rất lợi khi đông đảo kẻ địch với các dấu ấn tích lũy sẽ mang cho Richter kha khá sát thương.<br>- Cuộc vui nào cũng tàng, canh thời gian nếu có thể thì dứt điểm hoặc rút lui về vùng an toàn.",
+		"skill_special": "TocBien,TrungTri",
+		"main_rune": {
+			"rune2": [
+				{
+					"name": "NgocDo26",
+					"info": "Công vật lý +1.5<br>Tốc đánh +0.4%",
+				},
+				{
+					"name": "NgocTim24",
+					"info": "Máu tối đa +36<br>Giáp +1.6",
+				},
+				{
+					"name": "NgocXanh23",
+					"info": "Máu tối đa +13.5<br>Xuyên giáp +3.8",
+				}
+			],
+			"rune3": [
+				{
+					"name": "NgocDo36",
+					"info": "Công vật lý +2<br>Xuyên giáp +3.6",
+				},
+				{
+					"name": "NgocTim32",
+					"info": "+1% Tốc đánh<br>+1% Tốc chạy",
+				},
+				{
+					"name": "NgocXanh31",
+					"info": "Công vật lý +0.9<br>Xuyên giáp +6.4",
+				}
+			]
+		},
+		"item_build": [
+			{
+				"name": "Đường Caesar",
+				"info": "AoChoangThanRa,GiayHoVe,ThuongXuyenPha,PhucHopKiem,NanhFenrir,GiapHoMenh",
+			},
+			{
+				"name": "Đường Caesar (thay thế)",
+				"info": "AoChoangThanRa,GiayKienCuong,ThuongLonginus,AoChoangBangGia,HuanChuongTroy,KiemMuramasa",
+			},
+			{
+				"name": "Đường Caesar (thử bộ này)",
+				"info": "ThuongXuyenPha,GiayKienCuong,PhucHopKiem,NanhFenrir,KiemMuramasa,LiemDoatMenh",
+			},
+		],
+		"hero_battle": [
+			{
+				"name": "và đồng bọn",
+				"desc": "sở hữu dame to, đánh nhiều mục tiêu càng lợi lộc, việc giữ địch để anh ta xã sát thương, cứ để đồng bọn lo,..",
+				"info": [
+					{"hero_id": "alice", "id_page": "Alice"},
+					{"hero_id": "xeniel", "id_page": "Xeniel"},
+					{"hero_id": "payna", "id_page": "Payna"},
+					{"hero_id": "ybneth", "id_page": "Ybneth"},
+					{"hero_id": "maloch", "id_page": "Maloch"},
+					{"hero_id": "cresht", "id_page": "Cresht"},
+				]
+			},
+			{
+				"name": "và cách khắc chế",
+				"desc": "có sát thương to, tập trung đông là một lợi thế, vì điều này nên các thánh nhân bên dưới được cử đến phá, kk..",
+				"info": [
+					{"hero_id": "annette", "id_page": "Annette"},
+					{"hero_id": "arum", "id_page": "Arum"},
+					{"hero_id": "omen", "id_page": "Omen"},
+					{"hero_id": "roxie", "id_page": "Roxie"},
+				]
+			}
+		],
+		"hero_story": "\"Chú ơi, Chú đã nhìn thấy ma quỷ chưa? Loại quỷ xịn, có ý thức và biết nói ý.\"<br>“Ừm...tất nhiên là ta từng thấy rồi”<br>“Oa! Thật luôn? Vậy chúng trông thế nào?”<br>\"Hừm ... ta không thấy rõ. Ta trúng một đòn của nó nên bất tỉnh. Lúc thức dậy thì cuộc chiến đã kết thúc.\"<br>“Thảo nào mọi người đều gọi chú là <i class=\"clr-orange\">Richter</i> chém gió, công nhận tài chém gió của chú khiếp thật!\"<br>\"Chém gió? Đó không phải là chém gió ......\" <i class=\"clr-orange\">Richter</i> lẩm bẩm, nhặt chiếc túi da đựng rượu lúa mạch lên làm một hớp, vị chua chát của rượu xộc lên như muốn hàn gắn trái tim có đôi chút mất mát của anh.<br><i class=\"clr-orange\">Richter</i> đang nói sự thật.<br>Mang trong mình dòng máu của các Pháp sư ma thuật đen, <i class=\"clr-orange\">Richter</i> cùng các đồng đội sở hữu sức mạnh phi thường và khả năng bất tử, đã chiến đấu với vô vàn quỷ dữ suốt 800 năm.<br>Đó là thời kỳ huy hoàng nhất của Thợ săn quỷ. Trong nhiều khu vực quỷ dữ hoành hành, danh tiếng của họ trong dân chúng còn lấn át các Lãnh chúa địa phương. Nhưng với Cuộc chiến Thanh trừng và sự sụp đổ của Pháp sư Ma thuật đen, địa vị của họ giảm dần. Mặc cho thời gian sát cánh cùng quân đội tới tiền tuyến miền Nam khốc liệt đã nhuộm đỏ áo choàng các Thợ Săn một màu máu, chứng minh họ là kẻ thù của thế lực Hắc Ám, danh dự đã hoen ố của họ vẫn không thể phục hồi.<br>Kể từ đó, không ai ca ngợi giá trị và sự vĩ đại của Thợ săn quỷ, và cũng không ai quan tâm đến sự hy sinh và cống hiến của họ nữa. Đội quân săn quỷ chiến tích lẫy lừng của quá khứ dần bị thế giới lãng quên trong đống đổ nát của cuộc chiến tranh thành Nam.<br><i class=\"clr-orange\">Richter</i> là một trong số ít thợ săn sống đến cuối cuộc chiến. Sau khi được Hội đồng Ma thuật xem xét và thẩm định , anh ta có thể trở lại xã hội loài người. Hàng trăm năm chinh chiến trong quân ngũ và tên gọi của hàng trăm đồng đội đã hy sinh thực sự là động lực đằng sau sự tồn tại của <i class=\"clr-orange\">Richter</i>: miễn là anh ta vẫn còn sống, Thế giới còn chưa thể quên hết mọi thứ họ đã làm.<br>\"Hồi ức, đó là thứ gì còn say hơn rượu!\" <i class=\"clr-orange\">Richter</i>, người đã trở về từ chỗ của các vị thần giờ lắc lắc túi rượu không còn là mấy, thứ anh trân quý vô cùng. Vẫn còn một khoảng cách ngắn đến điểm cấp rượu tiếp theo và anh ta phải tính toán mức sử dụng hàng ngày, nếu không đêm tiếp theo sẽ thật ảm đạm. Anh thực lòng mong ước rằng những thứ bẩn thỉu ẩn náu trong đêm sẽ nhanh chóng ra tay, để anh có thể hoàn thành chuyến “đi săn” này càng sớm càng tốt.<br>Thân phận hiện tại của <i class=\"clr-orange\">Richter</i> là một người áp tải hàng thuê miễn phí. Bảy ngày trước, <i class=\"clr-orange\">Richter</i> đã cải trang thành một người áp tải hàng thuê bị thất lạc đồng đội và gia nhập thành công vào Đội áp tải hàng cho các Thương nhân. Đó là đoàn vận tải hàng đang bị các Sinh vật Hắc ám để mắt tới gần đây -  Những xe hàng cần tới sức kéo của tám con gia súc mới có thể dịch chuyển được, trên đó chất đầy Đá ma thuật được các Thương nhân kia mua từ miền đất Gebi tận trời Tây, cũng là món ăn thèm muốn nhất của lũ Sinh vật Hắc ám. Nhóm lính đánh thuê ban đầu không chào đón anh chàng đi lạc này. Nhưng sau khi <i class=\"clr-orange\">Richter</i> bỏ ra một túi Bạc, họ đã sẵn sàng chấp nhận người đồng hành mới này. Trong con mắt của lính đánh thuê, tiền vàng tiền bạc là những người bạn tốt nhất. Vì vậy, khi <i class=\"clr-orange\">Richter</i> xung phong nhận canh ca đêm, người trưởng nhóm còn lịch sự từ chối  và còn dặn dò <i class=\"clr-orange\">Richter</i> nên nghỉ đêm cho tốt: \"Trong con đường vận chuyển buôn bán này, không ai dám chạm vào hàng hóa chúng ta bảo hộ đâu.\"<br>\"Nhưng đối tượng mà ta lo lắng không phải nhân loại!\" <i class=\"clr-orange\">Richter</i> dở khóc dở cười, thò tay móc ra một túi bạc nữa. Anh thì thầm nói với người nhóm trưởng “ý đồ trong sáng\" của mình: \"Dù sao, nửa đêm làm một giấc cũng chẳng ai hay biết, xong ngày hôm sau lại vẫn có thể đường hoàng ngủ bù trên nóc xe hàng, giảm được bao nhiêu vất vả của cả chuyến đi\".<br>Như vậy, <i class=\"clr-orange\">Richter</i> đã giành công việc \"quý giá\" này, nhưng trưởng nhóm còn trang bị cho anh một \"trợ thủ\" - chính là thằng nhóc Luen vừa nãy còn nhổ nước miếng vào người <i class=\"clr-orange\">Richter</i>.  Trong suy nghĩ của trưởng nhóm, <i class=\"clr-orange\">Richter</i> dù sao vẫn là ma mới, chưa rõ ý đồ và nguồn gốc nên cần một người trông chừng anh ta đề phòng bất trắc. <i class=\"clr-orange\">Richter</i> không quan tâm, vì toàn bộ sự tập trung của anh ta hướng cả vào màn đêm dần buông xuống.<br>“Xem ra, sự kiên nhẫn của các ngươi có lẽ đã hết rồi nhỉ?” <i class=\"clr-orange\">Richter</i> nhìn đống lửa và lẩm bẩm với chính mình. Có vẻ như để đáp lại lời nói của <i class=\"clr-orange\">Richter</i>, một âm thanh rên rỉ theo làn gió bay tới, và không khí gần trại đột nhiên lạnh hẳn đi. <i class=\"clr-orange\">Richter</i> biết rằng con mồi đang chờ đợi từ lâu của anh sắp chui vào bẫy.<br>Những thay đổi đột ngột này đánh thức những áp tải hàng đang say giấc. Mặc dù nhận thức về thế lực hắc ám của họ thấp hơn nhiều so với <i class=\"clr-orange\">Richter</i>, nhưng nhiều năm làm nghề áp tải hàng thuê đã rèn cho họ bản năng khi sự nguy hiểm đến gần. Khi đã vũ trang đầy đủ bước ra khỏi trại, họ khó có thể tin vào mắt mình: <i class=\"clr-orange\">Richter</i>, kẻ chém gió chuyên nghiệp, đang cầm một thanh kiếm đối đầu với một nhóm sinh vật hắc ám đầy khủng bố. Anh chàng này vẫn giữ được thái độ bình tĩnh tự tin khiến họ tưởng mình còn đang mơ.<br>“Mặc dù hàng trăm năm đã trôi qua, mặc dù đã bị thế giới quên lãng, nhưng là một Thợ săn Quỷ, ta chưa bao giờ quên vinh quang và sứ mệnh đằng sau tên gọi này.”<br><i class=\"clr-orange\">Richter</i> nhìn đám quái vật trước mặt anh, lẩm bẩm với chính mình. \"Ta tin rằng các ngươi cũng chưa bao giờ quên cái chết và nỗi sợ hãi mà cái tên gọi này mang lại. Nếu trót quên, thì ta cũng không ngại nhắc lại với các ngươi lần nữa.\"<br>Sau đó, <i class=\"clr-orange\">Richter</i> rút kiếm ra. Ánh kiếm giống như những ngón tay của Nữ thần ánh sáng, xuyên thủng bóng tối của màn đêm đang bao phủ.<br>\"Nơi nào có bóng tối, nơi đó là chiến trường của ta!\"",
+		"hero_skin": [
+			{
+				"name": "Lưỡi Gươm Diệt Quỷ",
+				"gold": "",
+				"voucher": "",
+				"event": "Quà từ sổ Sứ Mệnh II",
+				"wall": "Richter01",
+				"disable": "yes",
+				"img": "thumb1.jpg",
+				"video": "Richter01",
+			},
+			{
+				"name": "Bá Tước",
+				"gold": "",
+				"voucher": "279",
+				"event": "",
+				"wall": "Richter02",
+				"disable": "yes",
+				"img": "thumb2.jpg",
+				"video": "Richter02",
+			},
+		]
+	},
+	"wiro": {
+		"hero_id": "Wiro",
+		"hero_name": "Wiro Sableng",
+		"main_info": {
+			"price_gold": "??",
+			"price_voucher": "539",
+			"price_text": "",
+			"position": "Đỡ đòn / Đấu sĩ",
+			"special": "Khống chế / Tiền vệ",
+		},
+		"main_skill": [
+			{
+				"name": "DẤU ẤN 212",
+				"info": "Hồi chiêu: 90 giây<br>Nội tại: Wiro cường hoá 60 (+ 5 mỗi cấp) cả giáp vật lý lẫn giáp phép (vô hiệu hoá khi chiêu đang hồi).<br>Khi Wiro nhận sát thương chí tử, anh không chết mà được hồi 60% máu. Đổi lại, trong 4.5 giây Wiro sẽ miễn nhiễm khống chế, nhưng không thể hành động và bị giảm 25% cả hai loại giáp.<br>Đồng thời, sẽ có 3 dấu ấn xung quanh anh, đồng đội giẫm lên sẽ giúp Wiro và tướng đó hồi 10% máu. Nếu 3 dấu ấn đều được kích hoạt, hoặc qua 4.5 giây, Wiro sẽ gầm lên gây 150 + (1.0 công vật lý) sát thương phép, và làm chậm tốc chạy của kẻ địch. Bản thân Wiro nhận 50% tốc đánh và 30% tốc chạy trong 5 giây kế.",
+			},
+			{
+				"name": "RÌU CHIẾN LỰC",
+				"info": "Hồi chiêu: 9/8.4/7.8/7.2/6.6/6 giây<br>Tiêu hao: 60/65/70/75/80/85 năng lượng<br>Wiro làm mới lại đòn đánh, cường hoá ba đòn đánh kế tiếp. Mỗi đòn sẽ gây thêm 100/130/160/190/220/250 (+0.2 công vật lý) sát thương vật lý. Riêng đòn thứ ba sẽ hất tung kẻ địch trong 0.75 giây."
+			},
+			{
+				"name": "GĂNG CHIẾN LỰC",
+				"info": "Hồi chiêu: 10/9.6/9.2/8.8/8.4/8 giây<br>Tiêu hao: 80/85/90/95/100/105 năng lượng<br>Wiro ủi kẻ địch về phía chỉ định, gây 100/130/160/190/220/250 (+0.4 công vật lý) sát thương vật lý. Nếu kẻ địch bị đẩy vào tường sẽ nhận thêm 50% sát thương từ chiêu thức. Chiêu thức này sẽ gây 250/325/400/475/550/625 (+1.0 công vật lý) sát thương vật lý lên trụ kẻ địch.",
+			},
+			{
+				"name": "THẦN LỰC 212",
+				"info": "Hồi chiêu: 45/40/35 giây<br>Tiêu hao: 120/135/150 năng lượng<br>Wiro vận sức tung rìu gây 300/375/450 (+1.5 công vật lý) sát thương vật lý kèm 1 giây hất tung lên kẻ địch xung quanh. Tụ lực càng lâu, phạm vi ảnh hưởng và sát thương càng lớn, tối đa 1000/1250/1500 (+1.5 công vật lý) sát thương vật lý. Mỗi nạn nhân rơi xuống sẽ gây 50% sát thương chiêu thức lên kẻ địch lân cận (nạn nhân rơi không chịu thêm sát thương này). Wiro có thể di chuyển khi tung chiêu, và hồi chiêu sẽ giảm đi 80% nếu huỷ chiêu.<br>Nội tại: Khi Wiro tung chiêu hoặc cường hoá đánh thường sẽ tạo lốc xoáy xung quanh bản thân trong 3 giây, gây 38/42/46 (+0.25 công vật lý) sát thương phép mỗi giây lên mọi kẻ địch, kể cả công trình.",
+			}
+		],
+		"skill_up": {
+			"line1": "1,3,5,7,9,11",
+			"line2": "2,6,10,13,14,15",
+			"line3": "4,8,12",
+		},
+		"skill_combo": [
+			{
+				"name": "*Combo đầu game",
+				"info": "3,2,0",
+			},
+			{
+				"name": "*Combo khi có đủ 3 kỹ năng",
+				"info": "3,2,0,0,0,4,2,3",
+			},
+		],
+		"skill_note": "<strong class=\"clr-orange\">*Đầu game</strong><br>- Wiro là một đấu sĩ tự do vì thế anh ta rất hợp đi đường Caesar.<br>- Đầu game tận dụng bộ combo Găng chiến lực + Rìu chiến lực gây áp đảo đối thủ, đồng thời đẩy lính tạo lợi thế.<br>- Tranh thủ ăn chim, dơi, hoặc cướp bùa đỏ nếu có thể kk :P, không ép à!!<br>- Cứ khô máu đi Nội tại Dấu ấn 212 có khả năng hồi sinh, ngại gì vết bẩn, quẩy tung nốc!!<br>- Nói thế thôi hãy tập luyện bộ kỹ năng và di chuyển hợp lý vào, sức mạnh thật sự của Wiro còn ở phía sau cơ!!.<br><br><strong class=\"clr-orange\">*Giữa và cuối game</strong><br>- Về giữa và cuối game, độ chừng 3 4 món cuối, lại quẩy không chừa ai cả, combo hai chiêu đầu đã mệt mỗi rồi đừng nói đến chiêu cuối nha!!<br>- Khi kẻ địch sợ hải bỏ chạy là lúc Thần lực 212 được gọi ra, vùng chiêu cuối khá rộng khi nổ kèm hất tung, mạnh quá ai chơi!! :P<br>- Vì Nội tại có đến 90 giây hồi, nên để dành cho các pha combat tổng chủ chốt, cứ khô máu rồi lại hồi sinh, kèm theo em TeeMee, cộng giáp Hồi sinh ôi thôi, hồi sinh mãi, đánh chán kk!!",
+		"skill_special": "TocBien,BocPha",
+		"main_rune": {
+			"rune2": [
+				{
+					"name": "NgocDo25",
+					"info": "+1.5 Công vật lý<br>+13.5 Máu",
+				},
+				{
+					"name": "NgocTim28",
+					"info": "+13.5 Máu<br>+0.7% Tốc chạy",
+				},
+				{
+					"name": "NgocXanh23",
+					"info": "Máu tối đa +13.5<br>Xuyên giáp +3.8",
+				}
+			],
+			"rune3": [
+				{
+					"name": "NgocDo36",
+					"info": "Công vật lý +2<br>Xuyên giáp +3.6",
+				},
+				{
+					"name": "NgocTim32",
+					"info": "+1% Tốc đánh<br>+1% Tốc chạy",
+				},
+				{
+					"name": "NgocXanh31",
+					"info": "Công vật lý +0.9<br>Xuyên giáp +6.4",
+				}
+			]
+		},
+		"item_build": [
+			{
+				"name": "Đường Caesar",
+				"info": "AoChoangThanRa,GiayHoVe,ThuongLonginus,PhucHopKiem,NanhFenrir,GiapHoMenh",
+			},
+			{
+				"name": "Đường Caesar (thay thế)",
+				"info": "AoChoangThanRa,GiayKienCuong,ThuongLonginus,AoChoangBangGia,KiemMuramasa,GiapHoMenh",
+			},
+			{
+				"name": "Đường Caesar (thử bộ này)",
+				"info": "AoChoangThanRa,GiayHoVe,GiapGaia,KhienHuyenThoai,KiemMuramasa,GiapHoMenh",
+			},
+		],
+		"hero_battle": [
+			{
+				"name": "và đồng bọn",
+				"desc": "sở hữu chiêu cuối bá mà không chấp vá, việc làm chậm tốc chạy hoặc giữ chân kẻ địch quả là một điều gì đó có lợi cho Wiro,..",
+				"info": [
+					{"hero_id": "payna", "id_page": "Payna"},
+					{"hero_id": "cresht", "id_page": "Cresht"},
+					{"hero_id": "alice", "id_page": "Alice"},
+					{"hero_id": "ybneth", "id_page": "Ybneth"},
+					{"hero_id": "baldum", "id_page": "Baldum"},
+					{"hero_id": "teemee", "id_page": "TeeMee"},
+				]
+			},
+			{
+				"name": "và cách khắc chế",
+				"desc": "là một quái vật trong giao tranh tổng, vì thế hãy cách ly anh ta ngay và luôn,..",
+				"info": [
+					{"hero_id": "alice", "id_page": "Alice"},
+					{"hero_id": "arum", "id_page": "Arum"},
+					{"hero_id": "annette", "id_page": "Annette"},
+					{"hero_id": "roxie", "id_page": "Roxie"},
+					{"hero_id": "omen", "id_page": "Omen"},
+					{"hero_id": "cresht", "id_page": "Cresht"},
+				]
+			}
+		],
+		"hero_story": "Người trong giang hồ, ngại gì va chạm?<br><i class=\"clr-orange\">Wiro</i> là một chàng điên hiệp nổi tiếng. Có người thích hắn vì cá tính thẳng thắng và phóng khoáng, có người lại chán ghét sự điên điên khùng khùng của hắn. Nhưng <i class=\"clr-orange\">Wiro</i> chẳng bận tâm, người ngoài đánh giá thì liên quan gì - Hắn cứ là chính mình, hưởng thụ cuộc sống và mạo hiểm khám phá thế thôi. Vùng đất mới mẻ này có quá nhiều thứ đang chờ đợi, từ những kẻ địch hắc ám đến vô số nơi để phiêu lưu tìm hiểu.<br>Chẳng có mấy kẻ thật sự không đội trời chung với <i class=\"clr-orange\">Wiro</i>, kể cả những tay tài phiệt thâu tóm quân sự. Dù với cá tính của <i class=\"clr-orange\">Wiro</i>, không trực thì cũng gián tiếp, một ngày nào đó họ sẽ phải đối đầu với nhau. Nhưng chẳng sao, bởi giữa họ và dạng người ưa thích tiếu ngạo giang hồ không chút đam mê quyền lực hay tiền tài như <i class=\"clr-orange\">Wiro</i> vốn không tồn tại mâu thuẫn về lợi ích.<br><i class=\"clr-orange\">Wiro</i> tự do tự tại trải qua vô số cuộc phiêu lưu mạo hiểm, và cũng từng đấy sự tích hào hùng về hắn được lưu truyền. Quả thật đối với chàng <i class=\"clr-orange\">Wiro</i> hài hước và hữu dũng vô số mưu, thiên hạ không thể không gật đầu tấm tắc khen, nhưng cũng đồi thời lắc đầu tự hỏi cớ gì hắn lại cứ lao đầu vào những chốn hiểm nguy?<br>Có người giải thích ấy là do <i class=\"clr-orange\">Wiro</i> vốn không sợ trời không sợ đất, nhưng dĩ nhiên sự thật thì khác xa. Hóa ra bên trong <i class=\"clr-orange\">Wiro</i> ẩn chứa những hai linh hồn. Khi hiểm họa thời không tan vỡ càng ngày càng cận kề, <i class=\"clr-orange\">Wiro</i> của thế giới khác đã cảm nhận được <i class=\"clr-orange\">Wiro</i> của thế giới này đang gặp nguy hiểm, thế là hắn cất công tìm đến tận chốn này để tìm được chính mình.<br>Vốn cùng tu luyện dòng năng lượng 212, ngay khoảnh khắc cả hai chạm mặt, linh hồn của họ đã cộng hưởng. <i class=\"clr-orange\">Wiro</i> của thế giới này cố gắng giải quyết hiểm họa thời không, <i class=\"clr-orange\">Wiro</i> của thế giới bên ngoài cố bảo vệ quê hương khỏi tai ương khủng khiếp. Cả hai cần một sức mạnh phi thường hơn để ngăn chặn tất thảy.<br>Thế là với sức mạnh của năng lượng 212, cả hai <i class=\"clr-orange\">Wiro</i> đã dung hợp thể xác lại làm một. Tuy nhiên do cơ thể chẳng cách nào chứa nổi hai linh hồn cùng lúc, thế là họ chuyển dời linh hồn còn lại vào chiếc rìu 212 thần kỳ, thứ duy nhất đủ hùng mạnh để chứa đựng thứ linh hồn phi thường này. Và đến khi <i class=\"clr-orange\">Wiro</i> gặp nguy hiểm, phần hồn trong chiếc rìu sẽ thức tỉnh để hỗ trợ nhau. Dĩ nhiên với cả thế gian thì <i class=\"clr-orange\">Wiro</i> vẫn là <i class=\"clr-orange\">Wiro</i> mà thôi.<br>Ấy thế cho nên câu cửa miệng của <i class=\"clr-orange\">Wiro</i> thật ra rất thâm thúy.<br>Tiêu diệt được ta thì ta vẫn còn sống!",
+		"hero_skin": [
+			{
+				"name": "Cuồng Chiến Rìu",
+				"gold": "",
+				"voucher": "539",
+				"event": "",
+				"wall": "Wiro01",
+				"disable": "yes",
+				"img": "thumb1.jpg",
+				"video": "Wiro01",
 			},
 		]
 	},

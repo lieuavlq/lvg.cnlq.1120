@@ -1,5 +1,6 @@
 $('document').ready(function(){
   var body = $('body');
+  var storage = window.localStorage;
   var imgShared = 'shared/img/';
   var i,j;
   var argsSlider = {infinite: false, speed: 300, slidesToShow: 1, variableWidth: true, arrows: true,};
@@ -9,13 +10,13 @@ $('document').ready(function(){
   var hostLink = 'http://lvgames.net/lienquan/';
   var wallPath = hostLink + 'wall/?champ=';
   var videoPath = hostLink + 'video/?champ=';
-  var marketLink = 'http://market.android.com/details?id=com.lvgaming.lqm';
   var mailContact = 'lienquan.lvgames@gmail.com';
   var fbContact = 'https://www.facebook.com/LVGamesDotNet';
   var fbName = '@LVGamesDotNet';
   var commonLang = string_common_vn;
   var heroObj = infoHeros;
   var getVideoId = common_object['all_video'];
+  var marketLink = storage.getItem('market_url');
 
   body.append('<div id="wrap-review"><div class="holder"><div class="inner"><div class="content"><p>' + commonLang['review_info'] + '</p><p class="al-center">&#9734;&#9734;&#9734;&#9734;&#9734;</p><p><a href="' + marketLink + '" rel="external" class="ui-btn btn-sys btn-review">' + commonLang['review'] + '</a><a href="#" class="ui-btn btn-close">' + commonLang['next_time'] + '</a></p></div></div></div></div>');
 
@@ -301,7 +302,6 @@ $('document').ready(function(){
   var idWrapreview = $('#wrap-review');
   var btnReview = $('#wrap-review .btn-review');
   var btnReviewclose = $('#wrap-review .btn-close');
-  var storage = window.localStorage;
   if (storage.getItem("infiniteScrollEnabled3") === null) {
       setTimeout(function(){
         idWrapreview.addClass('active');
