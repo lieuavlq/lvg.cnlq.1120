@@ -220,7 +220,7 @@ border-color: transparent;
 color: transparent;
 font-size: 0;
 background: transparent url(../img/common/ico_prev.png) no-repeat left 30%;
-background-size: 24px;
+background-size: 34px;
 outline: none;
 box-shadow: none;
 }
@@ -1089,4 +1089,8 @@ width: 84%;
 .filter-wrap .col:last-child {
 width: 16%;
 }
+}
+
+.shop_active {
+  display: none;
 }

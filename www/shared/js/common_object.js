@@ -75,7 +75,8 @@ var common_object = {
         {"id": "ybneth", "id_page": "Ybneth", "name": "Y'bneth", "position": "tank warrior",},
         {"id": "elsu", "id_page": "Elsu", "name": "Elsu", "position": "marksman assassin",},
         {"id": "richter", "id_page": "Richter", "name": "Richter", "position": "warrior assassin",},
-        {"id": "wiro", "id_page": "Wiro", "name": "Wiro", "position": "tank warrior new",},
+        {"id": "wiro", "id_page": "Wiro", "name": "Wiro", "position": "tank warrior",},
+        {"id": "quillen", "id_page": "Quillen", "name": "Quillen", "position": "assassin new",},
     ],
     "all_item": [
         {"id": "AoChoangBangGia", "name": "Áo choàng băng giá", "info": "Giá: 1970<br>+10% Giảm hồi chiêu<br>+200 Giáp<br>+800 Máu<br>Sức mạnh nguyên tố: Sau khi tung chiêu sẽ khiến đòn đánh kế gây thêm 150 sát thương vật lý (mỗi cấp tăng thêm 20) kèm 30% làm chậm , 3s hồi."},
